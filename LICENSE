@@ -1,0 +1,14 @@
+Unser Anteil an diesem Bestand — Zusammenstellung, plan_id, Gemeindezuordnung,
+Kennzeichen (stufe, dokument, festsetzungen, rechtsstand_angenommen),
+Abdeckung und Dokumentation — steht unter
+
+    Creative Commons Namensnennung 4.0 International (CC BY 4.0)
+    https://creativecommons.org/licenses/by/4.0/legalcode.de
+
+Namensnennung: „Minonexus GmbH, bauleitplan-geltungsbereiche-deutschland“
+
+Die Geometrien stehen unter der Lizenz ihrer Quelle (Feld `lizenz`); die
+Quellenvermerke stehen gesammelt in QUELLEN.md und quellen.json.
+
+Das Abgleichskript (abgleich/) steht unter der MIT-Lizenz, siehe
+abgleich/LICENSE.

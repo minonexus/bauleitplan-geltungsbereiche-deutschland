@@ -84,9 +84,11 @@ je Land stehen in [`manifest.json`](manifest.json).
 1. Das Land in der Liste unten suchen und die Datei anklicken, z. B. `hh.gpkg.zip` für Hamburg.
 2. Die ZIP-Datei entpacken.
 3. Das GeoPackage in QGIS ziehen oder über *Layer → Layer hinzufügen → Vektorlayer* öffnen.
-   QGIS lädt alle drei Layer. Nur `BP_Plan` hat Inhalt; `BP_BaugebietsTeilFlaeche` und
-   `BP_UeberbaubareGrundstuecksFlaeche` sind leer und grau gestrichelt angelegt. Sie lassen
-   sich entfernen, oder man wählt beim Öffnen nur `BP_Plan`.
+   QGIS lädt alle drei Layer. Nur `BP_Plan` hat Inhalt. `BP_BaugebietsTeilFlaeche` und
+   `BP_UeberbaubareGrundstuecksFlaeche` sind in dieser Ausgabe **absichtlich leer**: Sie
+   sind für Planinhalte angelegt, die wir hier nicht veröffentlichen (siehe [Daten](#daten)).
+   Damit sie nicht nach Daten aussehen, sind sie grau gestrichelt gestylt. Sie lassen sich
+   entfernen, oder man wählt beim Öffnen nur `BP_Plan`.
 
 Ein Stil ist in der Datei: Umringe nach `stufe` eingefärbt, ab 1:10.000 mit `plan_id`
 beschriftet. Die Farbe sagt, **in welcher Form die Verwaltung den Plan bereitstellt** — nichts
@@ -139,12 +141,15 @@ XLeitstelle. Sie ist eine dokumentierte Abbildung darauf
 | Layer | Inhalt |
 |---|---|
 | `BP_Plan` | eine Fläche je Plan: der Geltungsbereich (`raeumlicherGeltungsbereich`) |
-| `BP_BaugebietsTeilFlaeche` | angelegt, **ohne Zeilen** — Baugebiete sind Planinhalt |
-| `BP_UeberbaubareGrundstuecksFlaeche` | angelegt, ohne Zeilen — Baufenster ebenso |
+| `BP_BaugebietsTeilFlaeche` | angelegt, **ohne Zeilen**. Im Austausch mit Partnern: die Baugebiete eines Plans mit Art der Nutzung, GRZ, GFZ, Zahl der Vollgeschosse, Bauweise, Dachform und Höhen |
+| `BP_UeberbaubareGrundstuecksFlaeche` | angelegt, ohne Zeilen. Im Austausch: die Baufenster, also die überbaubaren Grundstücksflächen |
 
-Die beiden leeren Layer stehen in der Datei, weil wir dasselbe Schema im
-Austausch mit Partnern nutzen; dort sind sie befüllt. Wer beide Fassungen
-kennt, braucht nur ein Schema.
+**Warum leere Layer?** Sie zeigen, was es zu einem Plan geben kann, und halten
+das Schema gleich: Partner bekommen dieselbe Datei mit befüllten Layern, soweit
+die Lizenz der Quelle es erlaubt. Wer die öffentliche Fassung kennt, kennt damit
+auch das Austauschformat. Leer heißt hier **nicht veröffentlicht**, nicht „nicht
+vorhanden“. Ob wir zu einem Plan Festsetzungen führen, steht in `BP_Plan` in der
+Spalte `festsetzungen`.
 
 ### `BP_Plan`: befüllte Spalten
 

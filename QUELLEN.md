@@ -8,7 +8,7 @@ Für alle Quellen gilt: **Die Daten wurden geändert** — Sachdaten entfernt, d
 
 | Schlüssel | Bereitsteller | Lizenz | Pläne |
 |---|---|---|---:|
-| `code:BB` | Brandenburg | keine-angabe | 7.883 |
+| `code:BB` | Brandenburg | keine-angabe | 7.886 |
 | `land:BB_DIPLANUNG` | Gemeinden in Brandenburg (DiPlanung) | keine-angabe | 5 |
 
 ## BE
@@ -24,6 +24,7 @@ Für alle Quellen gilt: **Die Daten wurden geändert** — Sachdaten entfernt, d
 | `code:BW` | Baden-Württemberg | keine-angabe | 29.079 |
 | `stadt:STUTTGART` | Stadt Stuttgart, Amt für Stadtplanung und Wohnen (CC BY 4.0) | [cc-by-4.0](https://creativecommons.org/licenses/by/4.0/deed.de) | 3.308 |
 | `kommone:107` | Stadt Aalen (über Komm.ONE) | keine-angabe | 753 |
+| `stadt:KARLSRUHE` | Stadt Karlsruhe, Liegenschaftsamt | amtliches-werk — Quelle eingeschränkt: `genehmigung` | 677 |
 | `stadt:FREIBURG` | Datengrundlage: Stadt Freiburg, www.freiburg.de (dl-de/by-2-0) | [dl-de/by-2-0](https://www.govdata.de/dl-de/by-2-0) | 667 |
 | `kommone:789` | Stadt Heilbronn (über Komm.ONE) | keine-angabe | 659 |
 | `adapter:mannheim` | © Stadt Mannheim | keine-angabe | 631 |
@@ -73,7 +74,7 @@ Für alle Quellen gilt: **Die Daten wurden geändert** — Sachdaten entfernt, d
 | `kommone:462` | Stadt Kraichtal (über Komm.ONE) | keine-angabe | 168 |
 | `kommone:24` | Stadt Besigheim (über Komm.ONE) | keine-angabe | 167 |
 | `kommone:297` | Stadt Ostfildern (über Komm.ONE) | keine-angabe | 166 |
-| `kommone:30` | Gemeinde Oberstenfeld (über Komm.ONE) | keine-angabe | 165 |
+| `kommone:30` | Gemeinde Oberstenfeld (über Komm.ONE) | keine-angabe | 166 |
 | `kommone:27` | Stadt Asperg (über Komm.ONE) | keine-angabe | 163 |
 | `kommone:96` | Gemeinde Bretzfeld (über Komm.ONE) | keine-angabe | 163 |
 | `kommone:679` | Stadt Möckmühl (über Komm.ONE) | keine-angabe | 162 |
@@ -85,8 +86,8 @@ Für alle Quellen gilt: **Die Daten wurden geändert** — Sachdaten entfernt, d
 | `kommone:174` | Stadt Sindelfingen (über Komm.ONE) | keine-angabe | 153 |
 | `kommone:580` | Gemeinde Benningen am Neckar (über Komm.ONE) | keine-angabe | 152 |
 | `kommone:187` | Stadt Bopfingen (über Komm.ONE) | keine-angabe | 151 |
+| `kommone:105` | Stadt Gerlingen (über Komm.ONE) | keine-angabe | 150 |
 | `kommone:335` | Gemeinde Efringen-Kirchen (über Komm.ONE) | keine-angabe | 150 |
-| `kommone:105` | Stadt Gerlingen (über Komm.ONE) | keine-angabe | 149 |
 | `kommone:556` | Stadt Meßstetten (über Komm.ONE) | keine-angabe | 147 |
 | `kommone:772` | Gemeinde Schwieberdingen (über Komm.ONE) | keine-angabe | 147 |
 | `kommone:636` | Stadt Weingarten (über Komm.ONE) | keine-angabe | 146 |
@@ -117,20 +118,20 @@ Für alle Quellen gilt: **Die Daten wurden geändert** — Sachdaten entfernt, d
 | `kommone:609` | Stadt Oberndorf am Neckar (über Komm.ONE) | keine-angabe | 117 |
 | `kommone:473` | Stadt Tuttlingen (über Komm.ONE) | keine-angabe | 116 |
 | `kommone:356` | Stadt Güglingen (über Komm.ONE) | keine-angabe | 115 |
+| `kommone:71` | Gemeinde Pleidelsheim (über Komm.ONE) | keine-angabe | 115 |
 | `kommone:156` | Gemeinde Essingen (über Komm.ONE) | keine-angabe | 114 |
 | `kommone:374` | Gemeinde Weingarten (Baden) (über Komm.ONE) | keine-angabe | 114 |
 | `kommone:581` | Stadt Wiesloch (über Komm.ONE) | keine-angabe | 114 |
-| `kommone:71` | Gemeinde Pleidelsheim (über Komm.ONE) | keine-angabe | 114 |
 | `kommone:137` | Gemeinde Löchgau (über Komm.ONE) | keine-angabe | 113 |
 | `kommone:117` | Gemeinde Illerkirchberg (über Komm.ONE) | keine-angabe | 112 |
 | `kommone:126` | Gemeinde Untergruppenbach (über Komm.ONE) | keine-angabe | 112 |
 | `kommone:474` | Stadt Gundelsheim (über Komm.ONE) | keine-angabe | 112 |
 | `kommone:23` | Stadt Bönnigheim (über Komm.ONE) | keine-angabe | 111 |
 | `kommone:432` | Stadt Mosbach (über Komm.ONE) | keine-angabe | 111 |
+| `kommone:8` | Gemeinde Murr (über Komm.ONE) | keine-angabe | 111 |
 | `kommone:133` | Gemeinde Sersheim (über Komm.ONE) | keine-angabe | 110 |
 | `kommone:26` | Gemeinde Erdmannhausen (über Komm.ONE) | keine-angabe | 110 |
 | `kommone:386` | Stadt Rheinfelden (Baden) (über Komm.ONE) | keine-angabe | 110 |
-| `kommone:8` | Gemeinde Murr (über Komm.ONE) | keine-angabe | 110 |
 | `kommone:125` | Gemeinde Erlenbach (über Komm.ONE) | keine-angabe | 109 |
 | `kommone:246` | Stadt Heubach (über Komm.ONE) | keine-angabe | 109 |
 | `kommone:264` | Gemeinde Eggenstein-Leopoldshafen (über Komm.ONE) | keine-angabe | 109 |
@@ -401,7 +402,6 @@ Für alle Quellen gilt: **Die Daten wurden geändert** — Sachdaten entfernt, d
 | `kommone:771` | Gemeinde Simmozheim (über Komm.ONE) | keine-angabe | 26 |
 | `kommone:159` | Stadt Meersburg (über Komm.ONE) | keine-angabe | 25 |
 | `kommone:165` | Gemeinde Bingen / Hohenzollern (über Komm.ONE) | keine-angabe | 25 |
-| `kommone:445` | Gemeinde Stetten am kalten Markt (über Komm.ONE) | keine-angabe | 25 |
 | `kommone:511` | Gemeinde Oftersheim (über Komm.ONE) | keine-angabe | 25 |
 | `kommone:547` | Gemeinde Obernheim (über Komm.ONE) | keine-angabe | 25 |
 | `kommone:601` | Gemeinde Schönbrunn (über Komm.ONE) | keine-angabe | 25 |
@@ -409,6 +409,7 @@ Für alle Quellen gilt: **Die Daten wurden geändert** — Sachdaten entfernt, d
 | `kommone:638` | Stadt Schönau (über Komm.ONE) | keine-angabe | 25 |
 | `kommone:144` | Gemeinde Aldingen (über Komm.ONE) | keine-angabe | 24 |
 | `kommone:157` | Gemeinde Heiligenberg (über Komm.ONE) | keine-angabe | 24 |
+| `kommone:445` | Gemeinde Stetten am kalten Markt (über Komm.ONE) | keine-angabe | 24 |
 | `kommone:654` | Stadt Trossingen (über Komm.ONE) | keine-angabe | 24 |
 | `kommone:280` | Gemeinde Neufra (über Komm.ONE) | keine-angabe | 23 |
 | `kommone:286` | Gemeinde Mönchweiler (über Komm.ONE) | keine-angabe | 23 |
@@ -514,6 +515,7 @@ Für alle Quellen gilt: **Die Daten wurden geändert** — Sachdaten entfernt, d
 | `kommone:596` | Gemeinde Fischingen (über Komm.ONE) | keine-angabe | 8 |
 | `kommone:656` | Gemeinde Rheinmünster (über Komm.ONE) | keine-angabe | 8 |
 | `kommone:225` | Gemeinde Fleischwangen (über Komm.ONE) | keine-angabe | 7 |
+| `kommone:269` | Gemeinde Achstetten (über Komm.ONE) | keine-angabe | 7 |
 | `kommone:308` | Gemeinde Waldbronn (über Komm.ONE) | keine-angabe | 7 |
 | `kommone:340` | Gemeinde Schönenberg (über Komm.ONE) | keine-angabe | 7 |
 | `kommone:574` | Gemeinde Hasel (über Komm.ONE) | keine-angabe | 7 |
@@ -528,7 +530,6 @@ Für alle Quellen gilt: **Die Daten wurden geändert** — Sachdaten entfernt, d
 | `kommone:693` | Gemeinde Altheim (Alb) (über Komm.ONE) | keine-angabe | 6 |
 | `kommone:694` | Gemeinde Asselfingen (über Komm.ONE) | keine-angabe | 6 |
 | `kommone:110` | Gemeinde Steinmauern (über Komm.ONE) | keine-angabe | 5 |
-| `kommone:269` | Gemeinde Achstetten (über Komm.ONE) | keine-angabe | 5 |
 | `kommone:334` | Stadt Hockenheim (über Komm.ONE) | keine-angabe | 5 |
 | `kommone:423` | Gemeinde Pfaffenweiler (über Komm.ONE) | keine-angabe | 5 |
 | `kommone:538` | Stadt Mahlberg (über Komm.ONE) | keine-angabe | 5 |
@@ -570,48 +571,49 @@ Für alle Quellen gilt: **Die Daten wurden geändert** — Sachdaten entfernt, d
 | Schlüssel | Bereitsteller | Lizenz | Pläne |
 |---|---|---|---:|
 | `land:BY_RIWA_SAMMELEBENE` | Landratsämter und Gemeinden in Bayern (über RIWA GIS) | keine-angabe | 19.041 |
-| `code:BY_DIPLANUNG` | DiPlanung Bayern | [cc-by-nd-4.0](https://creativecommons.org/licenses/by-nd/4.0/deed.de) — **keine Bearbeitung** | 17.119 |
-| `land:BY_RIWA_TRAUNSTEIN_LK` | Landratsamt Traunstein (über RIWA GIS) | keine-angabe | 6.493 |
-| `land:BY_RIWA_ROSENHEIM_LK` | Landratsamt Rosenheim (über RIWA GIS) | keine-angabe | 4.879 |
+| `code:BY_DIPLANUNG` | DiPlanung Bayern | [cc-by-nd-4.0](https://creativecommons.org/licenses/by-nd/4.0/deed.de) — **keine Bearbeitung** | 19.015 |
+| `land:BY_RIWA_TRAUNSTEIN_LK` | Landratsamt Traunstein (über RIWA GIS) | keine-angabe | 6.498 |
+| `land:BY_RIWA_ROSENHEIM_LK` | Landratsamt Rosenheim (über RIWA GIS) | keine-angabe | 4.906 |
 | `land:BY_RIWA_MUENCHEN_LK` | Landratsamt München (über RIWA GIS) | keine-angabe | 3.430 |
-| `land:BY_RIWA_WEILHEIM_LK` | Landratsamt Weilheim-Schongau (über RIWA GIS) | keine-angabe | 3.087 |
-| `land:BY_RIWA_MIESBACH_LK` | Landratsamt Miesbach (über RIWA GIS) | keine-angabe | 2.922 |
-| `land:BY_STARNBERG` | (c) GeoLIS Landratsamt Starnberg (CC BY 4.0) | [cc-by-4.0](https://creativecommons.org/licenses/by/4.0/deed.de) | 2.461 |
+| `land:BY_RIWA_MIESBACH_LK` | Landratsamt Miesbach (über RIWA GIS) | keine-angabe | 2.809 |
+| `land:BY_RIWA_WEILHEIM_LK` | Landratsamt Weilheim-Schongau (über RIWA GIS) | keine-angabe | 2.733 |
+| `land:BY_STARNBERG` | (c) GeoLIS Landratsamt Starnberg (CC BY 4.0) | [cc-by-4.0](https://creativecommons.org/licenses/by/4.0/deed.de) | 2.462 |
 | `land:BY_RIWA_ERDING_LK` | Landratsamt Erding (über RIWA GIS) | keine-angabe | 2.442 |
-| `land:BY_RIWA_UNTERALLGAEU_LK` | Landratsamt Unterallgäu (über RIWA GIS) | keine-angabe | 2.192 |
+| `land:BY_RIWA_UNTERALLGAEU_LK` | Landratsamt Unterallgäu (über RIWA GIS) | keine-angabe | 2.195 |
 | `land:BY_RIWA_MUEHLDORF_LK` | Landratsamt Mühldorf a. Inn (über RIWA GIS) | keine-angabe | 2.154 |
 | `adapter:muenchen` | Landeshauptstadt München, Kommunalreferat – GeodatenService (dl-de/by-2-0) | [dl-de/by-2-0](https://www.govdata.de/dl-de/by-2-0) | 1.985 |
-| `land:BY_RIWA_OSTALLGAEU_LK` | Landratsamt Ostallgäu (über RIWA GIS) | keine-angabe | 1.921 |
-| `land:BY_RIWA_ALTOETTING_LK` | Landratsamt Altötting (über RIWA GIS) | keine-angabe | 1.886 |
-| `land:BY_RIWA_ANSBACH_LK` | Landratsamt Ansbach (über RIWA GIS) | keine-angabe | 1.842 |
+| `land:BY_RIWA_ALTOETTING_LK` | Landratsamt Altötting (über RIWA GIS) | keine-angabe | 1.923 |
+| `land:BY_RIWA_OSTALLGAEU_LK` | Landratsamt Ostallgäu (über RIWA GIS) | keine-angabe | 1.858 |
+| `land:BY_RIWA_ANSBACH_LK` | Landratsamt Ansbach (über RIWA GIS) | keine-angabe | 1.841 |
 | `land:BY_RIWA_EBERSBERG_LK` | Landratsamt Ebersberg (über RIWA GIS) | keine-angabe | 1.745 |
 | `reg:135` | Cham | keine-angabe | 1.688 |
 | `land:BY_RIWA_AICHACH_LK` | Landratsamt Aichach-Friedberg (über RIWA GIS) | keine-angabe | 1.680 |
 | `land:BY_SCHWANDORF` | Landratsamt Schwandorf | keine-angabe | 1.517 |
-| `land:BY_RIWA_MAINSPESSART_LK` | Landratsamt Main-Spessart (über RIWA GIS) | keine-angabe | 1.408 |
+| `land:BY_RIWA_OBERALLGAEU_LK` | Landratsamt Oberallgäu (über RIWA GIS) | keine-angabe | 1.473 |
+| `land:BY_RIWA_MAINSPESSART_LK` | Landratsamt Main-Spessart (über RIWA GIS) | keine-angabe | 1.413 |
+| `land:BY_RIWA_ROTTAL_LK` | Landratsamt Rottal-Inn (über RIWA GIS) | keine-angabe | 1.254 |
 | `reg:2` | Regensburg | keine-angabe | 1.240 |
-| `land:BY_RIWA_ROTTAL_LK` | Landratsamt Rottal-Inn (über RIWA GIS) | keine-angabe | 1.128 |
-| `land:BY_RIWA_GARMISCH_LK` | Landratsamt Garmisch-Partenkirchen (über RIWA GIS) | keine-angabe | 1.126 |
+| `land:BY_RIWA_GARMISCH_LK` | Landratsamt Garmisch-Partenkirchen (über RIWA GIS) | keine-angabe | 1.172 |
+| `land:BY_RIWA_TOELZ_LK` | Landratsamt Bad Tölz-Wolfratshausen (über RIWA GIS) | keine-angabe | 1.059 |
 | `land:BY_RIWA_WUNSIEDEL_LK` | Landratsamt Wunsiedel i. Fichtelgebirge (über RIWA GIS) | keine-angabe | 1.055 |
-| `land:BY_RIWA_TOELZ_LK` | Landratsamt Bad Tölz-Wolfratshausen (über RIWA GIS) | keine-angabe | 969 |
-| `land:BY_RIWA_OBERALLGAEU_LK` | Landratsamt Oberallgäu (über RIWA GIS) | keine-angabe | 910 |
-| `land:BY_RIWA_FUERTH_LK` | Landratsamt Fürth (über RIWA GIS) | keine-angabe | 844 |
+| `land:BY_RIWA_FUERTH_LK` | Landratsamt Fürth (über RIWA GIS) | keine-angabe | 848 |
 | `land:BY_RIWA_KULMBACH_LK` | Landratsamt Kulmbach (über RIWA GIS) | keine-angabe | 795 |
-| `reg:6` | Amberg-Sulzbach | keine-angabe | 778 |
+| `reg:6` | Amberg-Sulzbach | keine-angabe | 782 |
 | `stadt:PASSAU` | Stadt Passau | keine-angabe | 667 |
 | `stadt:NUERNBERG` | © Stadt Nürnberg | keine-angabe | 607 |
 | `land:BY_RIWA_KRONACH_LK` | Landratsamt Kronach (über RIWA GIS) | keine-angabe | 580 |
 | `reg:120` | Hof | keine-angabe | 538 |
+| `land:BY_RIWA_LINDAU_LK` | Landratsamt Lindau (Bodensee) (über RIWA GIS) | keine-angabe | 517 |
 | `land:BY_RIWA_LICHTENFELS_LK` | Landratsamt Lichtenfels (über RIWA GIS) | keine-angabe | 500 |
-| `land:BY_RIWA_HOF_LK` | Landratsamt Hof (über RIWA GIS) | keine-angabe | 481 |
+| `land:BY_RIWA_HOF_LK` | Landratsamt Hof (über RIWA GIS) | keine-angabe | 482 |
 | `land:BY_RIWA_ANSBACH_GD` | Stadt Ansbach (über RIWA GIS) | keine-angabe | 438 |
 | `land:BY_RIWA_INGOLSTADT_GD` | Stadt Ingolstadt (über RIWA GIS) | keine-angabe | 435 |
-| `land:BY_RIWA_LINDAU_LK` | Landratsamt Lindau (Bodensee) (über RIWA GIS) | keine-angabe | 381 |
+| `stadt:REGENSBURG` | Stadt Regensburg | amtliches-werk — Quelle eingeschränkt: `nicht_kommerziell` | 337 |
 | `land:BY_RIWA_LANDAU_GD` | Stadt Landau a. d. Isar (über RIWA GIS) | keine-angabe | 322 |
 | `land:BY_RIWA_RUHSTORF_GD` | Markt Ruhstorf a. d. Rott (über RIWA GIS) | keine-angabe | 275 |
 | `stadt:FUERTH` | Stadt Fürth | keine-angabe | 257 |
 | `land:BY_RIWA_TITTLING_VG` | Verwaltungsgemeinschaft Tittling (über RIWA GIS) | keine-angabe | 211 |
-| `land:BY_RIWA_LINDAU_GD` | Stadt Lindau (Bodensee) (über RIWA GIS) | keine-angabe | 182 |
+| `land:BY_RIWA_LINDAU_GD` | Stadt Lindau (Bodensee) (über RIWA GIS) | keine-angabe | 196 |
 | `reg:121` | Amberg | keine-angabe | 124 |
 | `land:BY_RIWA_SCHOENAU_GD` | Gemeinde Schönau a. Königssee (über RIWA GIS) | keine-angabe | 113 |
 | `land:BY_RIWA_ZUSMARSHAUSEN_GD` | Markt Zusmarshausen (über RIWA GIS) | keine-angabe | 93 |
@@ -619,25 +621,25 @@ Für alle Quellen gilt: **Die Daten wurden geändert** — Sachdaten entfernt, d
 | `land:BY_RIWA_WEISENDORF_GD` | Markt Weisendorf (über RIWA GIS) | keine-angabe | 75 |
 | `land:BY_RIWA_BUCH_GD` | Gemeinde Buch a. Erlbach (über RIWA GIS) | keine-angabe | 73 |
 | `land:BY_RIWA_HEINERSREUTH_GD` | Gemeinde Heinersreuth (über RIWA GIS) | keine-angabe | 55 |
-| `land:BY_RIWA_ARESING_GD` | Gemeinde Aresing (über RIWA GIS) | keine-angabe | 36 |
+| `land:BY_RIWA_ARESING_GD` | Gemeinde Aresing (über RIWA GIS) | keine-angabe | 37 |
 | `land:BY_RIWA_WELLHEIM_GD` | Markt Wellheim (über RIWA GIS) | keine-angabe | 34 |
 | `land:BY_RIWA_OBERHAUSEN_GD` | Gemeinde Oberhausen (über RIWA GIS) | keine-angabe | 33 |
 | `reg:122` | Amberg | keine-angabe | 26 |
-| `land:BY_DIPLANUNG_VERFAHREN` | DiPlanung Bayern | [cc-by-nd-4.0](https://creativecommons.org/licenses/by-nd/4.0/deed.de) — **keine Bearbeitung** | 5 |
+| `land:BY_DIPLANUNG_VERFAHREN` | DiPlanung Bayern | [cc-by-nd-4.0](https://creativecommons.org/licenses/by-nd/4.0/deed.de) — **keine Bearbeitung** | 7 |
 | `stadt:ASCHAFFENBURG` | Stadt Aschaffenburg | keine-angabe | 4 |
 
 ## HB
 
 | Schlüssel | Bereitsteller | Lizenz | Pläne |
 |---|---|---|---:|
-| `code:HB` | Bremen | keine-angabe | 1.485 |
+| `code:HB` | Bremen | keine-angabe | 1.486 |
 | `land:HB_BHV` | Stadt Bremerhaven (Landesamt GeoInformation Bremen) | keine-angabe | 305 |
 
 ## HE
 
 | Schlüssel | Bereitsteller | Lizenz | Pläne |
 |---|---|---|---:|
-| `land:HE_FULDA` | Landkreis Fulda | [cc0-1.0](https://creativecommons.org/publicdomain/zero/1.0/deed.de) | 2.586 |
+| `land:HE_FULDA` | Landkreis Fulda | [cc0-1.0](https://creativecommons.org/publicdomain/zero/1.0/deed.de) | 2.588 |
 | `reg:31` | Kassel | keine-angabe | 2.191 |
 | `land:HE_GDI_LIMBURG_WEILBURG` | Der Kreisausschuss des Landkreises Limburg-Weilburg (dl-de/by-2-0) | [dl-de/by-2-0](https://www.govdata.de/dl-de/by-2-0) | 1.463 |
 | `land:HE_GDI_RHEINGAU_TAUNUS` | Der Kreisausschuss des Rheingau-Taunus-Kreis (dl-de/by-2-0) | [dl-de/by-2-0](https://www.govdata.de/dl-de/by-2-0) | 1.414 |
@@ -647,44 +649,152 @@ Für alle Quellen gilt: **Die Daten wurden geändert** — Sachdaten entfernt, d
 | `land:HE_GDI_HOCHTAUNUS` | Der Kreisausschuss des Hochtaunuskreises (dl-de/by-2-0) | [dl-de/by-2-0](https://www.govdata.de/dl-de/by-2-0) | 1.101 |
 | `stadt:WIESBADEN` | Landeshauptstadt Wiesbaden, Stadtplanungsamt (dl-de/by-2-0) | [dl-de/by-2-0](https://www.govdata.de/dl-de/by-2-0) | 540 |
 | `reg:30` | Kassel | keine-angabe | 439 |
+| `land:HE_REGIONALVERBAND_FRM` | Regionalverband FrankfurtRheinMain | amtliches-werk — Quelle eingeschränkt: `nicht_kommerziell` | 431 |
 | `stadt:DARMSTADT` | Wissenschaftsstadt Darmstadt (dl-de/by-2-0) | [dl-de/by-2-0](https://www.govdata.de/dl-de/by-2-0) | 330 |
 | `land:HE_GDI_GROSS_GERAU` | Der Kreisausschuss des Kreises Groß-Gerau (dl-de/by-2-0) | [dl-de/by-2-0](https://www.govdata.de/dl-de/by-2-0) | 271 |
 | `stadt:HERBORN` | Stadt Herborn | keine-angabe | 200 |
+| `land:HE_NORDHESSEN_EWG` | Eschwege (GDI-Nordhessen) | amtliches-werk — Quelle eingeschränkt: `nicht_kommerziell` | 199 |
+| `land:HE_MARBURG_BIEDENKOPF_06534011` | Kirchhain (Geoservices Landkreis Marburg-Biedenkopf) | amtliches-werk — Quelle eingeschränkt: `nicht_kommerziell` | 187 |
+| `land:HE_NORDHESSEN_BAH` | Bad Hersfeld (GDI-Nordhessen) | amtliches-werk — Quelle eingeschränkt: `nicht_kommerziell` | 182 |
+| `land:HE_NORDHESSEN_WHS` | Witzenhausen (GDI-Nordhessen) | amtliches-werk — Quelle eingeschränkt: `nicht_kommerziell` | 182 |
+| `land:HE_NORDHESSEN_HOM` | Homberg (GDI-Nordhessen) | amtliches-werk — Quelle eingeschränkt: `nicht_kommerziell` | 179 |
 | `land:HE_GDI_HOFHEIM` | Kreisstadt Hofheim am Taunus (dl-de/by-2-0) | [dl-de/by-2-0](https://www.govdata.de/dl-de/by-2-0) | 171 |
+| `land:HE_NORDHESSEN_FZL` | Fritzlar (GDI-Nordhessen) | amtliches-werk — Quelle eingeschränkt: `nicht_kommerziell` | 171 |
 | `land:HE_GDI_HANAU` | Stadt Hanau (dl-de/by-2-0) | [dl-de/by-2-0](https://www.govdata.de/dl-de/by-2-0) | 167 |
+| `land:HE_NORDHESSEN_SWS` | Schwalmstadt (GDI-Nordhessen) | amtliches-werk — Quelle eingeschränkt: `nicht_kommerziell` | 167 |
+| `land:HE_NORDHESSEN_BWI` | Bad Wildungen (GDI-Nordhessen) | amtliches-werk — Quelle eingeschränkt: `nicht_kommerziell` | 156 |
+| `land:HE_VB_ALSFELD` | Stadt Alsfeld (Geoportal Vogelsberg) | amtliches-werk — Quelle eingeschränkt: `nicht_kommerziell` | 154 |
 | `land:HE_GDI_DIETZENBACH` | Kreisstadt Dietzenbach (dl-de/by-2-0) | [dl-de/by-2-0](https://www.govdata.de/dl-de/by-2-0) | 148 |
 | `land:HE_VB_SCHOTTEN` | Schotten, Geoportal Vogelsberg | [cc0-1.0](https://creativecommons.org/publicdomain/zero/1.0/deed.de) | 142 |
 | `land:HE_VB_SCHLITZ` | Schlitz, Geoportal Vogelsberg | [cc0-1.0](https://creativecommons.org/publicdomain/zero/1.0/deed.de) | 136 |
+| `land:HE_NORDHESSEN_FKB` | Burgwald /Frankenberg (GDI-Nordhessen) | amtliches-werk — Quelle eingeschränkt: `nicht_kommerziell` | 132 |
 | `stadt:ASSLAR` | Stadt Aßlar | keine-angabe | 131 |
 | `land:HE_GDI_RUESSELSHEIM` | Stadt Rüsselsheim am Main (dl-de/by-2-0) | [dl-de/by-2-0](https://www.govdata.de/dl-de/by-2-0) | 127 |
 | `land:HE_GDI_OTZBERG` | Gemeinde Otzberg (dl-de/by-2-0) | [dl-de/by-2-0](https://www.govdata.de/dl-de/by-2-0) | 126 |
 | `land:HE_GDI_OBER_RAMSTADT` | Stadt Ober-Ramstadt (dl-de/by-2-0) | [dl-de/by-2-0](https://www.govdata.de/dl-de/by-2-0) | 125 |
+| `land:HE_NORDHESSEN_GDB` | Gudensberg (GDI-Nordhessen) | amtliches-werk — Quelle eingeschränkt: `nicht_kommerziell` | 125 |
+| `land:HE_NORDHESSEN_WIL` | Willingen (Upland) (GDI-Nordhessen) | amtliches-werk — Quelle eingeschränkt: `nicht_kommerziell` | 122 |
+| `land:HE_VB_MUECKE` | Gemeinde Mücke (Geoportal Vogelsberg) | amtliches-werk — Quelle eingeschränkt: `nicht_kommerziell` | 121 |
 | `land:HE_GDI_ROSSDORF` | Gemeinde Roßdorf (dl-de/by-2-0) | [dl-de/by-2-0](https://www.govdata.de/dl-de/by-2-0) | 118 |
+| `land:HE_NORDHESSEN_KOR` | Korbach (GDI-Nordhessen) | amtliches-werk — Quelle eingeschränkt: `nicht_kommerziell` | 116 |
+| `land:HE_NORDHESSEN_ROF` | Rotenburg an der Fulda (GDI-Nordhessen) | amtliches-werk — Quelle eingeschränkt: `nicht_kommerziell` | 115 |
+| `land:HE_MARBURG_BIEDENKOPF_06534007` | Dautphetal (Geoservices Landkreis Marburg-Biedenkopf) | amtliches-werk — Quelle eingeschränkt: `nicht_kommerziell` | 108 |
+| `land:HE_NORDHESSEN_FRD` | Frielendorf (GDI-Nordhessen) | amtliches-werk — Quelle eingeschränkt: `nicht_kommerziell` | 107 |
 | `land:HE_VB_HOMBERG` | Homberg (Ohm), Geoportal Vogelsberg | [cc0-1.0](https://creativecommons.org/publicdomain/zero/1.0/deed.de) | 106 |
+| `land:HE_MARBURG_BIEDENKOPF_06534018` | Stadtallendorf (Geoservices Landkreis Marburg-Biedenkopf) | amtliches-werk — Quelle eingeschränkt: `nicht_kommerziell` | 105 |
+| `land:HE_NORDHESSEN_BEB` | Bebra (GDI-Nordhessen) | amtliches-werk — Quelle eingeschränkt: `nicht_kommerziell` | 104 |
+| `land:HE_NORDHESSEN_HLT` | Hessisch Lichtenau (GDI-Nordhessen) | amtliches-werk — Quelle eingeschränkt: `nicht_kommerziell` | 102 |
+| `land:HE_NORDHESSEN_BAA` | Bad Arolsen (GDI-Nordhessen) | amtliches-werk — Quelle eingeschränkt: `nicht_kommerziell` | 101 |
 | `land:HE_VB_HERBSTEIN` | Herbstein, Geoportal Vogelsberg | [cc0-1.0](https://creativecommons.org/publicdomain/zero/1.0/deed.de) | 100 |
 | `land:HE_VB_LAUTERBACH` | Lauterbach, Geoportal Vogelsberg | [cc0-1.0](https://creativecommons.org/publicdomain/zero/1.0/deed.de) | 99 |
+| `land:HE_NORDHESSEN_NKH` | Neukirchen (GDI-Nordhessen) | amtliches-werk — Quelle eingeschränkt: `nicht_kommerziell` | 98 |
+| `land:HE_MARBURG_BIEDENKOPF_06534010` | Gladenbach (Geoservices Landkreis Marburg-Biedenkopf) | amtliches-werk — Quelle eingeschränkt: `nicht_kommerziell` | 95 |
+| `land:HE_NORDHESSEN_BSA` | Bad Sooden-Allendorf (GDI-Nordhessen) | amtliches-werk — Quelle eingeschränkt: `nicht_kommerziell` | 95 |
+| `land:HE_NORDHESSEN_FLB` | Felsberg (GDI-Nordhessen) | amtliches-werk — Quelle eingeschränkt: `nicht_kommerziell` | 93 |
+| `land:HE_MARBURG_BIEDENKOPF_06534008` | Ebsdorfergrund (Geoservices Landkreis Marburg-Biedenkopf) | amtliches-werk — Quelle eingeschränkt: `nicht_kommerziell` | 91 |
+| `land:HE_NORDHESSEN_NIE` | Niederaula (GDI-Nordhessen) | amtliches-werk — Quelle eingeschränkt: `nicht_kommerziell` | 91 |
 | `stadt:HUETTENBERG` | Gemeinde Hüttenberg | keine-angabe | 91 |
 | `land:HE_GDI_MODAUTAL` | Gemeinde Modautal (dl-de/by-2-0) | [dl-de/by-2-0](https://www.govdata.de/dl-de/by-2-0) | 89 |
 | `land:HE_GDI_HOCHHEIM` | Stadt Hochheim am Main (dl-de/by-2-0) | [dl-de/by-2-0](https://www.govdata.de/dl-de/by-2-0) | 85 |
+| `land:HE_NORDHESSEN_HAU` | Hauneck (GDI-Nordhessen) | amtliches-werk — Quelle eingeschränkt: `nicht_kommerziell` | 82 |
+| `land:HE_NORDHESSEN_MLS` | Melsungen (GDI-Nordhessen) | amtliches-werk — Quelle eingeschränkt: `nicht_kommerziell` | 81 |
+| `land:HE_NORDHESSEN_EDM` | Edermünde (GDI-Nordhessen) | amtliches-werk — Quelle eingeschränkt: `nicht_kommerziell` | 80 |
 | `land:HE_VB_FREIENSTEINAU` | Freiensteinau, Geoportal Vogelsberg | [cc0-1.0](https://creativecommons.org/publicdomain/zero/1.0/deed.de) | 80 |
 | `stadt:ESCHENBURG` | Gemeinde Eschenburg | keine-angabe | 80 |
 | `stadt:SINN` | Gemeinde Sinn | keine-angabe | 80 |
+| `land:HE_NORDHESSEN_NST` | Neuenstein (GDI-Nordhessen) | amtliches-werk — Quelle eingeschränkt: `nicht_kommerziell` | 79 |
+| `land:HE_MARBURG_BIEDENKOPF_06534013` | Lohra (Geoservices Landkreis Marburg-Biedenkopf) | amtliches-werk — Quelle eingeschränkt: `nicht_kommerziell` | 78 |
+| `land:HE_NORDHESSEN_HRG` | Heringen (GDI-Nordhessen) | amtliches-werk — Quelle eingeschränkt: `nicht_kommerziell` | 78 |
 | `land:HE_GDI_MUENSTER_HESSEN` | Gemeinde Münster (Hessen) (dl-de/by-2-0) | [dl-de/by-2-0](https://www.govdata.de/dl-de/by-2-0) | 77 |
+| `land:HE_MARBURG_BIEDENKOPF_06534012` | Lahntal (Geoservices Landkreis Marburg-Biedenkopf) | amtliches-werk — Quelle eingeschränkt: `nicht_kommerziell` | 77 |
+| `land:HE_MARBURG_BIEDENKOPF_06534004` | Biedenkopf (Geoservices Landkreis Marburg-Biedenkopf) | amtliches-werk — Quelle eingeschränkt: `nicht_kommerziell` | 76 |
+| `land:HE_NORDHESSEN_ALL` | Allendorf (Eder) (GDI-Nordhessen) | amtliches-werk — Quelle eingeschränkt: `nicht_kommerziell` | 75 |
+| `land:HE_MARBURG_BIEDENKOPF_06534003` | Bad Endbach (Geoservices Landkreis Marburg-Biedenkopf) | amtliches-werk — Quelle eingeschränkt: `nicht_kommerziell` | 72 |
+| `land:HE_NORDHESSEN_GAL` | Großalmerode (GDI-Nordhessen) | amtliches-werk — Quelle eingeschränkt: `nicht_kommerziell` | 72 |
+| `land:HE_MARBURG_BIEDENKOPF_06534020` | Weimar (Lahn) (Geoservices Landkreis Marburg-Biedenkopf) | amtliches-werk — Quelle eingeschränkt: `nicht_kommerziell` | 71 |
+| `land:HE_NORDHESSEN_DIS` | Diemelsee (GDI-Nordhessen) | amtliches-werk — Quelle eingeschränkt: `nicht_kommerziell` | 70 |
+| `land:HE_NORDHESSEN_WAL` | Waldeck (GDI-Nordhessen) | amtliches-werk — Quelle eingeschränkt: `nicht_kommerziell` | 70 |
 | `stadt:SCHOEFFENGRUND` | Gemeinde Schöffengrund | keine-angabe | 70 |
+| `land:HE_NORDHESSEN_ALH` | Alheim (GDI-Nordhessen) | amtliches-werk — Quelle eingeschränkt: `nicht_kommerziell` | 69 |
+| `land:HE_NORDHESSEN_STR` | Sontra (GDI-Nordhessen) | amtliches-werk — Quelle eingeschränkt: `nicht_kommerziell` | 68 |
+| `land:HE_NORDHESSEN_WDK` | Wildeck (GDI-Nordhessen) | amtliches-werk — Quelle eingeschränkt: `nicht_kommerziell` | 68 |
+| `land:HE_NORDHESSEN_VOL` | Volkmarsen (GDI-Nordhessen) | amtliches-werk — Quelle eingeschränkt: `nicht_kommerziell` | 66 |
+| `land:HE_NORDHESSEN_NDS` | Niedenstein (GDI-Nordhessen) | amtliches-werk — Quelle eingeschränkt: `nicht_kommerziell` | 65 |
+| `land:HE_NORDHESSEN_KRH` | Kirchheim (GDI-Nordhessen) | amtliches-werk — Quelle eingeschränkt: `nicht_kommerziell` | 64 |
+| `land:HE_NORDHESSEN_WFD` | Wanfried (GDI-Nordhessen) | amtliches-werk — Quelle eingeschränkt: `nicht_kommerziell` | 64 |
 | `land:HE_GDI_ODENWALD` | Der Kreisausschuss des Odenwaldkreises (dl-de/by-2-0) | [dl-de/by-2-0](https://www.govdata.de/dl-de/by-2-0) | 63 |
+| `land:HE_NORDHESSEN_WKL` | Waldkappel (GDI-Nordhessen) | amtliches-werk — Quelle eingeschränkt: `nicht_kommerziell` | 63 |
+| `land:HE_MARBURG_BIEDENKOPF_06534005` | Breidenbach (Geoservices Landkreis Marburg-Biedenkopf) | amtliches-werk — Quelle eingeschränkt: `nicht_kommerziell` | 62 |
+| `land:HE_MARBURG_BIEDENKOPF_06534006` | Cölbe (Geoservices Landkreis Marburg-Biedenkopf) | amtliches-werk — Quelle eingeschränkt: `nicht_kommerziell` | 61 |
+| `land:HE_MARBURG_BIEDENKOPF_06534001` | Amöneburg (Geoservices Landkreis Marburg-Biedenkopf) | amtliches-werk — Quelle eingeschränkt: `nicht_kommerziell` | 60 |
+| `land:HE_NORDHESSEN_EDT` | Edertal (GDI-Nordhessen) | amtliches-werk — Quelle eingeschränkt: `nicht_kommerziell` | 60 |
+| `land:HE_NORDHESSEN_WAB` | Wabern (GDI-Nordhessen) | amtliches-werk — Quelle eingeschränkt: `nicht_kommerziell` | 60 |
+| `land:HE_NORDHESSEN_VHL` | Vöhl (GDI-Nordhessen) | amtliches-werk — Quelle eingeschränkt: `nicht_kommerziell` | 56 |
+| `land:HE_NORDHESSEN_BOR` | Borken (GDI-Nordhessen) | amtliches-werk — Quelle eingeschränkt: `nicht_kommerziell` | 55 |
+| `land:HE_NORDHESSEN_BUR` | Burgwald /Frankenberg (GDI-Nordhessen) | amtliches-werk — Quelle eingeschränkt: `nicht_kommerziell` | 55 |
+| `land:HE_NORDHESSEN_GXH` | Guxhagen (GDI-Nordhessen) | amtliches-werk — Quelle eingeschränkt: `nicht_kommerziell` | 55 |
+| `land:HE_NORDHESSEN_DST` | Diemelstadt (GDI-Nordhessen) | amtliches-werk — Quelle eingeschränkt: `nicht_kommerziell` | 54 |
 | `land:HE_VB_KIRTORF` | Kirtorf, Geoportal Vogelsberg | [cc0-1.0](https://creativecommons.org/publicdomain/zero/1.0/deed.de) | 54 |
+| `land:HE_NORDHESSEN_MHD` | Meinhard (GDI-Nordhessen) | amtliches-werk — Quelle eingeschränkt: `nicht_kommerziell` | 53 |
 | `land:HE_GDI_MAINTAL` | Stadt Maintal (dl-de/by-2-0) | [dl-de/by-2-0](https://www.govdata.de/dl-de/by-2-0) | 51 |
 | `land:HE_VB_GREBENHAIN` | Grebenhain, Geoportal Vogelsberg | [cc0-1.0](https://creativecommons.org/publicdomain/zero/1.0/deed.de) | 51 |
+| `land:HE_VB_ULRICHSTEIN` | Stadt Ulrichstein (Geoportal Vogelsberg) | amtliches-werk — Quelle eingeschränkt: `nicht_kommerziell` | 51 |
+| `land:HE_NORDHESSEN_BAT` | Battenberg (Eder) (GDI-Nordhessen) | amtliches-werk — Quelle eingeschränkt: `nicht_kommerziell` | 50 |
+| `land:HE_NORDHESSEN_WHL` | Wehretal (GDI-Nordhessen) | amtliches-werk — Quelle eingeschränkt: `nicht_kommerziell` | 50 |
+| `land:HE_MARBURG_BIEDENKOPF_06534009` | Fronhausen (Geoservices Landkreis Marburg-Biedenkopf) | amtliches-werk — Quelle eingeschränkt: `nicht_kommerziell` | 49 |
+| `land:HE_MARBURG_BIEDENKOPF_06534021` | Wetter (Hessen) (Geoservices Landkreis Marburg-Biedenkopf) | amtliches-werk — Quelle eingeschränkt: `nicht_kommerziell` | 49 |
+| `land:HE_NORDHESSEN_BZW` | Bad Zwesten (GDI-Nordhessen) | amtliches-werk — Quelle eingeschränkt: `nicht_kommerziell` | 49 |
+| `land:HE_NORDHESSEN_SGB` | Spangenberg (GDI-Nordhessen) | amtliches-werk — Quelle eingeschränkt: `nicht_kommerziell` | 49 |
 | `land:HE_VB_FELDATAL` | Feldatal, Geoportal Vogelsberg | [cc0-1.0](https://creativecommons.org/publicdomain/zero/1.0/deed.de) | 49 |
 | `land:HE_GDI_EPPERTSHAUSEN` | Gemeinde Eppertshausen (dl-de/by-2-0) | [dl-de/by-2-0](https://www.govdata.de/dl-de/by-2-0) | 48 |
+| `land:HE_MARBURG_BIEDENKOPF_06534016` | Neustadt (Hessen) (Geoservices Landkreis Marburg-Biedenkopf) | amtliches-werk — Quelle eingeschränkt: `nicht_kommerziell` | 48 |
+| `land:HE_NORDHESSEN_MEI` | Meißner (GDI-Nordhessen) | amtliches-werk — Quelle eingeschränkt: `nicht_kommerziell` | 48 |
+| `land:HE_NORDHESSEN_MFD` | Malsfeld (GDI-Nordhessen) | amtliches-werk — Quelle eingeschränkt: `nicht_kommerziell` | 48 |
+| `land:HE_NORDHESSEN_HAT` | Haunetal (GDI-Nordhessen) | amtliches-werk — Quelle eingeschränkt: `nicht_kommerziell` | 47 |
+| `land:HE_NORDHESSEN_PHI` | Philippsthal (GDI-Nordhessen) | amtliches-werk — Quelle eingeschränkt: `nicht_kommerziell` | 47 |
 | `land:HE_VB_GREBENAU` | Grebenau, Geoportal Vogelsberg | [cc0-1.0](https://creativecommons.org/publicdomain/zero/1.0/deed.de) | 47 |
 | `land:HE_VB_GEMUENDEN` | Gemünden (Felda), Geoportal Vogelsberg | [cc0-1.0](https://creativecommons.org/publicdomain/zero/1.0/deed.de) | 46 |
+| `land:HE_NORDHESSEN_FRW` | Friedewald (GDI-Nordhessen) | amtliches-werk — Quelle eingeschränkt: `nicht_kommerziell` | 44 |
+| `land:HE_NORDHESSEN_LDW` | Ludwigsau (GDI-Nordhessen) | amtliches-werk — Quelle eingeschränkt: `nicht_kommerziell` | 43 |
 | `land:HE_VB_WARTENBERG` | Wartenberg, Geoportal Vogelsberg | [cc0-1.0](https://creativecommons.org/publicdomain/zero/1.0/deed.de) | 43 |
+| `land:HE_NORDHESSEN_SKG` | Schenklengsfeld (GDI-Nordhessen) | amtliches-werk — Quelle eingeschränkt: `nicht_kommerziell` | 42 |
+| `land:HE_NORDHESSEN_HLH` | Herleshausen (GDI-Nordhessen) | amtliches-werk — Quelle eingeschränkt: `nicht_kommerziell` | 41 |
+| `land:HE_MARBURG_BIEDENKOPF_06534019` | Steffenberg (Geoservices Landkreis Marburg-Biedenkopf) | amtliches-werk — Quelle eingeschränkt: `nicht_kommerziell` | 40 |
+| `land:HE_NORDHESSEN_KWD` | Knüllwald (GDI-Nordhessen) | amtliches-werk — Quelle eingeschränkt: `nicht_kommerziell` | 38 |
+| `land:HE_NORDHESSEN_WLL` | Willingshausen (GDI-Nordhessen) | amtliches-werk — Quelle eingeschränkt: `nicht_kommerziell` | 38 |
+| `land:HE_MARBURG_BIEDENKOPF_06534017` | Rauschenberg (Geoservices Landkreis Marburg-Biedenkopf) | amtliches-werk — Quelle eingeschränkt: `nicht_kommerziell` | 37 |
+| `land:HE_NORDHESSEN_OBA` | Oberaula (GDI-Nordhessen) | amtliches-werk — Quelle eingeschränkt: `nicht_kommerziell` | 36 |
+| `land:HE_VB_LAUTERTAL` | Lautertal (Vogelsberg), Geoportal Vogelsberg | [cc0-1.0](https://creativecommons.org/publicdomain/zero/1.0/deed.de) | 36 |
+| `land:HE_NORDHESSEN_BRH` | Breitenbach am Herzberg (GDI-Nordhessen) | amtliches-werk — Quelle eingeschränkt: `nicht_kommerziell` | 34 |
+| `land:HE_NORDHESSEN_FRA` | Frankenau (GDI-Nordhessen) | amtliches-werk — Quelle eingeschränkt: `nicht_kommerziell` | 34 |
+| `land:HE_NORDHESSEN_RGG` | Ringgau (GDI-Nordhessen) | amtliches-werk — Quelle eingeschränkt: `nicht_kommerziell` | 34 |
 | `land:HE_VB_ANTRIFTTAL` | Antrifttal, Geoportal Vogelsberg | [cc0-1.0](https://creativecommons.org/publicdomain/zero/1.0/deed.de) | 34 |
-| `land:HE_VB_LAUTERTAL` | Lautertal (Vogelsberg), Geoportal Vogelsberg | [cc0-1.0](https://creativecommons.org/publicdomain/zero/1.0/deed.de) | 34 |
 | `land:HE_VB_ROMROD` | Romrod, Geoportal Vogelsberg | [cc0-1.0](https://creativecommons.org/publicdomain/zero/1.0/deed.de) | 34 |
+| `land:HE_NORDHESSEN_GEW` | Gemünden (Wohra) (GDI-Nordhessen) | amtliches-werk — Quelle eingeschränkt: `nicht_kommerziell` | 33 |
+| `land:HE_NORDHESSEN_LTF` | Lichtenfels (GDI-Nordhessen) | amtliches-werk — Quelle eingeschränkt: `nicht_kommerziell` | 33 |
 | `land:HE_VB_SCHWALMTAL` | Schwalmtal, Geoportal Vogelsberg | [cc0-1.0](https://creativecommons.org/publicdomain/zero/1.0/deed.de) | 33 |
+| `land:HE_MARBURG_BIEDENKOPF_06534002` | Angelburg (Geoservices Landkreis Marburg-Biedenkopf) | amtliches-werk — Quelle eingeschränkt: `nicht_kommerziell` | 32 |
+| `land:HE_NORDHESSEN_TWI` | Twistetal (GDI-Nordhessen) | amtliches-werk — Quelle eingeschränkt: `nicht_kommerziell` | 32 |
+| `land:HE_NORDHESSEN_BKT` | Berkatal (GDI-Nordhessen) | amtliches-werk — Quelle eingeschränkt: `nicht_kommerziell` | 31 |
+| `land:HE_NORDHESSEN_KRL` | Körle (GDI-Nordhessen) | amtliches-werk — Quelle eingeschränkt: `nicht_kommerziell` | 31 |
+| `land:HE_NORDHESSEN_HTZ` | Hatzfeld (Eder) (GDI-Nordhessen) | amtliches-werk — Quelle eingeschränkt: `nicht_kommerziell` | 30 |
+| `land:HE_MARBURG_BIEDENKOPF_06534022` | Wohratal (Geoservices Landkreis Marburg-Biedenkopf) | amtliches-werk — Quelle eingeschränkt: `nicht_kommerziell` | 29 |
+| `land:HE_NORDHESSEN_NEU` | Neuental (GDI-Nordhessen) | amtliches-werk — Quelle eingeschränkt: `nicht_kommerziell` | 26 |
 | `reg:29` | Kassel | keine-angabe | 26 |
+| `land:HE_NORDHESSEN_GLB` | Gilserberg (GDI-Nordhessen) | amtliches-werk — Quelle eingeschränkt: `nicht_kommerziell` | 25 |
+| `land:HE_NORDHESSEN_NEB` | Neu-Eichenberg (GDI-Nordhessen) | amtliches-werk — Quelle eingeschränkt: `nicht_kommerziell` | 25 |
+| `land:HE_MARBURG_BIEDENKOPF_06534015` | Münchhausen (Geoservices Landkreis Marburg-Biedenkopf) | amtliches-werk — Quelle eingeschränkt: `nicht_kommerziell` | 24 |
+| `land:HE_NORDHESSEN_HOR` | Hohenroda (GDI-Nordhessen) | amtliches-werk — Quelle eingeschränkt: `nicht_kommerziell` | 23 |
+| `land:HE_NORDHESSEN_OTT` | Ottrau (GDI-Nordhessen) | amtliches-werk — Quelle eingeschränkt: `nicht_kommerziell` | 23 |
+| `land:HE_NORDHESSEN_NHS` | Nentershausen (GDI-Nordhessen) | amtliches-werk — Quelle eingeschränkt: `nicht_kommerziell` | 21 |
+| `land:HE_NORDHESSEN_SKH` | Schrecksbach (GDI-Nordhessen) | amtliches-werk — Quelle eingeschränkt: `nicht_kommerziell` | 21 |
+| `land:HE_NORDHESSEN_RHA` | Ronshausen (GDI-Nordhessen) | amtliches-werk — Quelle eingeschränkt: `nicht_kommerziell` | 20 |
+| `land:HE_NORDHESSEN_MOR` | Morschen (GDI-Nordhessen) | amtliches-werk — Quelle eingeschränkt: `nicht_kommerziell` | 19 |
+| `land:HE_NORDHESSEN_SBN` | Schwarzenborn (GDI-Nordhessen) | amtliches-werk — Quelle eingeschränkt: `nicht_kommerziell` | 15 |
+| `land:HE_NORDHESSEN_ROS` | Rosenthal (GDI-Nordhessen) | amtliches-werk — Quelle eingeschränkt: `nicht_kommerziell` | 14 |
+| `land:HE_NORDHESSEN_HAI` | Haina (Kloster) (GDI-Nordhessen) | amtliches-werk — Quelle eingeschränkt: `nicht_kommerziell` | 13 |
+| `land:HE_NORDHESSEN_WNB` | Weißenborn (GDI-Nordhessen) | amtliches-werk — Quelle eingeschränkt: `nicht_kommerziell` | 9 |
+| `land:HE_NORDHESSEN_JBG` | Jesberg (GDI-Nordhessen) | amtliches-werk — Quelle eingeschränkt: `nicht_kommerziell` | 7 |
 
 ## HH
 
@@ -696,13 +806,13 @@ Für alle Quellen gilt: **Die Daten wurden geändert** — Sachdaten entfernt, d
 
 | Schlüssel | Bereitsteller | Lizenz | Pläne |
 |---|---|---|---:|
-| `code:MV` | Mecklenburg-Vorpommern | keine-angabe | 9.292 |
+| `code:MV` | Mecklenburg-Vorpommern | keine-angabe | 9.299 |
 
 ## NI
 
 | Schlüssel | Bereitsteller | Lizenz | Pläne |
 |---|---|---|---:|
-| `land:NI_RIWA_VIANOVIS` | Landkreise Cloppenburg, Vechta, Ammerland und Gemeinden (über RIWA GIS) | amtliches-werk — Quelle eingeschränkt: `genehmigung` | 6.193 |
+| `land:NI_RIWA_VIANOVIS` | Landkreise Cloppenburg, Vechta, Ammerland und Gemeinden (über RIWA GIS) | amtliches-werk — Quelle eingeschränkt: `genehmigung` | 6.195 |
 | `land:NI_HARBURG` | Landkreis Harburg (ITK Harburg) | keine-angabe | 2.281 |
 | `land:NI_LEER` | Landkreis Leer | keine-angabe | 2.187 |
 | `land:NI_DIEPHOLZ` | Landkreis Diepholz | keine-angabe | 2.179 |
@@ -713,13 +823,15 @@ Für alle Quellen gilt: **Die Daten wurden geändert** — Sachdaten entfernt, d
 | `land:NI_HEIDEKREIS` | Landkreis Heidekreis (CC BY 4.0) | [cc-by-4.0](https://creativecommons.org/licenses/by/4.0/deed.de) | 1.204 |
 | `reg:53` | Nienburg (Weser) | keine-angabe | 1.155 |
 | `land:NI_OSTERHOLZ` | Landkreis Osterholz (dl-de/by-2-0) | [dl-de/by-2-0](https://www.govdata.de/dl-de/by-2-0) | 1.107 |
+| `land:NI_WOLFENBUETTEL` | Landkreis Wolfenbüttel | amtliches-werk — Quelle eingeschränkt: `genehmigung` | 941 |
 | `reg:14` | Grafschaft Bentheim | keine-angabe | 730 |
+| `stadt:LINGEN` | Stadt Lingen (Ems) | amtliches-werk — Quelle eingeschränkt: `genehmigung` | 690 |
 | `reg:32` | Holzminden | keine-angabe | 684 |
 | `land:NI_SALZGITTER` | Stadt Salzgitter | keine-angabe | 661 |
 | `stadt:OLDENBURG` | Stadt Oldenburg (Oldb) (dl-de/by-2-0) | amtliches-werk — Quelle eingeschränkt: `lizenz_unklar` | 661 |
 | `land:NI_GARBSEN` | Stadt Garbsen | keine-angabe | 652 |
 | `reg:42` | Göttingen | keine-angabe | 640 |
-| `stadt:MEPPEN` | Stadt Meppen | keine-angabe | 616 |
+| `stadt:MEPPEN` | Stadt Meppen | keine-angabe | 618 |
 | `land:NI_LUECHOW_DANNENBERG` | Landkreis Lüchow-Dannenberg | keine-angabe | 607 |
 | `land:NI_HILDESHEIM` | Stadt Hildesheim (dl-de/by-2-0) | [dl-de/by-2-0](https://www.govdata.de/dl-de/by-2-0) | 561 |
 | `adapter:delmenhorst` | Stadt Delmenhorst (dl-de/by-2-0) | [dl-de/by-2-0](https://www.govdata.de/dl-de/by-2-0) | 547 |
@@ -731,8 +843,9 @@ Für alle Quellen gilt: **Die Daten wurden geändert** — Sachdaten entfernt, d
 | `land:NI_NEUSTADT_RBGE` | Stadt Neustadt am Rübenberge | keine-angabe | 399 |
 | `land:NI_CUXHAVEN` | Stadt Cuxhaven | keine-angabe | 373 |
 | `land:NI_LANGENHAGEN` | Stadt Langenhagen | keine-angabe | 353 |
+| `land:NI_WOLFENBUETTEL_STADT` | Stadt Wolfenbüttel (Geoportal Landkreis Wolfenbüttel) | amtliches-werk — Quelle eingeschränkt: `genehmigung` | 351 |
+| `reg:13` | Verden | keine-angabe | 341 |
 | `stadt:PAPENBURG` | Stadt Papenburg | [dl-de/zero-2-0](https://www.govdata.de/dl-de/zero-2-0) | 341 |
-| `reg:13` | Verden | keine-angabe | 339 |
 | `land:NI_NORTHEIM` | Stadt Northeim | keine-angabe | 336 |
 | `govconnect:org.81.aced332f` | Gemeinde Edewecht (über GovConnect) | [dl-de/zero-2-0](https://www.govdata.de/dl-de/zero-2-0) | 325 |
 | `stadt:PAPENBURG_AENDERUNGEN` | Stadt Papenburg | [dl-de/zero-2-0](https://www.govdata.de/dl-de/zero-2-0) | 322 |
@@ -750,12 +863,16 @@ Für alle Quellen gilt: **Die Daten wurden geändert** — Sachdaten entfernt, d
 | `land:NI_UETZE` | Gemeinde Uetze | keine-angabe | 208 |
 | `land:NI_WENNIGSEN` | Gemeinde Wennigsen (Deister) | keine-angabe | 198 |
 | `govconnect:org.59.12f56864` | Stadt Königslutter am Elm (über GovConnect) | [dl-de/zero-2-0](https://www.govdata.de/dl-de/zero-2-0) | 197 |
+| `land:NI_LUENEBURG_SAMTGEMEINDE_SCHARNEBECK` | Samtgemeinde Scharnebeck (Geoportal Landkreis Lüneburg) | amtliches-werk — Quelle eingeschränkt: `nicht_kommerziell` | 187 |
 | `govconnect:org.78.70c641e2` | Gemeinde Apen (über GovConnect) | [dl-de/zero-2-0](https://www.govdata.de/dl-de/zero-2-0) | 183 |
 | `land:NI_ILSEDE` | Gemeinde Ilsede | keine-angabe | 182 |
+| `land:NI_LUENEBURG_SAMTGEMEINDE_BARDOWICK` | Samtgemeinde Bardowick (Geoportal Landkreis Lüneburg) | amtliches-werk — Quelle eingeschränkt: `nicht_kommerziell` | 182 |
 | `land:NI_WATHLINGEN` | Samtgemeinde Wathlingen | keine-angabe | 175 |
 | `govconnect:org.103.38cabe46` | Gemeinde Großenkneten (über GovConnect) | [dl-de/zero-2-0](https://www.govdata.de/dl-de/zero-2-0) | 172 |
+| `land:NI_LUENEBURG_SAMTGEMEINDE_GELLERSEN` | Samtgemeinde Gellersen (Geoportal Landkreis Lüneburg) | amtliches-werk — Quelle eingeschränkt: `nicht_kommerziell` | 170 |
 | `land:NI_MUNSTER` | Stadt Munster | keine-angabe | 160 |
 | `govconnect:org.100.9d168fa1` | Gemeinde Hatten (über GovConnect) | [dl-de/zero-2-0](https://www.govdata.de/dl-de/zero-2-0) | 156 |
+| `land:NI_LUENEBURG_SAMTGEMEINDE_ILMENAU` | Samtgemeinde Ilmenau (Geoportal Landkreis Lüneburg) | amtliches-werk — Quelle eingeschränkt: `nicht_kommerziell` | 154 |
 | `govconnect:org.110.3bcaba1f` | Samtgemeinde Harpstedt (über GovConnect) | [dl-de/zero-2-0](https://www.govdata.de/dl-de/zero-2-0) | 153 |
 | `govconnect:org.111.1986d73c` | Stadt Pattensen (über GovConnect) | [dl-de/zero-2-0](https://www.govdata.de/dl-de/zero-2-0) | 150 |
 | `land:NI_TWIST` | Gemeinde Twist | keine-angabe | 144 |
@@ -763,15 +880,21 @@ Für alle Quellen gilt: **Die Daten wurden geändert** — Sachdaten entfernt, d
 | `land:NI_GROSSEFEHN` | Gemeinde Großefehn | keine-angabe | 130 |
 | `reg:52` | Nienburg (Weser) | keine-angabe | 129 |
 | `govconnect:org.142.70944daa` | Gemeinde Dötlingen (über GovConnect) | [dl-de/zero-2-0](https://www.govdata.de/dl-de/zero-2-0) | 117 |
+| `land:NI_LUENEBURG_SAMTGEMEINDE_AMELINGHAUSEN` | Samtgemeinde Amelinghausen (Geoportal Landkreis Lüneburg) | amtliches-werk — Quelle eingeschränkt: `nicht_kommerziell` | 112 |
+| `land:NI_LUENEBURG_SAMTGEMEINDE_OSTHEIDE` | Samtgemeinde Ostheide (Geoportal Landkreis Lüneburg) | amtliches-werk — Quelle eingeschränkt: `nicht_kommerziell` | 110 |
 | `govconnect:org.64.d36bb6b6` | Stadt Schöningen (über GovConnect) | [dl-de/zero-2-0](https://www.govdata.de/dl-de/zero-2-0) | 108 |
 | `govconnect:org.65.d0edd773` | Samtgemeinde Nord-Elm (über GovConnect) | [dl-de/zero-2-0](https://www.govdata.de/dl-de/zero-2-0) | 100 |
 | `land:NI_HEIDEKREIS_SATZUNGEN` | Landkreis Heidekreis (CC BY 4.0) | [cc-by-4.0](https://creativecommons.org/licenses/by/4.0/deed.de) | 100 |
 | `land:NI_ROSCHE` | Samtgemeinde Rosche | keine-angabe | 99 |
+| `land:NI_LUENEBURG_GEMEINDE_ADENDORF` | Gemeinde Adendorf (Geoportal Landkreis Lüneburg) | amtliches-werk — Quelle eingeschränkt: `nicht_kommerziell` | 97 |
 | `govconnect:org.113.83984a46` | Gemeinde Hude (Oldb) (über GovConnect) | [dl-de/zero-2-0](https://www.govdata.de/dl-de/zero-2-0) | 88 |
+| `land:NI_LUENEBURG_STADT_BLECKEDE` | Stadt Bleckede (Geoportal Landkreis Lüneburg) | amtliches-werk — Quelle eingeschränkt: `nicht_kommerziell` | 78 |
+| `land:NI_LUENEBURG_SAMTGEMEINDE_DAHLENBURG` | Samtgemeinde Dahlenburg (Geoportal Landkreis Lüneburg) | amtliches-werk — Quelle eingeschränkt: `nicht_kommerziell` | 77 |
 | `govconnect:org.60.5a10f4cc` | Samtgemeinde Grasleben (über GovConnect) | [dl-de/zero-2-0](https://www.govdata.de/dl-de/zero-2-0) | 65 |
 | `govconnect:org.79.dce66be6` | Gemeinde Lemwerder (über GovConnect) | [dl-de/zero-2-0](https://www.govdata.de/dl-de/zero-2-0) | 59 |
 | `govconnect:org.61.eab16929` | Samtgemeinde Heeseberg (über GovConnect) | [dl-de/zero-2-0](https://www.govdata.de/dl-de/zero-2-0) | 38 |
 | `land:NI_HOLZMINDEN_SATZUNGEN` | Landkreis Holzminden | keine-angabe | 32 |
+| `land:NI_LUENEBURG_GEMEINDE_AMT_NEUHAUS` | Gemeinde Amt Neuhaus (Geoportal Landkreis Lüneburg) | amtliches-werk — Quelle eingeschränkt: `nicht_kommerziell` | 28 |
 | `govconnect:org.142.d49f7476` | Gemeinde Dötlingen (über GovConnect) | [dl-de/zero-2-0](https://www.govdata.de/dl-de/zero-2-0) | 17 |
 | `reg:65` | Grafschaft Bentheim | keine-angabe | 16 |
 | `govconnect:org.113.0ca09b34` | Gemeinde Hude (Oldb) (über GovConnect) | [dl-de/zero-2-0](https://www.govdata.de/dl-de/zero-2-0) | 7 |
@@ -780,8 +903,8 @@ Für alle Quellen gilt: **Die Daten wurden geändert** — Sachdaten entfernt, d
 
 | Schlüssel | Bereitsteller | Lizenz | Pläne |
 |---|---|---|---:|
-| `code:NW` | Land NRW (2026), Datenlizenz Deutschland – Namensnennung – Version 2.0 | [dl-de/by-2-0](https://www.govdata.de/dl-de/by-2-0) | 64.381 |
-| `land:NW_SATZUNGEN` | Land NRW (2026), Datenlizenz Deutschland – Namensnennung – Version 2.0 | [dl-de/by-2-0](https://www.govdata.de/dl-de/by-2-0) | 2.366 |
+| `code:NW` | Land NRW (2026), Datenlizenz Deutschland – Namensnennung – Version 2.0 | [dl-de/by-2-0](https://www.govdata.de/dl-de/by-2-0) | 63.231 |
+| `land:NW_SATZUNGEN` | Land NRW (2026), Datenlizenz Deutschland – Namensnennung – Version 2.0 | [dl-de/by-2-0](https://www.govdata.de/dl-de/by-2-0) | 2.275 |
 | `stadt:DUESSELDORF` | Landeshauptstadt Düsseldorf | keine-angabe | 1.986 |
 | `stadt:BONN` | Bundesstadt Bonn | [cc0-1.0](https://creativecommons.org/publicdomain/zero/1.0/deed.de) | 1.127 |
 | `adapter:hamm` | Stadt Hamm | amtliches-werk — Quelle eingeschränkt: `lizenz_unklar` | 932 |
@@ -814,9 +937,10 @@ Für alle Quellen gilt: **Die Daten wurden geändert** — Sachdaten entfernt, d
 
 | Schlüssel | Bereitsteller | Lizenz | Pläne |
 |---|---|---|---:|
-| `code:RP` | GDI-RP, Bebauungspläne der Kommunen (Kommunaler Server) | amtliches-werk — Quelle eingeschränkt: `lizenz_unklar` | 14.102 |
+| `code:RP` | GDI-RP, Bebauungspläne der Kommunen (Kommunaler Server) | amtliches-werk — Quelle eingeschränkt: `lizenz_unklar` | 14.267 |
 | `land:RP_MAINZ_BINGEN` | Landkreis Mainz-Bingen | keine-angabe | 2.015 |
 | `stadt:TRIER` | Stadt Trier (dl-de/by-2-0) | [dl-de/by-2-0](https://www.govdata.de/dl-de/by-2-0) | 372 |
+| `stadt:KAISERSLAUTERN` | Stadt Kaiserslautern, Referat Stadtentwicklung | amtliches-werk — Quelle eingeschränkt: `genehmigung` | 197 |
 | `stadt:NEUSTADT_WEINSTRASSE` | Stadt Neustadt an der Weinstraße (CC BY 3.0 DE) | [cc-by-3.0-de](https://creativecommons.org/licenses/by/3.0/de/) | 129 |
 | `stadt:LANDAU_PFALZ` | Stadt Landau in der Pfalz (CC BY 3.0 DE) | [cc-by-3.0-de](https://creativecommons.org/licenses/by/3.0/de/) | 98 |
 
@@ -824,11 +948,13 @@ Für alle Quellen gilt: **Die Daten wurden geändert** — Sachdaten entfernt, d
 
 | Schlüssel | Bereitsteller | Lizenz | Pläne |
 |---|---|---|---:|
-| `land:SH_OSTHOLSTEIN` | Kreis Ostholstein (CC BY-ND 4.0) | [cc-by-nd-4.0](https://creativecommons.org/licenses/by-nd/4.0/deed.de) — **keine Bearbeitung** | 2.760 |
-| `land:SH_SCHLESWIG_FLENSBURG` | Kreis Schleswig-Flensburg | keine-angabe | 2.343 |
+| `land:SH_NORDFRIESLAND` | Kreis Nordfriesland | amtliches-werk — Quelle eingeschränkt: `genehmigung` | 3.176 |
+| `land:SH_OSTHOLSTEIN` | Kreis Ostholstein (CC BY-ND 4.0) | [cc-by-nd-4.0](https://creativecommons.org/licenses/by-nd/4.0/deed.de) — **keine Bearbeitung** | 2.763 |
+| `land:SH_SCHLESWIG_FLENSBURG` | Kreis Schleswig-Flensburg | keine-angabe | 2.360 |
 | `land:SH_HERZOGTUM_LAUENBURG` | Kreis Herzogtum Lauenburg | amtliches-werk — Quelle eingeschränkt: `lizenz_unklar` | 1.668 |
 | `land:SH_PLOEN` | Kreis Plön (dl-de/by-2-0) | amtliches-werk — Quelle eingeschränkt: `lizenz_unklar` | 1.143 |
-| `code:SH` | Schleswig-Holstein | keine-angabe | 679 |
+| `stadt:FLENSBURG` | Stadt Flensburg | amtliches-werk — Quelle eingeschränkt: `lizenz_unklar` | 402 |
+| `code:SH` | Schleswig-Holstein | keine-angabe | 374 |
 | `land:SH_NORDERSTEDT` | Herausgeber: Stadtverwaltung Norderstedt (dl-de/by-2-0) | [dl-de/by-2-0](https://www.govdata.de/dl-de/by-2-0) | 363 |
 | `stadt:KIEL` | © Landeshauptstadt Kiel (CC BY 4.0) | [cc-by-4.0](https://creativecommons.org/licenses/by/4.0/deed.de) | 272 |
 | `land:SH_PREETZ` | Stadt Preetz / Kreis Plön (dl-de/by-2-0) | [dl-de/by-2-0](https://www.govdata.de/dl-de/by-2-0) | 196 |
@@ -877,9 +1003,10 @@ Für alle Quellen gilt: **Die Daten wurden geändert** — Sachdaten entfernt, d
 
 | Schlüssel | Bereitsteller | Lizenz | Pläne |
 |---|---|---|---:|
-| `code:SN` | Sachsen (RAPIS) | keine-angabe | 7.291 |
-| `land:SN_RAPIS_PLANUNG` | Landesdirektion Sachsen, Digitales Raumordnungskataster (RAPIS) | keine-angabe | 693 |
-| `land:SN_RAPIS_SATZUNGEN` | Landesdirektion Sachsen, Digitales Raumordnungskataster (RAPIS) | keine-angabe | 358 |
+| `code:SN` | Sachsen (RAPIS) | keine-angabe | 7.290 |
+| `land:SN_RAPIS_PLANUNG` | Landesdirektion Sachsen, Digitales Raumordnungskataster (RAPIS) | keine-angabe | 692 |
+| `stadt:LEIPZIG` | Stadt Leipzig, Stadtplanungsamt (dl-de/by-2-0) | [dl-de/by-2-0](https://www.govdata.de/dl-de/by-2-0) | 402 |
+| `land:SN_RAPIS_SATZUNGEN` | Landesdirektion Sachsen, Digitales Raumordnungskataster (RAPIS) | keine-angabe | 356 |
 | `stadt:CHEMNITZ` | Stadt Chemnitz (dl-de/by-2-0) | [dl-de/by-2-0](https://www.govdata.de/dl-de/by-2-0) | 261 |
 | `reg:109` | Dresden | keine-angabe | 125 |
 | `stadt:DRESDEN_SATZUNGEN` | Landeshauptstadt Dresden | keine-angabe | 31 |
@@ -889,8 +1016,8 @@ Für alle Quellen gilt: **Die Daten wurden geändert** — Sachdaten entfernt, d
 
 | Schlüssel | Bereitsteller | Lizenz | Pläne |
 |---|---|---|---:|
-| `land:ST_ARIS` | ARIS — Ministerium für Infrastruktur und Digitales Sachsen-Anhalt | amtliches-werk — Quelle eingeschränkt: `lizenz_unklar` | 5.542 |
-| `code:ST` | XPlanung-Plattform Sachsen-Anhalt (LVermGeo ST); Bebauungspläne der Gemeinden | amtliches-werk — Quelle eingeschränkt: `lizenz_unklar` | 2.413 |
+| `land:ST_ARIS` | ARIS — Ministerium für Infrastruktur und Digitales Sachsen-Anhalt | amtliches-werk — Quelle eingeschränkt: `lizenz_unklar` | 5.553 |
+| `code:ST` | XPlanung-Plattform Sachsen-Anhalt (LVermGeo ST); Bebauungspläne der Gemeinden | amtliches-werk — Quelle eingeschränkt: `lizenz_unklar` | 2.461 |
 | `land:ST_ALTMARK` | Region Altmark | keine-angabe | 236 |
 
 ## TH

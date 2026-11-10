@@ -9,7 +9,7 @@
   "lizenz_url": "",
   "bearbeitung_erlaubt": true,
   "einschraenkung": null,
-  "plaene": 7883
+  "plaene": 7886
  },
  {
   "schluessel": "land:BB_DIPLANUNG",
@@ -70,6 +70,18 @@
   "bearbeitung_erlaubt": true,
   "einschraenkung": null,
   "plaene": 753
+ },
+ {
+  "schluessel": "stadt:KARLSRUHE",
+  "land": "BW",
+  "bereitsteller": "Stadt Karlsruhe, Liegenschaftsamt",
+  "herausgeber": "Stadt Karlsruhe, Liegenschaftsamt",
+  "lizenz": "amtliches-werk",
+  "lizenz_angegeben": "genehmigungspflichtig",
+  "lizenz_url": null,
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": "genehmigung",
+  "plaene": 677
  },
  {
   "schluessel": "stadt:FREIBURG",
@@ -669,7 +681,7 @@
   "lizenz_url": "",
   "bearbeitung_erlaubt": true,
   "einschraenkung": null,
-  "plaene": 165
+  "plaene": 166
  },
  {
   "schluessel": "kommone:27",
@@ -804,6 +816,18 @@
   "plaene": 151
  },
  {
+  "schluessel": "kommone:105",
+  "land": "BW",
+  "bereitsteller": "Stadt Gerlingen (über Komm.ONE)",
+  "herausgeber": "Stadt Gerlingen",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 150
+ },
+ {
   "schluessel": "kommone:335",
   "land": "BW",
   "bereitsteller": "Gemeinde Efringen-Kirchen (über Komm.ONE)",
@@ -814,18 +838,6 @@
   "bearbeitung_erlaubt": true,
   "einschraenkung": null,
   "plaene": 150
- },
- {
-  "schluessel": "kommone:105",
-  "land": "BW",
-  "bereitsteller": "Stadt Gerlingen (über Komm.ONE)",
-  "herausgeber": "Stadt Gerlingen",
-  "lizenz": "keine-angabe",
-  "lizenz_angegeben": "keine-angabe",
-  "lizenz_url": "",
-  "bearbeitung_erlaubt": true,
-  "einschraenkung": null,
-  "plaene": 149
  },
  {
   "schluessel": "kommone:556",
@@ -1188,6 +1200,18 @@
   "plaene": 115
  },
  {
+  "schluessel": "kommone:71",
+  "land": "BW",
+  "bereitsteller": "Gemeinde Pleidelsheim (über Komm.ONE)",
+  "herausgeber": "Gemeinde Pleidelsheim",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 115
+ },
+ {
   "schluessel": "kommone:156",
   "land": "BW",
   "bereitsteller": "Gemeinde Essingen (über Komm.ONE)",
@@ -1216,18 +1240,6 @@
   "land": "BW",
   "bereitsteller": "Stadt Wiesloch (über Komm.ONE)",
   "herausgeber": "Stadt Wiesloch",
-  "lizenz": "keine-angabe",
-  "lizenz_angegeben": "keine-angabe",
-  "lizenz_url": "",
-  "bearbeitung_erlaubt": true,
-  "einschraenkung": null,
-  "plaene": 114
- },
- {
-  "schluessel": "kommone:71",
-  "land": "BW",
-  "bereitsteller": "Gemeinde Pleidelsheim (über Komm.ONE)",
-  "herausgeber": "Gemeinde Pleidelsheim",
   "lizenz": "keine-angabe",
   "lizenz_angegeben": "keine-angabe",
   "lizenz_url": "",
@@ -1308,6 +1320,18 @@
   "plaene": 111
  },
  {
+  "schluessel": "kommone:8",
+  "land": "BW",
+  "bereitsteller": "Gemeinde Murr (über Komm.ONE)",
+  "herausgeber": "Gemeinde Murr",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 111
+ },
+ {
   "schluessel": "kommone:133",
   "land": "BW",
   "bereitsteller": "Gemeinde Sersheim (über Komm.ONE)",
@@ -1336,18 +1360,6 @@
   "land": "BW",
   "bereitsteller": "Stadt Rheinfelden (Baden) (über Komm.ONE)",
   "herausgeber": "Stadt Rheinfelden (Baden)",
-  "lizenz": "keine-angabe",
-  "lizenz_angegeben": "keine-angabe",
-  "lizenz_url": "",
-  "bearbeitung_erlaubt": true,
-  "einschraenkung": null,
-  "plaene": 110
- },
- {
-  "schluessel": "kommone:8",
-  "land": "BW",
-  "bereitsteller": "Gemeinde Murr (über Komm.ONE)",
-  "herausgeber": "Gemeinde Murr",
   "lizenz": "keine-angabe",
   "lizenz_angegeben": "keine-angabe",
   "lizenz_url": "",
@@ -4596,18 +4608,6 @@
   "plaene": 25
  },
  {
-  "schluessel": "kommone:445",
-  "land": "BW",
-  "bereitsteller": "Gemeinde Stetten am kalten Markt (über Komm.ONE)",
-  "herausgeber": "Gemeinde Stetten am kalten Markt",
-  "lizenz": "keine-angabe",
-  "lizenz_angegeben": "keine-angabe",
-  "lizenz_url": "",
-  "bearbeitung_erlaubt": true,
-  "einschraenkung": null,
-  "plaene": 25
- },
- {
   "schluessel": "kommone:511",
   "land": "BW",
   "bereitsteller": "Gemeinde Oftersheim (über Komm.ONE)",
@@ -4684,6 +4684,18 @@
   "land": "BW",
   "bereitsteller": "Gemeinde Heiligenberg (über Komm.ONE)",
   "herausgeber": "Gemeinde Heiligenberg",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 24
+ },
+ {
+  "schluessel": "kommone:445",
+  "land": "BW",
+  "bereitsteller": "Gemeinde Stetten am kalten Markt (über Komm.ONE)",
+  "herausgeber": "Gemeinde Stetten am kalten Markt",
   "lizenz": "keine-angabe",
   "lizenz_angegeben": "keine-angabe",
   "lizenz_url": "",
@@ -5952,6 +5964,18 @@
   "plaene": 7
  },
  {
+  "schluessel": "kommone:269",
+  "land": "BW",
+  "bereitsteller": "Gemeinde Achstetten (über Komm.ONE)",
+  "herausgeber": "Gemeinde Achstetten",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 7
+ },
+ {
   "schluessel": "kommone:308",
   "land": "BW",
   "bereitsteller": "Gemeinde Waldbronn (über Komm.ONE)",
@@ -6112,18 +6136,6 @@
   "land": "BW",
   "bereitsteller": "Gemeinde Steinmauern (über Komm.ONE)",
   "herausgeber": "Gemeinde Steinmauern",
-  "lizenz": "keine-angabe",
-  "lizenz_angegeben": "keine-angabe",
-  "lizenz_url": "",
-  "bearbeitung_erlaubt": true,
-  "einschraenkung": null,
-  "plaene": 5
- },
- {
-  "schluessel": "kommone:269",
-  "land": "BW",
-  "bereitsteller": "Gemeinde Achstetten (über Komm.ONE)",
-  "herausgeber": "Gemeinde Achstetten",
   "lizenz": "keine-angabe",
   "lizenz_angegeben": "keine-angabe",
   "lizenz_url": "",
@@ -6573,7 +6585,7 @@
   "lizenz_url": "https://creativecommons.org/licenses/by-nd/4.0/deed.de",
   "bearbeitung_erlaubt": false,
   "einschraenkung": null,
-  "plaene": 17119
+  "plaene": 19015
  },
  {
   "schluessel": "land:BY_RIWA_TRAUNSTEIN_LK",
@@ -6585,7 +6597,7 @@
   "lizenz_url": "",
   "bearbeitung_erlaubt": true,
   "einschraenkung": null,
-  "plaene": 6493
+  "plaene": 6498
  },
  {
   "schluessel": "land:BY_RIWA_ROSENHEIM_LK",
@@ -6597,7 +6609,7 @@
   "lizenz_url": "",
   "bearbeitung_erlaubt": true,
   "einschraenkung": null,
-  "plaene": 4879
+  "plaene": 4906
  },
  {
   "schluessel": "land:BY_RIWA_MUENCHEN_LK",
@@ -6612,18 +6624,6 @@
   "plaene": 3430
  },
  {
-  "schluessel": "land:BY_RIWA_WEILHEIM_LK",
-  "land": "BY",
-  "bereitsteller": "Landratsamt Weilheim-Schongau (über RIWA GIS)",
-  "herausgeber": "Landratsamt Weilheim-Schongau",
-  "lizenz": "keine-angabe",
-  "lizenz_angegeben": "keine-angabe",
-  "lizenz_url": "",
-  "bearbeitung_erlaubt": true,
-  "einschraenkung": null,
-  "plaene": 3087
- },
- {
   "schluessel": "land:BY_RIWA_MIESBACH_LK",
   "land": "BY",
   "bereitsteller": "Landratsamt Miesbach (über RIWA GIS)",
@@ -6633,7 +6633,19 @@
   "lizenz_url": "",
   "bearbeitung_erlaubt": true,
   "einschraenkung": null,
-  "plaene": 2922
+  "plaene": 2809
+ },
+ {
+  "schluessel": "land:BY_RIWA_WEILHEIM_LK",
+  "land": "BY",
+  "bereitsteller": "Landratsamt Weilheim-Schongau (über RIWA GIS)",
+  "herausgeber": "Landratsamt Weilheim-Schongau",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 2733
  },
  {
   "schluessel": "land:BY_STARNBERG",
@@ -6645,7 +6657,7 @@
   "lizenz_url": "https://creativecommons.org/licenses/by/4.0/deed.de",
   "bearbeitung_erlaubt": true,
   "einschraenkung": null,
-  "plaene": 2461
+  "plaene": 2462
  },
  {
   "schluessel": "land:BY_RIWA_ERDING_LK",
@@ -6669,7 +6681,7 @@
   "lizenz_url": "",
   "bearbeitung_erlaubt": true,
   "einschraenkung": null,
-  "plaene": 2192
+  "plaene": 2195
  },
  {
   "schluessel": "land:BY_RIWA_MUEHLDORF_LK",
@@ -6696,18 +6708,6 @@
   "plaene": 1985
  },
  {
-  "schluessel": "land:BY_RIWA_OSTALLGAEU_LK",
-  "land": "BY",
-  "bereitsteller": "Landratsamt Ostallgäu (über RIWA GIS)",
-  "herausgeber": "Landratsamt Ostallgäu",
-  "lizenz": "keine-angabe",
-  "lizenz_angegeben": "keine-angabe",
-  "lizenz_url": "",
-  "bearbeitung_erlaubt": true,
-  "einschraenkung": null,
-  "plaene": 1921
- },
- {
   "schluessel": "land:BY_RIWA_ALTOETTING_LK",
   "land": "BY",
   "bereitsteller": "Landratsamt Altötting (über RIWA GIS)",
@@ -6717,7 +6717,19 @@
   "lizenz_url": "",
   "bearbeitung_erlaubt": true,
   "einschraenkung": null,
-  "plaene": 1886
+  "plaene": 1923
+ },
+ {
+  "schluessel": "land:BY_RIWA_OSTALLGAEU_LK",
+  "land": "BY",
+  "bereitsteller": "Landratsamt Ostallgäu (über RIWA GIS)",
+  "herausgeber": "Landratsamt Ostallgäu",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 1858
  },
  {
   "schluessel": "land:BY_RIWA_ANSBACH_LK",
@@ -6729,7 +6741,7 @@
   "lizenz_url": "",
   "bearbeitung_erlaubt": true,
   "einschraenkung": null,
-  "plaene": 1842
+  "plaene": 1841
  },
  {
   "schluessel": "land:BY_RIWA_EBERSBERG_LK",
@@ -6780,6 +6792,18 @@
   "plaene": 1517
  },
  {
+  "schluessel": "land:BY_RIWA_OBERALLGAEU_LK",
+  "land": "BY",
+  "bereitsteller": "Landratsamt Oberallgäu (über RIWA GIS)",
+  "herausgeber": "Landratsamt Oberallgäu",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 1473
+ },
+ {
   "schluessel": "land:BY_RIWA_MAINSPESSART_LK",
   "land": "BY",
   "bereitsteller": "Landratsamt Main-Spessart (über RIWA GIS)",
@@ -6789,7 +6813,19 @@
   "lizenz_url": "",
   "bearbeitung_erlaubt": true,
   "einschraenkung": null,
-  "plaene": 1408
+  "plaene": 1413
+ },
+ {
+  "schluessel": "land:BY_RIWA_ROTTAL_LK",
+  "land": "BY",
+  "bereitsteller": "Landratsamt Rottal-Inn (über RIWA GIS)",
+  "herausgeber": "Landratsamt Rottal-Inn",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 1254
  },
  {
   "schluessel": "reg:2",
@@ -6804,18 +6840,6 @@
   "plaene": 1240
  },
  {
-  "schluessel": "land:BY_RIWA_ROTTAL_LK",
-  "land": "BY",
-  "bereitsteller": "Landratsamt Rottal-Inn (über RIWA GIS)",
-  "herausgeber": "Landratsamt Rottal-Inn",
-  "lizenz": "keine-angabe",
-  "lizenz_angegeben": "keine-angabe",
-  "lizenz_url": "",
-  "bearbeitung_erlaubt": true,
-  "einschraenkung": null,
-  "plaene": 1128
- },
- {
   "schluessel": "land:BY_RIWA_GARMISCH_LK",
   "land": "BY",
   "bereitsteller": "Landratsamt Garmisch-Partenkirchen (über RIWA GIS)",
@@ -6825,7 +6849,19 @@
   "lizenz_url": "",
   "bearbeitung_erlaubt": true,
   "einschraenkung": null,
-  "plaene": 1126
+  "plaene": 1172
+ },
+ {
+  "schluessel": "land:BY_RIWA_TOELZ_LK",
+  "land": "BY",
+  "bereitsteller": "Landratsamt Bad Tölz-Wolfratshausen (über RIWA GIS)",
+  "herausgeber": "Landratsamt Bad Tölz-Wolfratshausen",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 1059
  },
  {
   "schluessel": "land:BY_RIWA_WUNSIEDEL_LK",
@@ -6840,30 +6876,6 @@
   "plaene": 1055
  },
  {
-  "schluessel": "land:BY_RIWA_TOELZ_LK",
-  "land": "BY",
-  "bereitsteller": "Landratsamt Bad Tölz-Wolfratshausen (über RIWA GIS)",
-  "herausgeber": "Landratsamt Bad Tölz-Wolfratshausen",
-  "lizenz": "keine-angabe",
-  "lizenz_angegeben": "keine-angabe",
-  "lizenz_url": "",
-  "bearbeitung_erlaubt": true,
-  "einschraenkung": null,
-  "plaene": 969
- },
- {
-  "schluessel": "land:BY_RIWA_OBERALLGAEU_LK",
-  "land": "BY",
-  "bereitsteller": "Landratsamt Oberallgäu (über RIWA GIS)",
-  "herausgeber": "Landratsamt Oberallgäu",
-  "lizenz": "keine-angabe",
-  "lizenz_angegeben": "keine-angabe",
-  "lizenz_url": "",
-  "bearbeitung_erlaubt": true,
-  "einschraenkung": null,
-  "plaene": 910
- },
- {
   "schluessel": "land:BY_RIWA_FUERTH_LK",
   "land": "BY",
   "bereitsteller": "Landratsamt Fürth (über RIWA GIS)",
@@ -6873,7 +6885,7 @@
   "lizenz_url": "",
   "bearbeitung_erlaubt": true,
   "einschraenkung": null,
-  "plaene": 844
+  "plaene": 848
  },
  {
   "schluessel": "land:BY_RIWA_KULMBACH_LK",
@@ -6897,7 +6909,7 @@
   "lizenz_url": "",
   "bearbeitung_erlaubt": true,
   "einschraenkung": null,
-  "plaene": 778
+  "plaene": 782
  },
  {
   "schluessel": "stadt:PASSAU",
@@ -6948,6 +6960,18 @@
   "plaene": 538
  },
  {
+  "schluessel": "land:BY_RIWA_LINDAU_LK",
+  "land": "BY",
+  "bereitsteller": "Landratsamt Lindau (Bodensee) (über RIWA GIS)",
+  "herausgeber": "Landratsamt Lindau (Bodensee)",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 517
+ },
+ {
   "schluessel": "land:BY_RIWA_LICHTENFELS_LK",
   "land": "BY",
   "bereitsteller": "Landratsamt Lichtenfels (über RIWA GIS)",
@@ -6969,7 +6993,7 @@
   "lizenz_url": "",
   "bearbeitung_erlaubt": true,
   "einschraenkung": null,
-  "plaene": 481
+  "plaene": 482
  },
  {
   "schluessel": "land:BY_RIWA_ANSBACH_GD",
@@ -6996,16 +7020,16 @@
   "plaene": 435
  },
  {
-  "schluessel": "land:BY_RIWA_LINDAU_LK",
+  "schluessel": "stadt:REGENSBURG",
   "land": "BY",
-  "bereitsteller": "Landratsamt Lindau (Bodensee) (über RIWA GIS)",
-  "herausgeber": "Landratsamt Lindau (Bodensee)",
-  "lizenz": "keine-angabe",
-  "lizenz_angegeben": "keine-angabe",
-  "lizenz_url": "",
+  "bereitsteller": "Stadt Regensburg",
+  "herausgeber": "Stadt Regensburg",
+  "lizenz": "amtliches-werk",
+  "lizenz_angegeben": "nicht-kommerziell",
+  "lizenz_url": null,
   "bearbeitung_erlaubt": true,
-  "einschraenkung": null,
-  "plaene": 381
+  "einschraenkung": "nicht_kommerziell",
+  "plaene": 337
  },
  {
   "schluessel": "land:BY_RIWA_LANDAU_GD",
@@ -7065,7 +7089,7 @@
   "lizenz_url": "",
   "bearbeitung_erlaubt": true,
   "einschraenkung": null,
-  "plaene": 182
+  "plaene": 196
  },
  {
   "schluessel": "reg:121",
@@ -7161,7 +7185,7 @@
   "lizenz_url": "",
   "bearbeitung_erlaubt": true,
   "einschraenkung": null,
-  "plaene": 36
+  "plaene": 37
  },
  {
   "schluessel": "land:BY_RIWA_WELLHEIM_GD",
@@ -7209,7 +7233,7 @@
   "lizenz_url": "https://creativecommons.org/licenses/by-nd/4.0/deed.de",
   "bearbeitung_erlaubt": false,
   "einschraenkung": null,
-  "plaene": 5
+  "plaene": 7
  },
  {
   "schluessel": "stadt:ASCHAFFENBURG",
@@ -7233,7 +7257,7 @@
   "lizenz_url": "",
   "bearbeitung_erlaubt": true,
   "einschraenkung": null,
-  "plaene": 1485
+  "plaene": 1486
  },
  {
   "schluessel": "land:HB_BHV",
@@ -7257,7 +7281,7 @@
   "lizenz_url": "https://creativecommons.org/publicdomain/zero/1.0/deed.de",
   "bearbeitung_erlaubt": true,
   "einschraenkung": null,
-  "plaene": 2586
+  "plaene": 2588
  },
  {
   "schluessel": "reg:31",
@@ -7368,6 +7392,18 @@
   "plaene": 439
  },
  {
+  "schluessel": "land:HE_REGIONALVERBAND_FRM",
+  "land": "HE",
+  "bereitsteller": "Regionalverband FrankfurtRheinMain",
+  "herausgeber": "Regionalverband FrankfurtRheinMain",
+  "lizenz": "amtliches-werk",
+  "lizenz_angegeben": "nicht-kommerziell",
+  "lizenz_url": null,
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": "nicht_kommerziell",
+  "plaene": 431
+ },
+ {
   "schluessel": "stadt:DARMSTADT",
   "land": "HE",
   "bereitsteller": "Wissenschaftsstadt Darmstadt (dl-de/by-2-0)",
@@ -7404,6 +7440,66 @@
   "plaene": 200
  },
  {
+  "schluessel": "land:HE_NORDHESSEN_EWG",
+  "land": "HE",
+  "bereitsteller": "Eschwege (GDI-Nordhessen)",
+  "herausgeber": "Eschwege (GDI-Nordhessen)",
+  "lizenz": "amtliches-werk",
+  "lizenz_angegeben": "nicht-kommerziell",
+  "lizenz_url": null,
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": "nicht_kommerziell",
+  "plaene": 199
+ },
+ {
+  "schluessel": "land:HE_MARBURG_BIEDENKOPF_06534011",
+  "land": "HE",
+  "bereitsteller": "Kirchhain (Geoservices Landkreis Marburg-Biedenkopf)",
+  "herausgeber": "Kirchhain (Geoservices Landkreis Marburg-Biedenkopf)",
+  "lizenz": "amtliches-werk",
+  "lizenz_angegeben": "nicht-kommerziell",
+  "lizenz_url": null,
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": "nicht_kommerziell",
+  "plaene": 187
+ },
+ {
+  "schluessel": "land:HE_NORDHESSEN_BAH",
+  "land": "HE",
+  "bereitsteller": "Bad Hersfeld (GDI-Nordhessen)",
+  "herausgeber": "Bad Hersfeld (GDI-Nordhessen)",
+  "lizenz": "amtliches-werk",
+  "lizenz_angegeben": "nicht-kommerziell",
+  "lizenz_url": null,
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": "nicht_kommerziell",
+  "plaene": 182
+ },
+ {
+  "schluessel": "land:HE_NORDHESSEN_WHS",
+  "land": "HE",
+  "bereitsteller": "Witzenhausen (GDI-Nordhessen)",
+  "herausgeber": "Witzenhausen (GDI-Nordhessen)",
+  "lizenz": "amtliches-werk",
+  "lizenz_angegeben": "nicht-kommerziell",
+  "lizenz_url": null,
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": "nicht_kommerziell",
+  "plaene": 182
+ },
+ {
+  "schluessel": "land:HE_NORDHESSEN_HOM",
+  "land": "HE",
+  "bereitsteller": "Homberg (GDI-Nordhessen)",
+  "herausgeber": "Homberg (GDI-Nordhessen)",
+  "lizenz": "amtliches-werk",
+  "lizenz_angegeben": "nicht-kommerziell",
+  "lizenz_url": null,
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": "nicht_kommerziell",
+  "plaene": 179
+ },
+ {
   "schluessel": "land:HE_GDI_HOFHEIM",
   "land": "HE",
   "bereitsteller": "Kreisstadt Hofheim am Taunus (dl-de/by-2-0)",
@@ -7413,6 +7509,18 @@
   "lizenz_url": "https://www.govdata.de/dl-de/by-2-0",
   "bearbeitung_erlaubt": true,
   "einschraenkung": null,
+  "plaene": 171
+ },
+ {
+  "schluessel": "land:HE_NORDHESSEN_FZL",
+  "land": "HE",
+  "bereitsteller": "Fritzlar (GDI-Nordhessen)",
+  "herausgeber": "Fritzlar (GDI-Nordhessen)",
+  "lizenz": "amtliches-werk",
+  "lizenz_angegeben": "nicht-kommerziell",
+  "lizenz_url": null,
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": "nicht_kommerziell",
   "plaene": 171
  },
  {
@@ -7426,6 +7534,42 @@
   "bearbeitung_erlaubt": true,
   "einschraenkung": null,
   "plaene": 167
+ },
+ {
+  "schluessel": "land:HE_NORDHESSEN_SWS",
+  "land": "HE",
+  "bereitsteller": "Schwalmstadt (GDI-Nordhessen)",
+  "herausgeber": "Schwalmstadt (GDI-Nordhessen)",
+  "lizenz": "amtliches-werk",
+  "lizenz_angegeben": "nicht-kommerziell",
+  "lizenz_url": null,
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": "nicht_kommerziell",
+  "plaene": 167
+ },
+ {
+  "schluessel": "land:HE_NORDHESSEN_BWI",
+  "land": "HE",
+  "bereitsteller": "Bad Wildungen (GDI-Nordhessen)",
+  "herausgeber": "Bad Wildungen (GDI-Nordhessen)",
+  "lizenz": "amtliches-werk",
+  "lizenz_angegeben": "nicht-kommerziell",
+  "lizenz_url": null,
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": "nicht_kommerziell",
+  "plaene": 156
+ },
+ {
+  "schluessel": "land:HE_VB_ALSFELD",
+  "land": "HE",
+  "bereitsteller": "Stadt Alsfeld (Geoportal Vogelsberg)",
+  "herausgeber": "Stadt Alsfeld (Geoportal Vogelsberg)",
+  "lizenz": "amtliches-werk",
+  "lizenz_angegeben": "nicht-kommerziell",
+  "lizenz_url": null,
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": "nicht_kommerziell",
+  "plaene": 154
  },
  {
   "schluessel": "land:HE_GDI_DIETZENBACH",
@@ -7462,6 +7606,18 @@
   "bearbeitung_erlaubt": true,
   "einschraenkung": null,
   "plaene": 136
+ },
+ {
+  "schluessel": "land:HE_NORDHESSEN_FKB",
+  "land": "HE",
+  "bereitsteller": "Burgwald /Frankenberg (GDI-Nordhessen)",
+  "herausgeber": "Burgwald /Frankenberg (GDI-Nordhessen)",
+  "lizenz": "amtliches-werk",
+  "lizenz_angegeben": "nicht-kommerziell",
+  "lizenz_url": null,
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": "nicht_kommerziell",
+  "plaene": 132
  },
  {
   "schluessel": "stadt:ASSLAR",
@@ -7512,6 +7668,42 @@
   "plaene": 125
  },
  {
+  "schluessel": "land:HE_NORDHESSEN_GDB",
+  "land": "HE",
+  "bereitsteller": "Gudensberg (GDI-Nordhessen)",
+  "herausgeber": "Gudensberg (GDI-Nordhessen)",
+  "lizenz": "amtliches-werk",
+  "lizenz_angegeben": "nicht-kommerziell",
+  "lizenz_url": null,
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": "nicht_kommerziell",
+  "plaene": 125
+ },
+ {
+  "schluessel": "land:HE_NORDHESSEN_WIL",
+  "land": "HE",
+  "bereitsteller": "Willingen (Upland) (GDI-Nordhessen)",
+  "herausgeber": "Willingen (Upland) (GDI-Nordhessen)",
+  "lizenz": "amtliches-werk",
+  "lizenz_angegeben": "nicht-kommerziell",
+  "lizenz_url": null,
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": "nicht_kommerziell",
+  "plaene": 122
+ },
+ {
+  "schluessel": "land:HE_VB_MUECKE",
+  "land": "HE",
+  "bereitsteller": "Gemeinde Mücke (Geoportal Vogelsberg)",
+  "herausgeber": "Gemeinde Mücke (Geoportal Vogelsberg)",
+  "lizenz": "amtliches-werk",
+  "lizenz_angegeben": "nicht-kommerziell",
+  "lizenz_url": null,
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": "nicht_kommerziell",
+  "plaene": 121
+ },
+ {
   "schluessel": "land:HE_GDI_ROSSDORF",
   "land": "HE",
   "bereitsteller": "Gemeinde Roßdorf (dl-de/by-2-0)",
@@ -7524,6 +7716,54 @@
   "plaene": 118
  },
  {
+  "schluessel": "land:HE_NORDHESSEN_KOR",
+  "land": "HE",
+  "bereitsteller": "Korbach (GDI-Nordhessen)",
+  "herausgeber": "Korbach (GDI-Nordhessen)",
+  "lizenz": "amtliches-werk",
+  "lizenz_angegeben": "nicht-kommerziell",
+  "lizenz_url": null,
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": "nicht_kommerziell",
+  "plaene": 116
+ },
+ {
+  "schluessel": "land:HE_NORDHESSEN_ROF",
+  "land": "HE",
+  "bereitsteller": "Rotenburg an der Fulda (GDI-Nordhessen)",
+  "herausgeber": "Rotenburg an der Fulda (GDI-Nordhessen)",
+  "lizenz": "amtliches-werk",
+  "lizenz_angegeben": "nicht-kommerziell",
+  "lizenz_url": null,
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": "nicht_kommerziell",
+  "plaene": 115
+ },
+ {
+  "schluessel": "land:HE_MARBURG_BIEDENKOPF_06534007",
+  "land": "HE",
+  "bereitsteller": "Dautphetal (Geoservices Landkreis Marburg-Biedenkopf)",
+  "herausgeber": "Dautphetal (Geoservices Landkreis Marburg-Biedenkopf)",
+  "lizenz": "amtliches-werk",
+  "lizenz_angegeben": "nicht-kommerziell",
+  "lizenz_url": null,
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": "nicht_kommerziell",
+  "plaene": 108
+ },
+ {
+  "schluessel": "land:HE_NORDHESSEN_FRD",
+  "land": "HE",
+  "bereitsteller": "Frielendorf (GDI-Nordhessen)",
+  "herausgeber": "Frielendorf (GDI-Nordhessen)",
+  "lizenz": "amtliches-werk",
+  "lizenz_angegeben": "nicht-kommerziell",
+  "lizenz_url": null,
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": "nicht_kommerziell",
+  "plaene": 107
+ },
+ {
   "schluessel": "land:HE_VB_HOMBERG",
   "land": "HE",
   "bereitsteller": "Homberg (Ohm), Geoportal Vogelsberg",
@@ -7534,6 +7774,54 @@
   "bearbeitung_erlaubt": true,
   "einschraenkung": null,
   "plaene": 106
+ },
+ {
+  "schluessel": "land:HE_MARBURG_BIEDENKOPF_06534018",
+  "land": "HE",
+  "bereitsteller": "Stadtallendorf (Geoservices Landkreis Marburg-Biedenkopf)",
+  "herausgeber": "Stadtallendorf (Geoservices Landkreis Marburg-Biedenkopf)",
+  "lizenz": "amtliches-werk",
+  "lizenz_angegeben": "nicht-kommerziell",
+  "lizenz_url": null,
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": "nicht_kommerziell",
+  "plaene": 105
+ },
+ {
+  "schluessel": "land:HE_NORDHESSEN_BEB",
+  "land": "HE",
+  "bereitsteller": "Bebra (GDI-Nordhessen)",
+  "herausgeber": "Bebra (GDI-Nordhessen)",
+  "lizenz": "amtliches-werk",
+  "lizenz_angegeben": "nicht-kommerziell",
+  "lizenz_url": null,
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": "nicht_kommerziell",
+  "plaene": 104
+ },
+ {
+  "schluessel": "land:HE_NORDHESSEN_HLT",
+  "land": "HE",
+  "bereitsteller": "Hessisch Lichtenau (GDI-Nordhessen)",
+  "herausgeber": "Hessisch Lichtenau (GDI-Nordhessen)",
+  "lizenz": "amtliches-werk",
+  "lizenz_angegeben": "nicht-kommerziell",
+  "lizenz_url": null,
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": "nicht_kommerziell",
+  "plaene": 102
+ },
+ {
+  "schluessel": "land:HE_NORDHESSEN_BAA",
+  "land": "HE",
+  "bereitsteller": "Bad Arolsen (GDI-Nordhessen)",
+  "herausgeber": "Bad Arolsen (GDI-Nordhessen)",
+  "lizenz": "amtliches-werk",
+  "lizenz_angegeben": "nicht-kommerziell",
+  "lizenz_url": null,
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": "nicht_kommerziell",
+  "plaene": 101
  },
  {
   "schluessel": "land:HE_VB_HERBSTEIN",
@@ -7558,6 +7846,78 @@
   "bearbeitung_erlaubt": true,
   "einschraenkung": null,
   "plaene": 99
+ },
+ {
+  "schluessel": "land:HE_NORDHESSEN_NKH",
+  "land": "HE",
+  "bereitsteller": "Neukirchen (GDI-Nordhessen)",
+  "herausgeber": "Neukirchen (GDI-Nordhessen)",
+  "lizenz": "amtliches-werk",
+  "lizenz_angegeben": "nicht-kommerziell",
+  "lizenz_url": null,
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": "nicht_kommerziell",
+  "plaene": 98
+ },
+ {
+  "schluessel": "land:HE_MARBURG_BIEDENKOPF_06534010",
+  "land": "HE",
+  "bereitsteller": "Gladenbach (Geoservices Landkreis Marburg-Biedenkopf)",
+  "herausgeber": "Gladenbach (Geoservices Landkreis Marburg-Biedenkopf)",
+  "lizenz": "amtliches-werk",
+  "lizenz_angegeben": "nicht-kommerziell",
+  "lizenz_url": null,
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": "nicht_kommerziell",
+  "plaene": 95
+ },
+ {
+  "schluessel": "land:HE_NORDHESSEN_BSA",
+  "land": "HE",
+  "bereitsteller": "Bad Sooden-Allendorf (GDI-Nordhessen)",
+  "herausgeber": "Bad Sooden-Allendorf (GDI-Nordhessen)",
+  "lizenz": "amtliches-werk",
+  "lizenz_angegeben": "nicht-kommerziell",
+  "lizenz_url": null,
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": "nicht_kommerziell",
+  "plaene": 95
+ },
+ {
+  "schluessel": "land:HE_NORDHESSEN_FLB",
+  "land": "HE",
+  "bereitsteller": "Felsberg (GDI-Nordhessen)",
+  "herausgeber": "Felsberg (GDI-Nordhessen)",
+  "lizenz": "amtliches-werk",
+  "lizenz_angegeben": "nicht-kommerziell",
+  "lizenz_url": null,
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": "nicht_kommerziell",
+  "plaene": 93
+ },
+ {
+  "schluessel": "land:HE_MARBURG_BIEDENKOPF_06534008",
+  "land": "HE",
+  "bereitsteller": "Ebsdorfergrund (Geoservices Landkreis Marburg-Biedenkopf)",
+  "herausgeber": "Ebsdorfergrund (Geoservices Landkreis Marburg-Biedenkopf)",
+  "lizenz": "amtliches-werk",
+  "lizenz_angegeben": "nicht-kommerziell",
+  "lizenz_url": null,
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": "nicht_kommerziell",
+  "plaene": 91
+ },
+ {
+  "schluessel": "land:HE_NORDHESSEN_NIE",
+  "land": "HE",
+  "bereitsteller": "Niederaula (GDI-Nordhessen)",
+  "herausgeber": "Niederaula (GDI-Nordhessen)",
+  "lizenz": "amtliches-werk",
+  "lizenz_angegeben": "nicht-kommerziell",
+  "lizenz_url": null,
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": "nicht_kommerziell",
+  "plaene": 91
  },
  {
   "schluessel": "stadt:HUETTENBERG",
@@ -7596,6 +7956,42 @@
   "plaene": 85
  },
  {
+  "schluessel": "land:HE_NORDHESSEN_HAU",
+  "land": "HE",
+  "bereitsteller": "Hauneck (GDI-Nordhessen)",
+  "herausgeber": "Hauneck (GDI-Nordhessen)",
+  "lizenz": "amtliches-werk",
+  "lizenz_angegeben": "nicht-kommerziell",
+  "lizenz_url": null,
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": "nicht_kommerziell",
+  "plaene": 82
+ },
+ {
+  "schluessel": "land:HE_NORDHESSEN_MLS",
+  "land": "HE",
+  "bereitsteller": "Melsungen (GDI-Nordhessen)",
+  "herausgeber": "Melsungen (GDI-Nordhessen)",
+  "lizenz": "amtliches-werk",
+  "lizenz_angegeben": "nicht-kommerziell",
+  "lizenz_url": null,
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": "nicht_kommerziell",
+  "plaene": 81
+ },
+ {
+  "schluessel": "land:HE_NORDHESSEN_EDM",
+  "land": "HE",
+  "bereitsteller": "Edermünde (GDI-Nordhessen)",
+  "herausgeber": "Edermünde (GDI-Nordhessen)",
+  "lizenz": "amtliches-werk",
+  "lizenz_angegeben": "nicht-kommerziell",
+  "lizenz_url": null,
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": "nicht_kommerziell",
+  "plaene": 80
+ },
+ {
   "schluessel": "land:HE_VB_FREIENSTEINAU",
   "land": "HE",
   "bereitsteller": "Freiensteinau, Geoportal Vogelsberg",
@@ -7632,6 +8028,42 @@
   "plaene": 80
  },
  {
+  "schluessel": "land:HE_NORDHESSEN_NST",
+  "land": "HE",
+  "bereitsteller": "Neuenstein (GDI-Nordhessen)",
+  "herausgeber": "Neuenstein (GDI-Nordhessen)",
+  "lizenz": "amtliches-werk",
+  "lizenz_angegeben": "nicht-kommerziell",
+  "lizenz_url": null,
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": "nicht_kommerziell",
+  "plaene": 79
+ },
+ {
+  "schluessel": "land:HE_MARBURG_BIEDENKOPF_06534013",
+  "land": "HE",
+  "bereitsteller": "Lohra (Geoservices Landkreis Marburg-Biedenkopf)",
+  "herausgeber": "Lohra (Geoservices Landkreis Marburg-Biedenkopf)",
+  "lizenz": "amtliches-werk",
+  "lizenz_angegeben": "nicht-kommerziell",
+  "lizenz_url": null,
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": "nicht_kommerziell",
+  "plaene": 78
+ },
+ {
+  "schluessel": "land:HE_NORDHESSEN_HRG",
+  "land": "HE",
+  "bereitsteller": "Heringen (GDI-Nordhessen)",
+  "herausgeber": "Heringen (GDI-Nordhessen)",
+  "lizenz": "amtliches-werk",
+  "lizenz_angegeben": "nicht-kommerziell",
+  "lizenz_url": null,
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": "nicht_kommerziell",
+  "plaene": 78
+ },
+ {
   "schluessel": "land:HE_GDI_MUENSTER_HESSEN",
   "land": "HE",
   "bereitsteller": "Gemeinde Münster (Hessen) (dl-de/by-2-0)",
@@ -7642,6 +8074,102 @@
   "bearbeitung_erlaubt": true,
   "einschraenkung": null,
   "plaene": 77
+ },
+ {
+  "schluessel": "land:HE_MARBURG_BIEDENKOPF_06534012",
+  "land": "HE",
+  "bereitsteller": "Lahntal (Geoservices Landkreis Marburg-Biedenkopf)",
+  "herausgeber": "Lahntal (Geoservices Landkreis Marburg-Biedenkopf)",
+  "lizenz": "amtliches-werk",
+  "lizenz_angegeben": "nicht-kommerziell",
+  "lizenz_url": null,
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": "nicht_kommerziell",
+  "plaene": 77
+ },
+ {
+  "schluessel": "land:HE_MARBURG_BIEDENKOPF_06534004",
+  "land": "HE",
+  "bereitsteller": "Biedenkopf (Geoservices Landkreis Marburg-Biedenkopf)",
+  "herausgeber": "Biedenkopf (Geoservices Landkreis Marburg-Biedenkopf)",
+  "lizenz": "amtliches-werk",
+  "lizenz_angegeben": "nicht-kommerziell",
+  "lizenz_url": null,
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": "nicht_kommerziell",
+  "plaene": 76
+ },
+ {
+  "schluessel": "land:HE_NORDHESSEN_ALL",
+  "land": "HE",
+  "bereitsteller": "Allendorf (Eder) (GDI-Nordhessen)",
+  "herausgeber": "Allendorf (Eder) (GDI-Nordhessen)",
+  "lizenz": "amtliches-werk",
+  "lizenz_angegeben": "nicht-kommerziell",
+  "lizenz_url": null,
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": "nicht_kommerziell",
+  "plaene": 75
+ },
+ {
+  "schluessel": "land:HE_MARBURG_BIEDENKOPF_06534003",
+  "land": "HE",
+  "bereitsteller": "Bad Endbach (Geoservices Landkreis Marburg-Biedenkopf)",
+  "herausgeber": "Bad Endbach (Geoservices Landkreis Marburg-Biedenkopf)",
+  "lizenz": "amtliches-werk",
+  "lizenz_angegeben": "nicht-kommerziell",
+  "lizenz_url": null,
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": "nicht_kommerziell",
+  "plaene": 72
+ },
+ {
+  "schluessel": "land:HE_NORDHESSEN_GAL",
+  "land": "HE",
+  "bereitsteller": "Großalmerode (GDI-Nordhessen)",
+  "herausgeber": "Großalmerode (GDI-Nordhessen)",
+  "lizenz": "amtliches-werk",
+  "lizenz_angegeben": "nicht-kommerziell",
+  "lizenz_url": null,
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": "nicht_kommerziell",
+  "plaene": 72
+ },
+ {
+  "schluessel": "land:HE_MARBURG_BIEDENKOPF_06534020",
+  "land": "HE",
+  "bereitsteller": "Weimar (Lahn) (Geoservices Landkreis Marburg-Biedenkopf)",
+  "herausgeber": "Weimar (Lahn) (Geoservices Landkreis Marburg-Biedenkopf)",
+  "lizenz": "amtliches-werk",
+  "lizenz_angegeben": "nicht-kommerziell",
+  "lizenz_url": null,
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": "nicht_kommerziell",
+  "plaene": 71
+ },
+ {
+  "schluessel": "land:HE_NORDHESSEN_DIS",
+  "land": "HE",
+  "bereitsteller": "Diemelsee (GDI-Nordhessen)",
+  "herausgeber": "Diemelsee (GDI-Nordhessen)",
+  "lizenz": "amtliches-werk",
+  "lizenz_angegeben": "nicht-kommerziell",
+  "lizenz_url": null,
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": "nicht_kommerziell",
+  "plaene": 70
+ },
+ {
+  "schluessel": "land:HE_NORDHESSEN_WAL",
+  "land": "HE",
+  "bereitsteller": "Waldeck (GDI-Nordhessen)",
+  "herausgeber": "Waldeck (GDI-Nordhessen)",
+  "lizenz": "amtliches-werk",
+  "lizenz_angegeben": "nicht-kommerziell",
+  "lizenz_url": null,
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": "nicht_kommerziell",
+  "plaene": 70
  },
  {
   "schluessel": "stadt:SCHOEFFENGRUND",
@@ -7656,6 +8184,90 @@
   "plaene": 70
  },
  {
+  "schluessel": "land:HE_NORDHESSEN_ALH",
+  "land": "HE",
+  "bereitsteller": "Alheim (GDI-Nordhessen)",
+  "herausgeber": "Alheim (GDI-Nordhessen)",
+  "lizenz": "amtliches-werk",
+  "lizenz_angegeben": "nicht-kommerziell",
+  "lizenz_url": null,
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": "nicht_kommerziell",
+  "plaene": 69
+ },
+ {
+  "schluessel": "land:HE_NORDHESSEN_STR",
+  "land": "HE",
+  "bereitsteller": "Sontra (GDI-Nordhessen)",
+  "herausgeber": "Sontra (GDI-Nordhessen)",
+  "lizenz": "amtliches-werk",
+  "lizenz_angegeben": "nicht-kommerziell",
+  "lizenz_url": null,
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": "nicht_kommerziell",
+  "plaene": 68
+ },
+ {
+  "schluessel": "land:HE_NORDHESSEN_WDK",
+  "land": "HE",
+  "bereitsteller": "Wildeck (GDI-Nordhessen)",
+  "herausgeber": "Wildeck (GDI-Nordhessen)",
+  "lizenz": "amtliches-werk",
+  "lizenz_angegeben": "nicht-kommerziell",
+  "lizenz_url": null,
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": "nicht_kommerziell",
+  "plaene": 68
+ },
+ {
+  "schluessel": "land:HE_NORDHESSEN_VOL",
+  "land": "HE",
+  "bereitsteller": "Volkmarsen (GDI-Nordhessen)",
+  "herausgeber": "Volkmarsen (GDI-Nordhessen)",
+  "lizenz": "amtliches-werk",
+  "lizenz_angegeben": "nicht-kommerziell",
+  "lizenz_url": null,
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": "nicht_kommerziell",
+  "plaene": 66
+ },
+ {
+  "schluessel": "land:HE_NORDHESSEN_NDS",
+  "land": "HE",
+  "bereitsteller": "Niedenstein (GDI-Nordhessen)",
+  "herausgeber": "Niedenstein (GDI-Nordhessen)",
+  "lizenz": "amtliches-werk",
+  "lizenz_angegeben": "nicht-kommerziell",
+  "lizenz_url": null,
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": "nicht_kommerziell",
+  "plaene": 65
+ },
+ {
+  "schluessel": "land:HE_NORDHESSEN_KRH",
+  "land": "HE",
+  "bereitsteller": "Kirchheim (GDI-Nordhessen)",
+  "herausgeber": "Kirchheim (GDI-Nordhessen)",
+  "lizenz": "amtliches-werk",
+  "lizenz_angegeben": "nicht-kommerziell",
+  "lizenz_url": null,
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": "nicht_kommerziell",
+  "plaene": 64
+ },
+ {
+  "schluessel": "land:HE_NORDHESSEN_WFD",
+  "land": "HE",
+  "bereitsteller": "Wanfried (GDI-Nordhessen)",
+  "herausgeber": "Wanfried (GDI-Nordhessen)",
+  "lizenz": "amtliches-werk",
+  "lizenz_angegeben": "nicht-kommerziell",
+  "lizenz_url": null,
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": "nicht_kommerziell",
+  "plaene": 64
+ },
+ {
   "schluessel": "land:HE_GDI_ODENWALD",
   "land": "HE",
   "bereitsteller": "Der Kreisausschuss des Odenwaldkreises (dl-de/by-2-0)",
@@ -7668,6 +8280,138 @@
   "plaene": 63
  },
  {
+  "schluessel": "land:HE_NORDHESSEN_WKL",
+  "land": "HE",
+  "bereitsteller": "Waldkappel (GDI-Nordhessen)",
+  "herausgeber": "Waldkappel (GDI-Nordhessen)",
+  "lizenz": "amtliches-werk",
+  "lizenz_angegeben": "nicht-kommerziell",
+  "lizenz_url": null,
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": "nicht_kommerziell",
+  "plaene": 63
+ },
+ {
+  "schluessel": "land:HE_MARBURG_BIEDENKOPF_06534005",
+  "land": "HE",
+  "bereitsteller": "Breidenbach (Geoservices Landkreis Marburg-Biedenkopf)",
+  "herausgeber": "Breidenbach (Geoservices Landkreis Marburg-Biedenkopf)",
+  "lizenz": "amtliches-werk",
+  "lizenz_angegeben": "nicht-kommerziell",
+  "lizenz_url": null,
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": "nicht_kommerziell",
+  "plaene": 62
+ },
+ {
+  "schluessel": "land:HE_MARBURG_BIEDENKOPF_06534006",
+  "land": "HE",
+  "bereitsteller": "Cölbe (Geoservices Landkreis Marburg-Biedenkopf)",
+  "herausgeber": "Cölbe (Geoservices Landkreis Marburg-Biedenkopf)",
+  "lizenz": "amtliches-werk",
+  "lizenz_angegeben": "nicht-kommerziell",
+  "lizenz_url": null,
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": "nicht_kommerziell",
+  "plaene": 61
+ },
+ {
+  "schluessel": "land:HE_MARBURG_BIEDENKOPF_06534001",
+  "land": "HE",
+  "bereitsteller": "Amöneburg (Geoservices Landkreis Marburg-Biedenkopf)",
+  "herausgeber": "Amöneburg (Geoservices Landkreis Marburg-Biedenkopf)",
+  "lizenz": "amtliches-werk",
+  "lizenz_angegeben": "nicht-kommerziell",
+  "lizenz_url": null,
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": "nicht_kommerziell",
+  "plaene": 60
+ },
+ {
+  "schluessel": "land:HE_NORDHESSEN_EDT",
+  "land": "HE",
+  "bereitsteller": "Edertal (GDI-Nordhessen)",
+  "herausgeber": "Edertal (GDI-Nordhessen)",
+  "lizenz": "amtliches-werk",
+  "lizenz_angegeben": "nicht-kommerziell",
+  "lizenz_url": null,
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": "nicht_kommerziell",
+  "plaene": 60
+ },
+ {
+  "schluessel": "land:HE_NORDHESSEN_WAB",
+  "land": "HE",
+  "bereitsteller": "Wabern (GDI-Nordhessen)",
+  "herausgeber": "Wabern (GDI-Nordhessen)",
+  "lizenz": "amtliches-werk",
+  "lizenz_angegeben": "nicht-kommerziell",
+  "lizenz_url": null,
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": "nicht_kommerziell",
+  "plaene": 60
+ },
+ {
+  "schluessel": "land:HE_NORDHESSEN_VHL",
+  "land": "HE",
+  "bereitsteller": "Vöhl (GDI-Nordhessen)",
+  "herausgeber": "Vöhl (GDI-Nordhessen)",
+  "lizenz": "amtliches-werk",
+  "lizenz_angegeben": "nicht-kommerziell",
+  "lizenz_url": null,
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": "nicht_kommerziell",
+  "plaene": 56
+ },
+ {
+  "schluessel": "land:HE_NORDHESSEN_BOR",
+  "land": "HE",
+  "bereitsteller": "Borken (GDI-Nordhessen)",
+  "herausgeber": "Borken (GDI-Nordhessen)",
+  "lizenz": "amtliches-werk",
+  "lizenz_angegeben": "nicht-kommerziell",
+  "lizenz_url": null,
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": "nicht_kommerziell",
+  "plaene": 55
+ },
+ {
+  "schluessel": "land:HE_NORDHESSEN_BUR",
+  "land": "HE",
+  "bereitsteller": "Burgwald /Frankenberg (GDI-Nordhessen)",
+  "herausgeber": "Burgwald /Frankenberg (GDI-Nordhessen)",
+  "lizenz": "amtliches-werk",
+  "lizenz_angegeben": "nicht-kommerziell",
+  "lizenz_url": null,
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": "nicht_kommerziell",
+  "plaene": 55
+ },
+ {
+  "schluessel": "land:HE_NORDHESSEN_GXH",
+  "land": "HE",
+  "bereitsteller": "Guxhagen (GDI-Nordhessen)",
+  "herausgeber": "Guxhagen (GDI-Nordhessen)",
+  "lizenz": "amtliches-werk",
+  "lizenz_angegeben": "nicht-kommerziell",
+  "lizenz_url": null,
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": "nicht_kommerziell",
+  "plaene": 55
+ },
+ {
+  "schluessel": "land:HE_NORDHESSEN_DST",
+  "land": "HE",
+  "bereitsteller": "Diemelstadt (GDI-Nordhessen)",
+  "herausgeber": "Diemelstadt (GDI-Nordhessen)",
+  "lizenz": "amtliches-werk",
+  "lizenz_angegeben": "nicht-kommerziell",
+  "lizenz_url": null,
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": "nicht_kommerziell",
+  "plaene": 54
+ },
+ {
   "schluessel": "land:HE_VB_KIRTORF",
   "land": "HE",
   "bereitsteller": "Kirtorf, Geoportal Vogelsberg",
@@ -7678,6 +8422,18 @@
   "bearbeitung_erlaubt": true,
   "einschraenkung": null,
   "plaene": 54
+ },
+ {
+  "schluessel": "land:HE_NORDHESSEN_MHD",
+  "land": "HE",
+  "bereitsteller": "Meinhard (GDI-Nordhessen)",
+  "herausgeber": "Meinhard (GDI-Nordhessen)",
+  "lizenz": "amtliches-werk",
+  "lizenz_angegeben": "nicht-kommerziell",
+  "lizenz_url": null,
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": "nicht_kommerziell",
+  "plaene": 53
  },
  {
   "schluessel": "land:HE_GDI_MAINTAL",
@@ -7704,6 +8460,90 @@
   "plaene": 51
  },
  {
+  "schluessel": "land:HE_VB_ULRICHSTEIN",
+  "land": "HE",
+  "bereitsteller": "Stadt Ulrichstein (Geoportal Vogelsberg)",
+  "herausgeber": "Stadt Ulrichstein (Geoportal Vogelsberg)",
+  "lizenz": "amtliches-werk",
+  "lizenz_angegeben": "nicht-kommerziell",
+  "lizenz_url": null,
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": "nicht_kommerziell",
+  "plaene": 51
+ },
+ {
+  "schluessel": "land:HE_NORDHESSEN_BAT",
+  "land": "HE",
+  "bereitsteller": "Battenberg (Eder) (GDI-Nordhessen)",
+  "herausgeber": "Battenberg (Eder) (GDI-Nordhessen)",
+  "lizenz": "amtliches-werk",
+  "lizenz_angegeben": "nicht-kommerziell",
+  "lizenz_url": null,
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": "nicht_kommerziell",
+  "plaene": 50
+ },
+ {
+  "schluessel": "land:HE_NORDHESSEN_WHL",
+  "land": "HE",
+  "bereitsteller": "Wehretal (GDI-Nordhessen)",
+  "herausgeber": "Wehretal (GDI-Nordhessen)",
+  "lizenz": "amtliches-werk",
+  "lizenz_angegeben": "nicht-kommerziell",
+  "lizenz_url": null,
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": "nicht_kommerziell",
+  "plaene": 50
+ },
+ {
+  "schluessel": "land:HE_MARBURG_BIEDENKOPF_06534009",
+  "land": "HE",
+  "bereitsteller": "Fronhausen (Geoservices Landkreis Marburg-Biedenkopf)",
+  "herausgeber": "Fronhausen (Geoservices Landkreis Marburg-Biedenkopf)",
+  "lizenz": "amtliches-werk",
+  "lizenz_angegeben": "nicht-kommerziell",
+  "lizenz_url": null,
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": "nicht_kommerziell",
+  "plaene": 49
+ },
+ {
+  "schluessel": "land:HE_MARBURG_BIEDENKOPF_06534021",
+  "land": "HE",
+  "bereitsteller": "Wetter (Hessen) (Geoservices Landkreis Marburg-Biedenkopf)",
+  "herausgeber": "Wetter (Hessen) (Geoservices Landkreis Marburg-Biedenkopf)",
+  "lizenz": "amtliches-werk",
+  "lizenz_angegeben": "nicht-kommerziell",
+  "lizenz_url": null,
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": "nicht_kommerziell",
+  "plaene": 49
+ },
+ {
+  "schluessel": "land:HE_NORDHESSEN_BZW",
+  "land": "HE",
+  "bereitsteller": "Bad Zwesten (GDI-Nordhessen)",
+  "herausgeber": "Bad Zwesten (GDI-Nordhessen)",
+  "lizenz": "amtliches-werk",
+  "lizenz_angegeben": "nicht-kommerziell",
+  "lizenz_url": null,
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": "nicht_kommerziell",
+  "plaene": 49
+ },
+ {
+  "schluessel": "land:HE_NORDHESSEN_SGB",
+  "land": "HE",
+  "bereitsteller": "Spangenberg (GDI-Nordhessen)",
+  "herausgeber": "Spangenberg (GDI-Nordhessen)",
+  "lizenz": "amtliches-werk",
+  "lizenz_angegeben": "nicht-kommerziell",
+  "lizenz_url": null,
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": "nicht_kommerziell",
+  "plaene": 49
+ },
+ {
   "schluessel": "land:HE_VB_FELDATAL",
   "land": "HE",
   "bereitsteller": "Feldatal, Geoportal Vogelsberg",
@@ -7726,6 +8566,66 @@
   "bearbeitung_erlaubt": true,
   "einschraenkung": null,
   "plaene": 48
+ },
+ {
+  "schluessel": "land:HE_MARBURG_BIEDENKOPF_06534016",
+  "land": "HE",
+  "bereitsteller": "Neustadt (Hessen) (Geoservices Landkreis Marburg-Biedenkopf)",
+  "herausgeber": "Neustadt (Hessen) (Geoservices Landkreis Marburg-Biedenkopf)",
+  "lizenz": "amtliches-werk",
+  "lizenz_angegeben": "nicht-kommerziell",
+  "lizenz_url": null,
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": "nicht_kommerziell",
+  "plaene": 48
+ },
+ {
+  "schluessel": "land:HE_NORDHESSEN_MEI",
+  "land": "HE",
+  "bereitsteller": "Meißner (GDI-Nordhessen)",
+  "herausgeber": "Meißner (GDI-Nordhessen)",
+  "lizenz": "amtliches-werk",
+  "lizenz_angegeben": "nicht-kommerziell",
+  "lizenz_url": null,
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": "nicht_kommerziell",
+  "plaene": 48
+ },
+ {
+  "schluessel": "land:HE_NORDHESSEN_MFD",
+  "land": "HE",
+  "bereitsteller": "Malsfeld (GDI-Nordhessen)",
+  "herausgeber": "Malsfeld (GDI-Nordhessen)",
+  "lizenz": "amtliches-werk",
+  "lizenz_angegeben": "nicht-kommerziell",
+  "lizenz_url": null,
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": "nicht_kommerziell",
+  "plaene": 48
+ },
+ {
+  "schluessel": "land:HE_NORDHESSEN_HAT",
+  "land": "HE",
+  "bereitsteller": "Haunetal (GDI-Nordhessen)",
+  "herausgeber": "Haunetal (GDI-Nordhessen)",
+  "lizenz": "amtliches-werk",
+  "lizenz_angegeben": "nicht-kommerziell",
+  "lizenz_url": null,
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": "nicht_kommerziell",
+  "plaene": 47
+ },
+ {
+  "schluessel": "land:HE_NORDHESSEN_PHI",
+  "land": "HE",
+  "bereitsteller": "Philippsthal (GDI-Nordhessen)",
+  "herausgeber": "Philippsthal (GDI-Nordhessen)",
+  "lizenz": "amtliches-werk",
+  "lizenz_angegeben": "nicht-kommerziell",
+  "lizenz_url": null,
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": "nicht_kommerziell",
+  "plaene": 47
  },
  {
   "schluessel": "land:HE_VB_GREBENAU",
@@ -7752,6 +8652,30 @@
   "plaene": 46
  },
  {
+  "schluessel": "land:HE_NORDHESSEN_FRW",
+  "land": "HE",
+  "bereitsteller": "Friedewald (GDI-Nordhessen)",
+  "herausgeber": "Friedewald (GDI-Nordhessen)",
+  "lizenz": "amtliches-werk",
+  "lizenz_angegeben": "nicht-kommerziell",
+  "lizenz_url": null,
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": "nicht_kommerziell",
+  "plaene": 44
+ },
+ {
+  "schluessel": "land:HE_NORDHESSEN_LDW",
+  "land": "HE",
+  "bereitsteller": "Ludwigsau (GDI-Nordhessen)",
+  "herausgeber": "Ludwigsau (GDI-Nordhessen)",
+  "lizenz": "amtliches-werk",
+  "lizenz_angegeben": "nicht-kommerziell",
+  "lizenz_url": null,
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": "nicht_kommerziell",
+  "plaene": 43
+ },
+ {
   "schluessel": "land:HE_VB_WARTENBERG",
   "land": "HE",
   "bereitsteller": "Wartenberg, Geoportal Vogelsberg",
@@ -7764,22 +8688,142 @@
   "plaene": 43
  },
  {
-  "schluessel": "land:HE_VB_ANTRIFTTAL",
+  "schluessel": "land:HE_NORDHESSEN_SKG",
   "land": "HE",
-  "bereitsteller": "Antrifttal, Geoportal Vogelsberg",
-  "herausgeber": "Antrifttal (Geoportal Vogelsberg)",
-  "lizenz": "cc0-1.0",
-  "lizenz_angegeben": "cc0-1.0",
-  "lizenz_url": "https://creativecommons.org/publicdomain/zero/1.0/deed.de",
+  "bereitsteller": "Schenklengsfeld (GDI-Nordhessen)",
+  "herausgeber": "Schenklengsfeld (GDI-Nordhessen)",
+  "lizenz": "amtliches-werk",
+  "lizenz_angegeben": "nicht-kommerziell",
+  "lizenz_url": null,
   "bearbeitung_erlaubt": true,
-  "einschraenkung": null,
-  "plaene": 34
+  "einschraenkung": "nicht_kommerziell",
+  "plaene": 42
+ },
+ {
+  "schluessel": "land:HE_NORDHESSEN_HLH",
+  "land": "HE",
+  "bereitsteller": "Herleshausen (GDI-Nordhessen)",
+  "herausgeber": "Herleshausen (GDI-Nordhessen)",
+  "lizenz": "amtliches-werk",
+  "lizenz_angegeben": "nicht-kommerziell",
+  "lizenz_url": null,
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": "nicht_kommerziell",
+  "plaene": 41
+ },
+ {
+  "schluessel": "land:HE_MARBURG_BIEDENKOPF_06534019",
+  "land": "HE",
+  "bereitsteller": "Steffenberg (Geoservices Landkreis Marburg-Biedenkopf)",
+  "herausgeber": "Steffenberg (Geoservices Landkreis Marburg-Biedenkopf)",
+  "lizenz": "amtliches-werk",
+  "lizenz_angegeben": "nicht-kommerziell",
+  "lizenz_url": null,
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": "nicht_kommerziell",
+  "plaene": 40
+ },
+ {
+  "schluessel": "land:HE_NORDHESSEN_KWD",
+  "land": "HE",
+  "bereitsteller": "Knüllwald (GDI-Nordhessen)",
+  "herausgeber": "Knüllwald (GDI-Nordhessen)",
+  "lizenz": "amtliches-werk",
+  "lizenz_angegeben": "nicht-kommerziell",
+  "lizenz_url": null,
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": "nicht_kommerziell",
+  "plaene": 38
+ },
+ {
+  "schluessel": "land:HE_NORDHESSEN_WLL",
+  "land": "HE",
+  "bereitsteller": "Willingshausen (GDI-Nordhessen)",
+  "herausgeber": "Willingshausen (GDI-Nordhessen)",
+  "lizenz": "amtliches-werk",
+  "lizenz_angegeben": "nicht-kommerziell",
+  "lizenz_url": null,
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": "nicht_kommerziell",
+  "plaene": 38
+ },
+ {
+  "schluessel": "land:HE_MARBURG_BIEDENKOPF_06534017",
+  "land": "HE",
+  "bereitsteller": "Rauschenberg (Geoservices Landkreis Marburg-Biedenkopf)",
+  "herausgeber": "Rauschenberg (Geoservices Landkreis Marburg-Biedenkopf)",
+  "lizenz": "amtliches-werk",
+  "lizenz_angegeben": "nicht-kommerziell",
+  "lizenz_url": null,
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": "nicht_kommerziell",
+  "plaene": 37
+ },
+ {
+  "schluessel": "land:HE_NORDHESSEN_OBA",
+  "land": "HE",
+  "bereitsteller": "Oberaula (GDI-Nordhessen)",
+  "herausgeber": "Oberaula (GDI-Nordhessen)",
+  "lizenz": "amtliches-werk",
+  "lizenz_angegeben": "nicht-kommerziell",
+  "lizenz_url": null,
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": "nicht_kommerziell",
+  "plaene": 36
  },
  {
   "schluessel": "land:HE_VB_LAUTERTAL",
   "land": "HE",
   "bereitsteller": "Lautertal (Vogelsberg), Geoportal Vogelsberg",
   "herausgeber": "Lautertal (Vogelsberg) (Geoportal Vogelsberg)",
+  "lizenz": "cc0-1.0",
+  "lizenz_angegeben": "cc0-1.0",
+  "lizenz_url": "https://creativecommons.org/publicdomain/zero/1.0/deed.de",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 36
+ },
+ {
+  "schluessel": "land:HE_NORDHESSEN_BRH",
+  "land": "HE",
+  "bereitsteller": "Breitenbach am Herzberg (GDI-Nordhessen)",
+  "herausgeber": "Breitenbach am Herzberg (GDI-Nordhessen)",
+  "lizenz": "amtliches-werk",
+  "lizenz_angegeben": "nicht-kommerziell",
+  "lizenz_url": null,
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": "nicht_kommerziell",
+  "plaene": 34
+ },
+ {
+  "schluessel": "land:HE_NORDHESSEN_FRA",
+  "land": "HE",
+  "bereitsteller": "Frankenau (GDI-Nordhessen)",
+  "herausgeber": "Frankenau (GDI-Nordhessen)",
+  "lizenz": "amtliches-werk",
+  "lizenz_angegeben": "nicht-kommerziell",
+  "lizenz_url": null,
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": "nicht_kommerziell",
+  "plaene": 34
+ },
+ {
+  "schluessel": "land:HE_NORDHESSEN_RGG",
+  "land": "HE",
+  "bereitsteller": "Ringgau (GDI-Nordhessen)",
+  "herausgeber": "Ringgau (GDI-Nordhessen)",
+  "lizenz": "amtliches-werk",
+  "lizenz_angegeben": "nicht-kommerziell",
+  "lizenz_url": null,
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": "nicht_kommerziell",
+  "plaene": 34
+ },
+ {
+  "schluessel": "land:HE_VB_ANTRIFTTAL",
+  "land": "HE",
+  "bereitsteller": "Antrifttal, Geoportal Vogelsberg",
+  "herausgeber": "Antrifttal (Geoportal Vogelsberg)",
   "lizenz": "cc0-1.0",
   "lizenz_angegeben": "cc0-1.0",
   "lizenz_url": "https://creativecommons.org/publicdomain/zero/1.0/deed.de",
@@ -7800,6 +8844,30 @@
   "plaene": 34
  },
  {
+  "schluessel": "land:HE_NORDHESSEN_GEW",
+  "land": "HE",
+  "bereitsteller": "Gemünden (Wohra) (GDI-Nordhessen)",
+  "herausgeber": "Gemünden (Wohra) (GDI-Nordhessen)",
+  "lizenz": "amtliches-werk",
+  "lizenz_angegeben": "nicht-kommerziell",
+  "lizenz_url": null,
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": "nicht_kommerziell",
+  "plaene": 33
+ },
+ {
+  "schluessel": "land:HE_NORDHESSEN_LTF",
+  "land": "HE",
+  "bereitsteller": "Lichtenfels (GDI-Nordhessen)",
+  "herausgeber": "Lichtenfels (GDI-Nordhessen)",
+  "lizenz": "amtliches-werk",
+  "lizenz_angegeben": "nicht-kommerziell",
+  "lizenz_url": null,
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": "nicht_kommerziell",
+  "plaene": 33
+ },
+ {
   "schluessel": "land:HE_VB_SCHWALMTAL",
   "land": "HE",
   "bereitsteller": "Schwalmtal, Geoportal Vogelsberg",
@@ -7812,6 +8880,90 @@
   "plaene": 33
  },
  {
+  "schluessel": "land:HE_MARBURG_BIEDENKOPF_06534002",
+  "land": "HE",
+  "bereitsteller": "Angelburg (Geoservices Landkreis Marburg-Biedenkopf)",
+  "herausgeber": "Angelburg (Geoservices Landkreis Marburg-Biedenkopf)",
+  "lizenz": "amtliches-werk",
+  "lizenz_angegeben": "nicht-kommerziell",
+  "lizenz_url": null,
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": "nicht_kommerziell",
+  "plaene": 32
+ },
+ {
+  "schluessel": "land:HE_NORDHESSEN_TWI",
+  "land": "HE",
+  "bereitsteller": "Twistetal (GDI-Nordhessen)",
+  "herausgeber": "Twistetal (GDI-Nordhessen)",
+  "lizenz": "amtliches-werk",
+  "lizenz_angegeben": "nicht-kommerziell",
+  "lizenz_url": null,
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": "nicht_kommerziell",
+  "plaene": 32
+ },
+ {
+  "schluessel": "land:HE_NORDHESSEN_BKT",
+  "land": "HE",
+  "bereitsteller": "Berkatal (GDI-Nordhessen)",
+  "herausgeber": "Berkatal (GDI-Nordhessen)",
+  "lizenz": "amtliches-werk",
+  "lizenz_angegeben": "nicht-kommerziell",
+  "lizenz_url": null,
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": "nicht_kommerziell",
+  "plaene": 31
+ },
+ {
+  "schluessel": "land:HE_NORDHESSEN_KRL",
+  "land": "HE",
+  "bereitsteller": "Körle (GDI-Nordhessen)",
+  "herausgeber": "Körle (GDI-Nordhessen)",
+  "lizenz": "amtliches-werk",
+  "lizenz_angegeben": "nicht-kommerziell",
+  "lizenz_url": null,
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": "nicht_kommerziell",
+  "plaene": 31
+ },
+ {
+  "schluessel": "land:HE_NORDHESSEN_HTZ",
+  "land": "HE",
+  "bereitsteller": "Hatzfeld (Eder) (GDI-Nordhessen)",
+  "herausgeber": "Hatzfeld (Eder) (GDI-Nordhessen)",
+  "lizenz": "amtliches-werk",
+  "lizenz_angegeben": "nicht-kommerziell",
+  "lizenz_url": null,
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": "nicht_kommerziell",
+  "plaene": 30
+ },
+ {
+  "schluessel": "land:HE_MARBURG_BIEDENKOPF_06534022",
+  "land": "HE",
+  "bereitsteller": "Wohratal (Geoservices Landkreis Marburg-Biedenkopf)",
+  "herausgeber": "Wohratal (Geoservices Landkreis Marburg-Biedenkopf)",
+  "lizenz": "amtliches-werk",
+  "lizenz_angegeben": "nicht-kommerziell",
+  "lizenz_url": null,
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": "nicht_kommerziell",
+  "plaene": 29
+ },
+ {
+  "schluessel": "land:HE_NORDHESSEN_NEU",
+  "land": "HE",
+  "bereitsteller": "Neuental (GDI-Nordhessen)",
+  "herausgeber": "Neuental (GDI-Nordhessen)",
+  "lizenz": "amtliches-werk",
+  "lizenz_angegeben": "nicht-kommerziell",
+  "lizenz_url": null,
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": "nicht_kommerziell",
+  "plaene": 26
+ },
+ {
   "schluessel": "reg:29",
   "land": "HE",
   "bereitsteller": "Kassel",
@@ -7822,6 +8974,174 @@
   "bearbeitung_erlaubt": true,
   "einschraenkung": null,
   "plaene": 26
+ },
+ {
+  "schluessel": "land:HE_NORDHESSEN_GLB",
+  "land": "HE",
+  "bereitsteller": "Gilserberg (GDI-Nordhessen)",
+  "herausgeber": "Gilserberg (GDI-Nordhessen)",
+  "lizenz": "amtliches-werk",
+  "lizenz_angegeben": "nicht-kommerziell",
+  "lizenz_url": null,
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": "nicht_kommerziell",
+  "plaene": 25
+ },
+ {
+  "schluessel": "land:HE_NORDHESSEN_NEB",
+  "land": "HE",
+  "bereitsteller": "Neu-Eichenberg (GDI-Nordhessen)",
+  "herausgeber": "Neu-Eichenberg (GDI-Nordhessen)",
+  "lizenz": "amtliches-werk",
+  "lizenz_angegeben": "nicht-kommerziell",
+  "lizenz_url": null,
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": "nicht_kommerziell",
+  "plaene": 25
+ },
+ {
+  "schluessel": "land:HE_MARBURG_BIEDENKOPF_06534015",
+  "land": "HE",
+  "bereitsteller": "Münchhausen (Geoservices Landkreis Marburg-Biedenkopf)",
+  "herausgeber": "Münchhausen (Geoservices Landkreis Marburg-Biedenkopf)",
+  "lizenz": "amtliches-werk",
+  "lizenz_angegeben": "nicht-kommerziell",
+  "lizenz_url": null,
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": "nicht_kommerziell",
+  "plaene": 24
+ },
+ {
+  "schluessel": "land:HE_NORDHESSEN_HOR",
+  "land": "HE",
+  "bereitsteller": "Hohenroda (GDI-Nordhessen)",
+  "herausgeber": "Hohenroda (GDI-Nordhessen)",
+  "lizenz": "amtliches-werk",
+  "lizenz_angegeben": "nicht-kommerziell",
+  "lizenz_url": null,
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": "nicht_kommerziell",
+  "plaene": 23
+ },
+ {
+  "schluessel": "land:HE_NORDHESSEN_OTT",
+  "land": "HE",
+  "bereitsteller": "Ottrau (GDI-Nordhessen)",
+  "herausgeber": "Ottrau (GDI-Nordhessen)",
+  "lizenz": "amtliches-werk",
+  "lizenz_angegeben": "nicht-kommerziell",
+  "lizenz_url": null,
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": "nicht_kommerziell",
+  "plaene": 23
+ },
+ {
+  "schluessel": "land:HE_NORDHESSEN_NHS",
+  "land": "HE",
+  "bereitsteller": "Nentershausen (GDI-Nordhessen)",
+  "herausgeber": "Nentershausen (GDI-Nordhessen)",
+  "lizenz": "amtliches-werk",
+  "lizenz_angegeben": "nicht-kommerziell",
+  "lizenz_url": null,
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": "nicht_kommerziell",
+  "plaene": 21
+ },
+ {
+  "schluessel": "land:HE_NORDHESSEN_SKH",
+  "land": "HE",
+  "bereitsteller": "Schrecksbach (GDI-Nordhessen)",
+  "herausgeber": "Schrecksbach (GDI-Nordhessen)",
+  "lizenz": "amtliches-werk",
+  "lizenz_angegeben": "nicht-kommerziell",
+  "lizenz_url": null,
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": "nicht_kommerziell",
+  "plaene": 21
+ },
+ {
+  "schluessel": "land:HE_NORDHESSEN_RHA",
+  "land": "HE",
+  "bereitsteller": "Ronshausen (GDI-Nordhessen)",
+  "herausgeber": "Ronshausen (GDI-Nordhessen)",
+  "lizenz": "amtliches-werk",
+  "lizenz_angegeben": "nicht-kommerziell",
+  "lizenz_url": null,
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": "nicht_kommerziell",
+  "plaene": 20
+ },
+ {
+  "schluessel": "land:HE_NORDHESSEN_MOR",
+  "land": "HE",
+  "bereitsteller": "Morschen (GDI-Nordhessen)",
+  "herausgeber": "Morschen (GDI-Nordhessen)",
+  "lizenz": "amtliches-werk",
+  "lizenz_angegeben": "nicht-kommerziell",
+  "lizenz_url": null,
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": "nicht_kommerziell",
+  "plaene": 19
+ },
+ {
+  "schluessel": "land:HE_NORDHESSEN_SBN",
+  "land": "HE",
+  "bereitsteller": "Schwarzenborn (GDI-Nordhessen)",
+  "herausgeber": "Schwarzenborn (GDI-Nordhessen)",
+  "lizenz": "amtliches-werk",
+  "lizenz_angegeben": "nicht-kommerziell",
+  "lizenz_url": null,
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": "nicht_kommerziell",
+  "plaene": 15
+ },
+ {
+  "schluessel": "land:HE_NORDHESSEN_ROS",
+  "land": "HE",
+  "bereitsteller": "Rosenthal (GDI-Nordhessen)",
+  "herausgeber": "Rosenthal (GDI-Nordhessen)",
+  "lizenz": "amtliches-werk",
+  "lizenz_angegeben": "nicht-kommerziell",
+  "lizenz_url": null,
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": "nicht_kommerziell",
+  "plaene": 14
+ },
+ {
+  "schluessel": "land:HE_NORDHESSEN_HAI",
+  "land": "HE",
+  "bereitsteller": "Haina (Kloster) (GDI-Nordhessen)",
+  "herausgeber": "Haina (Kloster) (GDI-Nordhessen)",
+  "lizenz": "amtliches-werk",
+  "lizenz_angegeben": "nicht-kommerziell",
+  "lizenz_url": null,
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": "nicht_kommerziell",
+  "plaene": 13
+ },
+ {
+  "schluessel": "land:HE_NORDHESSEN_WNB",
+  "land": "HE",
+  "bereitsteller": "Weißenborn (GDI-Nordhessen)",
+  "herausgeber": "Weißenborn (GDI-Nordhessen)",
+  "lizenz": "amtliches-werk",
+  "lizenz_angegeben": "nicht-kommerziell",
+  "lizenz_url": null,
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": "nicht_kommerziell",
+  "plaene": 9
+ },
+ {
+  "schluessel": "land:HE_NORDHESSEN_JBG",
+  "land": "HE",
+  "bereitsteller": "Jesberg (GDI-Nordhessen)",
+  "herausgeber": "Jesberg (GDI-Nordhessen)",
+  "lizenz": "amtliches-werk",
+  "lizenz_angegeben": "nicht-kommerziell",
+  "lizenz_url": null,
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": "nicht_kommerziell",
+  "plaene": 7
  },
  {
   "schluessel": "code:HH",
@@ -7845,7 +9165,7 @@
   "lizenz_url": "",
   "bearbeitung_erlaubt": true,
   "einschraenkung": null,
-  "plaene": 9292
+  "plaene": 9299
  },
  {
   "schluessel": "land:NI_RIWA_VIANOVIS",
@@ -7857,7 +9177,7 @@
   "lizenz_url": null,
   "bearbeitung_erlaubt": true,
   "einschraenkung": "genehmigung",
-  "plaene": 6193
+  "plaene": 6195
  },
  {
   "schluessel": "land:NI_HARBURG",
@@ -7980,6 +9300,18 @@
   "plaene": 1107
  },
  {
+  "schluessel": "land:NI_WOLFENBUETTEL",
+  "land": "NI",
+  "bereitsteller": "Landkreis Wolfenbüttel",
+  "herausgeber": "Landkreis Wolfenbüttel",
+  "lizenz": "amtliches-werk",
+  "lizenz_angegeben": "genehmigungspflichtig",
+  "lizenz_url": null,
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": "genehmigung",
+  "plaene": 941
+ },
+ {
   "schluessel": "reg:14",
   "land": "NI",
   "bereitsteller": "Grafschaft Bentheim",
@@ -7990,6 +9322,18 @@
   "bearbeitung_erlaubt": true,
   "einschraenkung": null,
   "plaene": 730
+ },
+ {
+  "schluessel": "stadt:LINGEN",
+  "land": "NI",
+  "bereitsteller": "Stadt Lingen (Ems)",
+  "herausgeber": "Stadt Lingen (Ems)",
+  "lizenz": "amtliches-werk",
+  "lizenz_angegeben": "genehmigungspflichtig",
+  "lizenz_url": null,
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": "genehmigung",
+  "plaene": 690
  },
  {
   "schluessel": "reg:32",
@@ -8061,7 +9405,7 @@
   "lizenz_url": "",
   "bearbeitung_erlaubt": true,
   "einschraenkung": null,
-  "plaene": 616
+  "plaene": 618
  },
  {
   "schluessel": "land:NI_LUECHOW_DANNENBERG",
@@ -8196,16 +9540,16 @@
   "plaene": 353
  },
  {
-  "schluessel": "stadt:PAPENBURG",
+  "schluessel": "land:NI_WOLFENBUETTEL_STADT",
   "land": "NI",
-  "bereitsteller": "Stadt Papenburg",
-  "herausgeber": "Stadt Papenburg",
-  "lizenz": "dl-de/zero-2-0",
-  "lizenz_angegeben": "dl-de/zero-2-0",
-  "lizenz_url": "https://www.govdata.de/dl-de/zero-2-0",
+  "bereitsteller": "Stadt Wolfenbüttel (Geoportal Landkreis Wolfenbüttel)",
+  "herausgeber": "Stadt Wolfenbüttel (Geoportal Landkreis Wolfenbüttel)",
+  "lizenz": "amtliches-werk",
+  "lizenz_angegeben": "genehmigungspflichtig",
+  "lizenz_url": null,
   "bearbeitung_erlaubt": true,
-  "einschraenkung": null,
-  "plaene": 341
+  "einschraenkung": "genehmigung",
+  "plaene": 351
  },
  {
   "schluessel": "reg:13",
@@ -8217,7 +9561,19 @@
   "lizenz_url": "",
   "bearbeitung_erlaubt": true,
   "einschraenkung": null,
-  "plaene": 339
+  "plaene": 341
+ },
+ {
+  "schluessel": "stadt:PAPENBURG",
+  "land": "NI",
+  "bereitsteller": "Stadt Papenburg",
+  "herausgeber": "Stadt Papenburg",
+  "lizenz": "dl-de/zero-2-0",
+  "lizenz_angegeben": "dl-de/zero-2-0",
+  "lizenz_url": "https://www.govdata.de/dl-de/zero-2-0",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 341
  },
  {
   "schluessel": "land:NI_NORTHEIM",
@@ -8424,6 +9780,18 @@
   "plaene": 197
  },
  {
+  "schluessel": "land:NI_LUENEBURG_SAMTGEMEINDE_SCHARNEBECK",
+  "land": "NI",
+  "bereitsteller": "Samtgemeinde Scharnebeck (Geoportal Landkreis Lüneburg)",
+  "herausgeber": "Samtgemeinde Scharnebeck (Geoportal Landkreis Lüneburg)",
+  "lizenz": "amtliches-werk",
+  "lizenz_angegeben": "nicht-kommerziell",
+  "lizenz_url": null,
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": "nicht_kommerziell",
+  "plaene": 187
+ },
+ {
   "schluessel": "govconnect:org.78.70c641e2",
   "land": "NI",
   "bereitsteller": "Gemeinde Apen (über GovConnect)",
@@ -8445,6 +9813,18 @@
   "lizenz_url": "",
   "bearbeitung_erlaubt": true,
   "einschraenkung": null,
+  "plaene": 182
+ },
+ {
+  "schluessel": "land:NI_LUENEBURG_SAMTGEMEINDE_BARDOWICK",
+  "land": "NI",
+  "bereitsteller": "Samtgemeinde Bardowick (Geoportal Landkreis Lüneburg)",
+  "herausgeber": "Samtgemeinde Bardowick (Geoportal Landkreis Lüneburg)",
+  "lizenz": "amtliches-werk",
+  "lizenz_angegeben": "nicht-kommerziell",
+  "lizenz_url": null,
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": "nicht_kommerziell",
   "plaene": 182
  },
  {
@@ -8472,6 +9852,18 @@
   "plaene": 172
  },
  {
+  "schluessel": "land:NI_LUENEBURG_SAMTGEMEINDE_GELLERSEN",
+  "land": "NI",
+  "bereitsteller": "Samtgemeinde Gellersen (Geoportal Landkreis Lüneburg)",
+  "herausgeber": "Samtgemeinde Gellersen (Geoportal Landkreis Lüneburg)",
+  "lizenz": "amtliches-werk",
+  "lizenz_angegeben": "nicht-kommerziell",
+  "lizenz_url": null,
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": "nicht_kommerziell",
+  "plaene": 170
+ },
+ {
   "schluessel": "land:NI_MUNSTER",
   "land": "NI",
   "bereitsteller": "Stadt Munster",
@@ -8494,6 +9886,18 @@
   "bearbeitung_erlaubt": true,
   "einschraenkung": null,
   "plaene": 156
+ },
+ {
+  "schluessel": "land:NI_LUENEBURG_SAMTGEMEINDE_ILMENAU",
+  "land": "NI",
+  "bereitsteller": "Samtgemeinde Ilmenau (Geoportal Landkreis Lüneburg)",
+  "herausgeber": "Samtgemeinde Ilmenau (Geoportal Landkreis Lüneburg)",
+  "lizenz": "amtliches-werk",
+  "lizenz_angegeben": "nicht-kommerziell",
+  "lizenz_url": null,
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": "nicht_kommerziell",
+  "plaene": 154
  },
  {
   "schluessel": "govconnect:org.110.3bcaba1f",
@@ -8580,6 +9984,30 @@
   "plaene": 117
  },
  {
+  "schluessel": "land:NI_LUENEBURG_SAMTGEMEINDE_AMELINGHAUSEN",
+  "land": "NI",
+  "bereitsteller": "Samtgemeinde Amelinghausen (Geoportal Landkreis Lüneburg)",
+  "herausgeber": "Samtgemeinde Amelinghausen (Geoportal Landkreis Lüneburg)",
+  "lizenz": "amtliches-werk",
+  "lizenz_angegeben": "nicht-kommerziell",
+  "lizenz_url": null,
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": "nicht_kommerziell",
+  "plaene": 112
+ },
+ {
+  "schluessel": "land:NI_LUENEBURG_SAMTGEMEINDE_OSTHEIDE",
+  "land": "NI",
+  "bereitsteller": "Samtgemeinde Ostheide (Geoportal Landkreis Lüneburg)",
+  "herausgeber": "Samtgemeinde Ostheide (Geoportal Landkreis Lüneburg)",
+  "lizenz": "amtliches-werk",
+  "lizenz_angegeben": "nicht-kommerziell",
+  "lizenz_url": null,
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": "nicht_kommerziell",
+  "plaene": 110
+ },
+ {
   "schluessel": "govconnect:org.64.d36bb6b6",
   "land": "NI",
   "bereitsteller": "Stadt Schöningen (über GovConnect)",
@@ -8628,6 +10056,18 @@
   "plaene": 99
  },
  {
+  "schluessel": "land:NI_LUENEBURG_GEMEINDE_ADENDORF",
+  "land": "NI",
+  "bereitsteller": "Gemeinde Adendorf (Geoportal Landkreis Lüneburg)",
+  "herausgeber": "Gemeinde Adendorf (Geoportal Landkreis Lüneburg)",
+  "lizenz": "amtliches-werk",
+  "lizenz_angegeben": "nicht-kommerziell",
+  "lizenz_url": null,
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": "nicht_kommerziell",
+  "plaene": 97
+ },
+ {
   "schluessel": "govconnect:org.113.83984a46",
   "land": "NI",
   "bereitsteller": "Gemeinde Hude (Oldb) (über GovConnect)",
@@ -8638,6 +10078,30 @@
   "bearbeitung_erlaubt": true,
   "einschraenkung": null,
   "plaene": 88
+ },
+ {
+  "schluessel": "land:NI_LUENEBURG_STADT_BLECKEDE",
+  "land": "NI",
+  "bereitsteller": "Stadt Bleckede (Geoportal Landkreis Lüneburg)",
+  "herausgeber": "Stadt Bleckede (Geoportal Landkreis Lüneburg)",
+  "lizenz": "amtliches-werk",
+  "lizenz_angegeben": "nicht-kommerziell",
+  "lizenz_url": null,
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": "nicht_kommerziell",
+  "plaene": 78
+ },
+ {
+  "schluessel": "land:NI_LUENEBURG_SAMTGEMEINDE_DAHLENBURG",
+  "land": "NI",
+  "bereitsteller": "Samtgemeinde Dahlenburg (Geoportal Landkreis Lüneburg)",
+  "herausgeber": "Samtgemeinde Dahlenburg (Geoportal Landkreis Lüneburg)",
+  "lizenz": "amtliches-werk",
+  "lizenz_angegeben": "nicht-kommerziell",
+  "lizenz_url": null,
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": "nicht_kommerziell",
+  "plaene": 77
  },
  {
   "schluessel": "govconnect:org.60.5a10f4cc",
@@ -8688,6 +10152,18 @@
   "plaene": 32
  },
  {
+  "schluessel": "land:NI_LUENEBURG_GEMEINDE_AMT_NEUHAUS",
+  "land": "NI",
+  "bereitsteller": "Gemeinde Amt Neuhaus (Geoportal Landkreis Lüneburg)",
+  "herausgeber": "Gemeinde Amt Neuhaus (Geoportal Landkreis Lüneburg)",
+  "lizenz": "amtliches-werk",
+  "lizenz_angegeben": "nicht-kommerziell",
+  "lizenz_url": null,
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": "nicht_kommerziell",
+  "plaene": 28
+ },
+ {
   "schluessel": "govconnect:org.142.d49f7476",
   "land": "NI",
   "bereitsteller": "Gemeinde Dötlingen (über GovConnect)",
@@ -8733,7 +10209,7 @@
   "lizenz_url": "https://www.govdata.de/dl-de/by-2-0",
   "bearbeitung_erlaubt": true,
   "einschraenkung": null,
-  "plaene": 64381
+  "plaene": 63231
  },
  {
   "schluessel": "land:NW_SATZUNGEN",
@@ -8745,7 +10221,7 @@
   "lizenz_url": "https://www.govdata.de/dl-de/by-2-0",
   "bearbeitung_erlaubt": true,
   "einschraenkung": null,
-  "plaene": 2366
+  "plaene": 2275
  },
  {
   "schluessel": "stadt:DUESSELDORF",
@@ -9081,7 +10557,7 @@
   "lizenz_url": null,
   "bearbeitung_erlaubt": true,
   "einschraenkung": "lizenz_unklar",
-  "plaene": 14102
+  "plaene": 14267
  },
  {
   "schluessel": "land:RP_MAINZ_BINGEN",
@@ -9108,6 +10584,18 @@
   "plaene": 372
  },
  {
+  "schluessel": "stadt:KAISERSLAUTERN",
+  "land": "RP",
+  "bereitsteller": "Stadt Kaiserslautern, Referat Stadtentwicklung",
+  "herausgeber": "Stadt Kaiserslautern, Referat Stadtentwicklung",
+  "lizenz": "amtliches-werk",
+  "lizenz_angegeben": "genehmigungspflichtig",
+  "lizenz_url": null,
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": "genehmigung",
+  "plaene": 197
+ },
+ {
   "schluessel": "stadt:NEUSTADT_WEINSTRASSE",
   "land": "RP",
   "bereitsteller": "Stadt Neustadt an der Weinstraße (CC BY 3.0 DE)",
@@ -9132,6 +10620,18 @@
   "plaene": 98
  },
  {
+  "schluessel": "land:SH_NORDFRIESLAND",
+  "land": "SH",
+  "bereitsteller": "Kreis Nordfriesland",
+  "herausgeber": "Kreis Nordfriesland",
+  "lizenz": "amtliches-werk",
+  "lizenz_angegeben": "genehmigungspflichtig",
+  "lizenz_url": null,
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": "genehmigung",
+  "plaene": 3176
+ },
+ {
   "schluessel": "land:SH_OSTHOLSTEIN",
   "land": "SH",
   "bereitsteller": "Kreis Ostholstein (CC BY-ND 4.0)",
@@ -9141,7 +10641,7 @@
   "lizenz_url": "https://creativecommons.org/licenses/by-nd/4.0/deed.de",
   "bearbeitung_erlaubt": false,
   "einschraenkung": null,
-  "plaene": 2760
+  "plaene": 2763
  },
  {
   "schluessel": "land:SH_SCHLESWIG_FLENSBURG",
@@ -9153,7 +10653,7 @@
   "lizenz_url": "",
   "bearbeitung_erlaubt": true,
   "einschraenkung": null,
-  "plaene": 2343
+  "plaene": 2360
  },
  {
   "schluessel": "land:SH_HERZOGTUM_LAUENBURG",
@@ -9180,6 +10680,18 @@
   "plaene": 1143
  },
  {
+  "schluessel": "stadt:FLENSBURG",
+  "land": "SH",
+  "bereitsteller": "Stadt Flensburg",
+  "herausgeber": "Stadt Flensburg",
+  "lizenz": "amtliches-werk",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": null,
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": "lizenz_unklar",
+  "plaene": 402
+ },
+ {
   "schluessel": "code:SH",
   "land": "SH",
   "bereitsteller": "Schleswig-Holstein",
@@ -9189,7 +10701,7 @@
   "lizenz_url": "",
   "bearbeitung_erlaubt": true,
   "einschraenkung": null,
-  "plaene": 679
+  "plaene": 374
  },
  {
   "schluessel": "land:SH_NORDERSTEDT",
@@ -9657,7 +11169,7 @@
   "lizenz_url": "",
   "bearbeitung_erlaubt": true,
   "einschraenkung": null,
-  "plaene": 7291
+  "plaene": 7290
  },
  {
   "schluessel": "land:SN_RAPIS_PLANUNG",
@@ -9669,7 +11181,19 @@
   "lizenz_url": "",
   "bearbeitung_erlaubt": true,
   "einschraenkung": null,
-  "plaene": 693
+  "plaene": 692
+ },
+ {
+  "schluessel": "stadt:LEIPZIG",
+  "land": "SN",
+  "bereitsteller": "Stadt Leipzig, Stadtplanungsamt (dl-de/by-2-0)",
+  "herausgeber": "Stadt Leipzig, Stadtplanungsamt",
+  "lizenz": "dl-de/by-2-0",
+  "lizenz_angegeben": "dl-de/by-2-0",
+  "lizenz_url": "https://www.govdata.de/dl-de/by-2-0",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 402
  },
  {
   "schluessel": "land:SN_RAPIS_SATZUNGEN",
@@ -9681,7 +11205,7 @@
   "lizenz_url": "",
   "bearbeitung_erlaubt": true,
   "einschraenkung": null,
-  "plaene": 358
+  "plaene": 356
  },
  {
   "schluessel": "stadt:CHEMNITZ",
@@ -9741,7 +11265,7 @@
   "lizenz_url": null,
   "bearbeitung_erlaubt": true,
   "einschraenkung": "lizenz_unklar",
-  "plaene": 5542
+  "plaene": 5553
  },
  {
   "schluessel": "code:ST",
@@ -9753,7 +11277,7 @@
   "lizenz_url": null,
   "bearbeitung_erlaubt": true,
   "einschraenkung": "lizenz_unklar",
-  "plaene": 2413
+  "plaene": 2461
  },
  {
   "schluessel": "land:ST_ALTMARK",

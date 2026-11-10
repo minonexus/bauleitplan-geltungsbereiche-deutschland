@@ -76,7 +76,7 @@ kennen. Hinweise darauf sind willkommen (siehe [Mitmachen](#mitmachen)).
 
 Die Daten liegen unter `https://data.minonexus.com/bauleitplan-geltungsbereiche-deutschland/`, je
 Land ein GeoPackage (`<land>.gpkg.zip`, EPSG:25832). Die Geltungsbereiche stehen im Layer
-`BP_Plan`, eine Fläche je Plan; zwei weitere Layer sind leer (siehe [Daten](#daten)). Alle 16 zusammen sind 253 MB. Eine Anmeldung braucht es nicht. Prüfsummen und Stand
+`BP_Plan`, eine Fläche je Plan; zwei weitere Layer sind leer (siehe [Daten](#daten)). Alle 16 zusammen sind 263 MB. Eine Anmeldung braucht es nicht. Prüfsummen und Stand
 je Land stehen in [`manifest.json`](manifest.json).
 
 ### Ein Land laden
@@ -103,25 +103,25 @@ beschriftet. Die Farbe sagt, **in welcher Form die Verwaltung den Plan bereitste
 | orange | `V` – sonstiger Vektor | Umring aus einem anderen Dienst der Verwaltung, etwa einem WFS oder Geoportal |
 
 <details>
-<summary><b>Alle 16 Länder</b> (Größe zum Stand vom 2026-10-31)</summary>
+<summary><b>Alle 16 Länder</b> (Größe zum Stand vom 2026-11-10)</summary>
 
 | Land | Datei | Flächen | Größe |
 |---|---|---:|---:|
-| Baden-Württemberg | [`bw.gpkg.zip`](https://data.minonexus.com/bauleitplan-geltungsbereiche-deutschland/bw.gpkg.zip) | 72.380 | 55 MB |
-| Bayern | [`by.gpkg.zip`](https://data.minonexus.com/bauleitplan-geltungsbereiche-deutschland/by.gpkg.zip) | 97.372 | 51 MB |
+| Baden-Württemberg | [`bw.gpkg.zip`](https://data.minonexus.com/bauleitplan-geltungsbereiche-deutschland/bw.gpkg.zip) | 73.062 | 55 MB |
+| Bayern | [`by.gpkg.zip`](https://data.minonexus.com/bauleitplan-geltungsbereiche-deutschland/by.gpkg.zip) | 100.139 | 52 MB |
 | Berlin | [`be.gpkg.zip`](https://data.minonexus.com/bauleitplan-geltungsbereiche-deutschland/be.gpkg.zip) | 2.852 | 2 MB |
-| Brandenburg | [`bb.gpkg.zip`](https://data.minonexus.com/bauleitplan-geltungsbereiche-deutschland/bb.gpkg.zip) | 7.888 | 5 MB |
-| Bremen | [`hb.gpkg.zip`](https://data.minonexus.com/bauleitplan-geltungsbereiche-deutschland/hb.gpkg.zip) | 1.790 | 4 MB |
+| Brandenburg | [`bb.gpkg.zip`](https://data.minonexus.com/bauleitplan-geltungsbereiche-deutschland/bb.gpkg.zip) | 7.891 | 5 MB |
+| Bremen | [`hb.gpkg.zip`](https://data.minonexus.com/bauleitplan-geltungsbereiche-deutschland/hb.gpkg.zip) | 1.791 | 4 MB |
 | Hamburg | [`hh.gpkg.zip`](https://data.minonexus.com/bauleitplan-geltungsbereiche-deutschland/hh.gpkg.zip) | 3.048 | 4 MB |
-| Hessen | [`he.gpkg.zip`](https://data.minonexus.com/bauleitplan-geltungsbereiche-deutschland/he.gpkg.zip) | 17.167 | 13 MB |
-| Mecklenburg-Vorpommern | [`mv.gpkg.zip`](https://data.minonexus.com/bauleitplan-geltungsbereiche-deutschland/mv.gpkg.zip) | 9.292 | 6 MB |
-| Niedersachsen | [`ni.gpkg.zip`](https://data.minonexus.com/bauleitplan-geltungsbereiche-deutschland/ni.gpkg.zip) | 41.194 | 21 MB |
-| Nordrhein-Westfalen | [`nw.gpkg.zip`](https://data.minonexus.com/bauleitplan-geltungsbereiche-deutschland/nw.gpkg.zip) | 76.144 | 57 MB |
-| Rheinland-Pfalz | [`rp.gpkg.zip`](https://data.minonexus.com/bauleitplan-geltungsbereiche-deutschland/rp.gpkg.zip) | 16.716 | 11 MB |
+| Hessen | [`he.gpkg.zip`](https://data.minonexus.com/bauleitplan-geltungsbereiche-deutschland/he.gpkg.zip) | 24.901 | 17 MB |
+| Mecklenburg-Vorpommern | [`mv.gpkg.zip`](https://data.minonexus.com/bauleitplan-geltungsbereiche-deutschland/mv.gpkg.zip) | 9.299 | 6 MB |
+| Niedersachsen | [`ni.gpkg.zip`](https://data.minonexus.com/bauleitplan-geltungsbereiche-deutschland/ni.gpkg.zip) | 44.377 | 23 MB |
+| Nordrhein-Westfalen | [`nw.gpkg.zip`](https://data.minonexus.com/bauleitplan-geltungsbereiche-deutschland/nw.gpkg.zip) | 74.903 | 56 MB |
+| Rheinland-Pfalz | [`rp.gpkg.zip`](https://data.minonexus.com/bauleitplan-geltungsbereiche-deutschland/rp.gpkg.zip) | 17.078 | 11 MB |
 | Saarland | [`sl.gpkg.zip`](https://data.minonexus.com/bauleitplan-geltungsbereiche-deutschland/sl.gpkg.zip) | 3.003 | 2 MB |
-| Sachsen | [`sn.gpkg.zip`](https://data.minonexus.com/bauleitplan-geltungsbereiche-deutschland/sn.gpkg.zip) | 8.789 | 6 MB |
-| Sachsen-Anhalt | [`st.gpkg.zip`](https://data.minonexus.com/bauleitplan-geltungsbereiche-deutschland/st.gpkg.zip) | 8.191 | 6 MB |
-| Schleswig-Holstein | [`sh.gpkg.zip`](https://data.minonexus.com/bauleitplan-geltungsbereiche-deutschland/sh.gpkg.zip) | 9.424 | 6 MB |
+| Sachsen | [`sn.gpkg.zip`](https://data.minonexus.com/bauleitplan-geltungsbereiche-deutschland/sn.gpkg.zip) | 9.187 | 7 MB |
+| Sachsen-Anhalt | [`st.gpkg.zip`](https://data.minonexus.com/bauleitplan-geltungsbereiche-deutschland/st.gpkg.zip) | 8.250 | 6 MB |
+| Schleswig-Holstein | [`sh.gpkg.zip`](https://data.minonexus.com/bauleitplan-geltungsbereiche-deutschland/sh.gpkg.zip) | 12.717 | 7 MB |
 | Thüringen | [`th.gpkg.zip`](https://data.minonexus.com/bauleitplan-geltungsbereiche-deutschland/th.gpkg.zip) | 6.355 | 4 MB |
 
 </details>

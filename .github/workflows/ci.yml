@@ -1,0 +1,43 @@
+name: CI
+
+on:
+  push:
+    branches: [main]
+  # Ohne Filter auf den Ziel-Branch: jeder PR bekommt den Check.
+  pull_request:
+
+# Neue Pushes auf denselben PR brechen den veralteten Lauf ab; auf main läuft jeder Commit zu Ende.
+concurrency:
+  group: ci-${{ github.ref == 'refs/heads/main' && github.sha || github.ref }}
+  cancel-in-progress: ${{ github.ref != 'refs/heads/main' }}
+
+permissions:
+  contents: read
+
+jobs:
+  daten:
+    # Manifest, Quellen, Nachfolger und Abdeckung: vollständig, stimmig, öffentliche Fassung.
+    # Nur Standardbibliothek, ohne geopandas.
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+      - run: pip install pytest
+      - run: pytest -v tests/test_daten.py
+
+  abgleich:
+    # Das Abgleichskript für Partner, mit den Abhängigkeiten aus abgleich/README.md.
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+          cache: pip
+          cache-dependency-path: abgleich/README.md
+      - run: pip install "geopandas>=0.14" "shapely>=2.0" pyogrio pytest
+      - run: pytest -v tests/test_abgleich.py

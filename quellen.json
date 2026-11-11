@@ -12,6 +12,66 @@
   "plaene": 7886
  },
  {
+  "schluessel": "land:BB_SPREE_NEISSE",
+  "land": "BB",
+  "bereitsteller": "Landkreis Spree-Neiße",
+  "herausgeber": "Landkreis Spree-Neiße / Wokrejs Sprjewja-Nysa",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 185
+ },
+ {
+  "schluessel": "land:BB_PRIGNITZ",
+  "land": "BB",
+  "bereitsteller": "© Landkreis Prignitz (2026), dl-de/by-2-0",
+  "herausgeber": "Landkreis Prignitz",
+  "lizenz": "dl-de/by-2-0",
+  "lizenz_angegeben": "dl-de/by-2-0",
+  "lizenz_url": "https://www.govdata.de/dl-de/by-2-0",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 146
+ },
+ {
+  "schluessel": "land:BB_PRIGNITZ_SATZUNGEN",
+  "land": "BB",
+  "bereitsteller": "© Landkreis Prignitz (2026), dl-de/by-2-0",
+  "herausgeber": "Landkreis Prignitz",
+  "lizenz": "dl-de/by-2-0",
+  "lizenz_angegeben": "dl-de/by-2-0",
+  "lizenz_url": "https://www.govdata.de/dl-de/by-2-0",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 101
+ },
+ {
+  "schluessel": "vg:PEITZ",
+  "land": "BB",
+  "bereitsteller": "Amt Peitz",
+  "herausgeber": "Amt Peitz, Bauamt",
+  "lizenz": "dl-de/by-2-0",
+  "lizenz_angegeben": "dl-de/by-2-0",
+  "lizenz_url": "https://www.govdata.de/dl-de/by-2-0",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 28
+ },
+ {
+  "schluessel": "adapter:nolis_ahrensfelde",
+  "land": "BB",
+  "bereitsteller": "Gemeinde Ahrensfelde",
+  "herausgeber": "Gemeinde Ahrensfelde",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 14
+ },
+ {
   "schluessel": "land:BB_DIPLANUNG",
   "land": "BB",
   "bereitsteller": "Gemeinden in Brandenburg (DiPlanung)",
@@ -21,7 +81,7 @@
   "lizenz_url": "",
   "bearbeitung_erlaubt": true,
   "einschraenkung": null,
-  "plaene": 5
+  "plaene": 4
  },
  {
   "schluessel": "code:BE",
@@ -45,7 +105,7 @@
   "lizenz_url": "",
   "bearbeitung_erlaubt": true,
   "einschraenkung": null,
-  "plaene": 29079
+  "plaene": 28650
  },
  {
   "schluessel": "stadt:STUTTGART",
@@ -58,6 +118,30 @@
   "bearbeitung_erlaubt": true,
   "einschraenkung": null,
   "plaene": 3308
+ },
+ {
+  "schluessel": "land:BW_ALB_DONAU",
+  "land": "BW",
+  "bereitsteller": "Landratsamt Alb-Donau-Kreis",
+  "herausgeber": "Landratsamt Alb-Donau-Kreis",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 2579
+ },
+ {
+  "schluessel": "stadt:WAIBLINGEN",
+  "land": "BW",
+  "bereitsteller": "Stadt Waiblingen",
+  "herausgeber": "Stadt Waiblingen",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 868
  },
  {
   "schluessel": "kommone:107",
@@ -132,6 +216,18 @@
   "plaene": 597
  },
  {
+  "schluessel": "haleconnect:1324",
+  "land": "BW",
+  "bereitsteller": "Stadt Fellbach (über hale»connect)",
+  "herausgeber": "Stadt Fellbach",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 571
+ },
+ {
   "schluessel": "kommone:543",
   "land": "BW",
   "bereitsteller": "Stadt Kirchheim unter Teck (über Komm.ONE)",
@@ -154,6 +250,18 @@
   "bearbeitung_erlaubt": true,
   "einschraenkung": null,
   "plaene": 485
+ },
+ {
+  "schluessel": "stadt:PFORZHEIM",
+  "land": "BW",
+  "bereitsteller": "Stadt Pforzheim",
+  "herausgeber": "Stadt Pforzheim, Vermessungs- und Liegenschaftsamt",
+  "lizenz": "keine-bedingungen",
+  "lizenz_angegeben": "keine-bedingungen",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 475
  },
  {
   "schluessel": "kommone:34",
@@ -192,6 +300,18 @@
   "plaene": 411
  },
  {
+  "schluessel": "haleconnect:948",
+  "land": "BW",
+  "bereitsteller": "Stadt Ellwangen (Jagst) (über hale»connect)",
+  "herausgeber": "Stadt Ellwangen (Jagst)",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 407
+ },
+ {
   "schluessel": "kommone:149",
   "land": "BW",
   "bereitsteller": "Stadt Filderstadt (über Komm.ONE)",
@@ -202,6 +322,30 @@
   "bearbeitung_erlaubt": true,
   "einschraenkung": null,
   "plaene": 375
+ },
+ {
+  "schluessel": "stadt:ESSLINGEN",
+  "land": "BW",
+  "bereitsteller": "Stadt Esslingen a.N., Stadtplanungsamt, www.esslingen.de",
+  "herausgeber": "Stadt Esslingen am Neckar, Stadtplanungsamt",
+  "lizenz": "amtliches-werk",
+  "lizenz_angegeben": "genehmigungspflichtig",
+  "lizenz_url": null,
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": "genehmigung",
+  "plaene": 363
+ },
+ {
+  "schluessel": "haleconnect:1132",
+  "land": "BW",
+  "bereitsteller": "Stadt Herrenberg (über hale»connect)",
+  "herausgeber": "Stadt Herrenberg",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 362
  },
  {
   "schluessel": "stadt:LEONBERG",
@@ -216,6 +360,42 @@
   "plaene": 346
  },
  {
+  "schluessel": "haleconnect:1275",
+  "land": "BW",
+  "bereitsteller": "Stadt Winnenden (über hale»connect)",
+  "herausgeber": "Stadt Winnenden",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 345
+ },
+ {
+  "schluessel": "haleconnect:1182",
+  "land": "BW",
+  "bereitsteller": "Stadt Weinstadt (über hale»connect)",
+  "herausgeber": "Stadt Weinstadt",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 333
+ },
+ {
+  "schluessel": "haleconnect:1125",
+  "land": "BW",
+  "bereitsteller": "Stadt Leinfelden-Echterdingen (über hale»connect)",
+  "herausgeber": "Stadt Leinfelden-Echterdingen",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 317
+ },
+ {
   "schluessel": "kommone:93",
   "land": "BW",
   "bereitsteller": "Stadt Kornwestheim (über Komm.ONE)",
@@ -226,6 +406,18 @@
   "bearbeitung_erlaubt": true,
   "einschraenkung": null,
   "plaene": 315
+ },
+ {
+  "schluessel": "haleconnect:1016",
+  "land": "BW",
+  "bereitsteller": "Stadt Böblingen (über hale»connect)",
+  "herausgeber": "Stadt Böblingen",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 307
  },
  {
   "schluessel": "kommone:455",
@@ -264,6 +456,30 @@
   "plaene": 278
  },
  {
+  "schluessel": "haleconnect:914",
+  "land": "BW",
+  "bereitsteller": "Laupheim (über hale»connect)",
+  "herausgeber": "Laupheim",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 274
+ },
+ {
+  "schluessel": "haleconnect:1126",
+  "land": "BW",
+  "bereitsteller": "Stadt Eislingen/Fils (über hale»connect)",
+  "herausgeber": "Stadt Eislingen/Fils",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 269
+ },
+ {
   "schluessel": "kommone:504",
   "land": "BW",
   "bereitsteller": "Stadt Bretten (über Komm.ONE)",
@@ -298,6 +514,18 @@
   "bearbeitung_erlaubt": true,
   "einschraenkung": null,
   "plaene": 247
+ },
+ {
+  "schluessel": "haleconnect:1305",
+  "land": "BW",
+  "bereitsteller": "Gemeinde Kernen im Remstal (über hale»connect)",
+  "herausgeber": "Gemeinde Kernen im Remstal",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 244
  },
  {
   "schluessel": "kommone:38",
@@ -336,6 +564,18 @@
   "plaene": 231
  },
  {
+  "schluessel": "haleconnect:1091",
+  "land": "BW",
+  "bereitsteller": "Stadt Gaildorf (über hale»connect)",
+  "herausgeber": "Stadt Gaildorf",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 215
+ },
+ {
   "schluessel": "kommone:141",
   "land": "BW",
   "bereitsteller": "Stadt Uhingen (über Komm.ONE)",
@@ -346,6 +586,18 @@
   "bearbeitung_erlaubt": true,
   "einschraenkung": null,
   "plaene": 214
+ },
+ {
+  "schluessel": "kommone:392.14cf3823",
+  "land": "BW",
+  "bereitsteller": "Stadt Nürtingen (über Komm.ONE)",
+  "herausgeber": "Stadt Nürtingen",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 210
  },
  {
   "schluessel": "kommone:151",
@@ -394,6 +646,42 @@
   "bearbeitung_erlaubt": true,
   "einschraenkung": null,
   "plaene": 203
+ },
+ {
+  "schluessel": "kommone:809.00bddfad",
+  "land": "BW",
+  "bereitsteller": "Gemeinde Walddorfhäslach (über Komm.ONE)",
+  "herausgeber": "Gemeinde Walddorfhäslach",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 199
+ },
+ {
+  "schluessel": "haleconnect:1114",
+  "land": "BW",
+  "bereitsteller": "Stadt Remseck am Neckar (über hale»connect)",
+  "herausgeber": "Stadt Remseck am Neckar",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 197
+ },
+ {
+  "schluessel": "haleconnect:1240",
+  "land": "BW",
+  "bereitsteller": "Stadt Weil der Stadt (über hale»connect)",
+  "herausgeber": "Stadt Weil der Stadt",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 196
  },
  {
   "schluessel": "kommone:438",
@@ -588,6 +876,18 @@
   "plaene": 178
  },
  {
+  "schluessel": "haleconnect:1180",
+  "land": "BW",
+  "bereitsteller": "Stadt Bad Saulgau (über hale»connect)",
+  "herausgeber": "Stadt Bad Saulgau",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 177
+ },
+ {
   "schluessel": "kommone:259",
   "land": "BW",
   "bereitsteller": "Gemeinde Neuhausen auf den Fildern (über Komm.ONE)",
@@ -684,6 +984,18 @@
   "plaene": 166
  },
  {
+  "schluessel": "haleconnect:1340",
+  "land": "BW",
+  "bereitsteller": "Gemeinde Hohenstein (über hale»connect)",
+  "herausgeber": "Gemeinde Hohenstein",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 163
+ },
+ {
   "schluessel": "kommone:27",
   "land": "BW",
   "bereitsteller": "Stadt Asperg (über Komm.ONE)",
@@ -708,10 +1020,34 @@
   "plaene": 163
  },
  {
+  "schluessel": "haleconnect:1113",
+  "land": "BW",
+  "bereitsteller": "Gemeinde Leutenbach (über hale»connect)",
+  "herausgeber": "Gemeinde Leutenbach",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 162
+ },
+ {
   "schluessel": "kommone:679",
   "land": "BW",
   "bereitsteller": "Stadt Möckmühl (über Komm.ONE)",
   "herausgeber": "Stadt Möckmühl",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 162
+ },
+ {
+  "schluessel": "stadt:RIEDLINGEN",
+  "land": "BW",
+  "bereitsteller": "Stadt Riedlingen",
+  "herausgeber": "Stadt Riedlingen",
   "lizenz": "keine-angabe",
   "lizenz_angegeben": "keine-angabe",
   "lizenz_url": "",
@@ -840,6 +1176,18 @@
   "plaene": 150
  },
  {
+  "schluessel": "haleconnect:1181",
+  "land": "BW",
+  "bereitsteller": "Stadt Trochtelfingen (über hale»connect)",
+  "herausgeber": "Stadt Trochtelfingen",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 149
+ },
+ {
   "schluessel": "kommone:556",
   "land": "BW",
   "bereitsteller": "Stadt Meßstetten (über Komm.ONE)",
@@ -888,6 +1236,54 @@
   "plaene": 146
  },
  {
+  "schluessel": "kommone:195.4fa20efa",
+  "land": "BW",
+  "bereitsteller": "Stadt Mühlacker (über Komm.ONE)",
+  "herausgeber": "Stadt Mühlacker",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 145
+ },
+ {
+  "schluessel": "haleconnect:1103",
+  "land": "BW",
+  "bereitsteller": "Stadt Pfullingen (über hale»connect)",
+  "herausgeber": "Stadt Pfullingen",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 143
+ },
+ {
+  "schluessel": "haleconnect:890",
+  "land": "BW",
+  "bereitsteller": "Wangen im Allgäu (über hale»connect)",
+  "herausgeber": "Wangen im Allgäu",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 143
+ },
+ {
+  "schluessel": "haleconnect:936",
+  "land": "BW",
+  "bereitsteller": "Gemeinde Obersontheim (über hale»connect)",
+  "herausgeber": "Gemeinde Obersontheim",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 142
+ },
+ {
   "schluessel": "kommone:524",
   "land": "BW",
   "bereitsteller": "Stadt Philippsburg (über Komm.ONE)",
@@ -898,6 +1294,18 @@
   "bearbeitung_erlaubt": true,
   "einschraenkung": null,
   "plaene": 141
+ },
+ {
+  "schluessel": "haleconnect:1117",
+  "land": "BW",
+  "bereitsteller": "Stadt Schramberg (über hale»connect)",
+  "herausgeber": "Stadt Schramberg",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 140
  },
  {
   "schluessel": "kommone:544",
@@ -936,6 +1344,30 @@
   "plaene": 139
  },
  {
+  "schluessel": "haleconnect:1116",
+  "land": "BW",
+  "bereitsteller": "Gemeinde Lenningen (über hale»connect)",
+  "herausgeber": "Gemeinde Lenningen",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 138
+ },
+ {
+  "schluessel": "haleconnect:1122",
+  "land": "BW",
+  "bereitsteller": "Stadt Renningen (über hale»connect)",
+  "herausgeber": "Stadt Renningen",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 138
+ },
+ {
   "schluessel": "kommone:634",
   "land": "BW",
   "bereitsteller": "Stadt Marbach am Neckar (über Komm.ONE)",
@@ -960,6 +1392,30 @@
   "plaene": 135
  },
  {
+  "schluessel": "kommone:192.09f8a983",
+  "land": "BW",
+  "bereitsteller": "Stadt Wendlingen am Neckar (über Komm.ONE)",
+  "herausgeber": "Stadt Wendlingen am Neckar",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 135
+ },
+ {
+  "schluessel": "haleconnect:1089",
+  "land": "BW",
+  "bereitsteller": "Gemeinde Oberrot (über hale»connect)",
+  "herausgeber": "Gemeinde Oberrot",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 134
+ },
+ {
   "schluessel": "kommone:427",
   "land": "BW",
   "bereitsteller": "Stadt Stutensee (über Komm.ONE)",
@@ -972,6 +1428,18 @@
   "plaene": 134
  },
  {
+  "schluessel": "kommone:119.92adc75d",
+  "land": "BW",
+  "bereitsteller": "Gemeinde Dettingen unter Teck (über Komm.ONE)",
+  "herausgeber": "Gemeinde Dettingen unter Teck",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 133
+ },
+ {
   "schluessel": "kommone:512",
   "land": "BW",
   "bereitsteller": "Große Kreisstadt Waghäusel (über Komm.ONE)",
@@ -982,6 +1450,18 @@
   "bearbeitung_erlaubt": true,
   "einschraenkung": null,
   "plaene": 133
+ },
+ {
+  "schluessel": "haleconnect:931",
+  "land": "BW",
+  "bereitsteller": "Gemeinde Unterschneidheim (über hale»connect)",
+  "herausgeber": "Gemeinde Unterschneidheim",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 131
  },
  {
   "schluessel": "kommone:248",
@@ -1006,6 +1486,30 @@
   "bearbeitung_erlaubt": true,
   "einschraenkung": null,
   "plaene": 131
+ },
+ {
+  "schluessel": "haleconnect:1130",
+  "land": "BW",
+  "bereitsteller": "Stadt Rutesheim (über hale»connect)",
+  "herausgeber": "Stadt Rutesheim",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 128
+ },
+ {
+  "schluessel": "haleconnect:1468",
+  "land": "BW",
+  "bereitsteller": "Stadt Holzgerlingen (über hale»connect)",
+  "herausgeber": "Stadt Holzgerlingen",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 127
  },
  {
   "schluessel": "kommone:132",
@@ -1042,6 +1546,30 @@
   "bearbeitung_erlaubt": true,
   "einschraenkung": null,
   "plaene": 124
+ },
+ {
+  "schluessel": "kommone:289",
+  "land": "BW",
+  "bereitsteller": "Gemeinde Niedereschach (über Komm.ONE)",
+  "herausgeber": "Gemeinde Niedereschach",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 123
+ },
+ {
+  "schluessel": "haleconnect:888",
+  "land": "BW",
+  "bereitsteller": "Gemeinde Weil im Schönbuch (über hale»connect)",
+  "herausgeber": "Gemeinde Weil im Schönbuch",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 122
  },
  {
   "schluessel": "kommone:18",
@@ -1140,6 +1668,30 @@
   "plaene": 120
  },
  {
+  "schluessel": "haleconnect:1414",
+  "land": "BW",
+  "bereitsteller": "Gemeinde Althütte (über hale»connect)",
+  "herausgeber": "Gemeinde Althütte",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 118
+ },
+ {
+  "schluessel": "haleconnect:1408",
+  "land": "BW",
+  "bereitsteller": "Gemeinde Schönaich (über hale»connect)",
+  "herausgeber": "Gemeinde Schönaich",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 117
+ },
+ {
   "schluessel": "kommone:368",
   "land": "BW",
   "bereitsteller": "Gemeinde Königsbach-Stein (über Komm.ONE)",
@@ -1186,6 +1738,18 @@
   "bearbeitung_erlaubt": true,
   "einschraenkung": null,
   "plaene": 116
+ },
+ {
+  "schluessel": "haleconnect:1307",
+  "land": "BW",
+  "bereitsteller": "Gemeinde Sonnenbühl (über hale»connect)",
+  "herausgeber": "Gemeinde Sonnenbühl",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 115
  },
  {
   "schluessel": "kommone:356",
@@ -1296,6 +1860,30 @@
   "plaene": 112
  },
  {
+  "schluessel": "land:BW_ZOLLERNALB",
+  "land": "BW",
+  "bereitsteller": "© Landratsamt Zollernalbkreis, www.zollernalbkreis.de",
+  "herausgeber": "Landratsamt Zollernalbkreis",
+  "lizenz": "amtliches-werk",
+  "lizenz_angegeben": "nicht-kommerziell",
+  "lizenz_url": null,
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": "nicht_kommerziell",
+  "plaene": 112
+ },
+ {
+  "schluessel": "haleconnect:1226",
+  "land": "BW",
+  "bereitsteller": "Gemeindeverwaltungsverband Bad Buchau (über hale»connect)",
+  "herausgeber": "Gemeindeverwaltungsverband Bad Buchau",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 111
+ },
+ {
   "schluessel": "kommone:23",
   "land": "BW",
   "bereitsteller": "Stadt Bönnigheim (über Komm.ONE)",
@@ -1332,6 +1920,18 @@
   "plaene": 111
  },
  {
+  "schluessel": "haleconnect:1349",
+  "land": "BW",
+  "bereitsteller": "Gemeinde St. Johann (über hale»connect)",
+  "herausgeber": "Gemeinde St. Johann",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 110
+ },
+ {
   "schluessel": "kommone:133",
   "land": "BW",
   "bereitsteller": "Gemeinde Sersheim (über Komm.ONE)",
@@ -1366,6 +1966,18 @@
   "bearbeitung_erlaubt": true,
   "einschraenkung": null,
   "plaene": 110
+ },
+ {
+  "schluessel": "haleconnect:1209",
+  "land": "BW",
+  "bereitsteller": "Stadt Neresheim (über hale»connect)",
+  "herausgeber": "Stadt Neresheim",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 109
  },
  {
   "schluessel": "kommone:125",
@@ -1440,6 +2052,18 @@
   "plaene": 108
  },
  {
+  "schluessel": "haleconnect:1109",
+  "land": "BW",
+  "bereitsteller": "Gemeinde Aichwald (über hale»connect)",
+  "herausgeber": "Gemeinde Aichwald",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 107
+ },
+ {
   "schluessel": "kommone:322",
   "land": "BW",
   "bereitsteller": "Gemeinde Nordheim (über Komm.ONE)",
@@ -1462,6 +2086,18 @@
   "bearbeitung_erlaubt": true,
   "einschraenkung": null,
   "plaene": 107
+ },
+ {
+  "schluessel": "haleconnect:1265",
+  "land": "BW",
+  "bereitsteller": "Stadt Rottweil (über hale»connect)",
+  "herausgeber": "Stadt Rottweil",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 106
  },
  {
   "schluessel": "kommone:591",
@@ -1488,10 +2124,46 @@
   "plaene": 106
  },
  {
+  "schluessel": "haleconnect:1053",
+  "land": "BW",
+  "bereitsteller": "Gemeinde Aidlingen (über hale»connect)",
+  "herausgeber": "Gemeinde Aidlingen",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 105
+ },
+ {
+  "schluessel": "haleconnect:1220",
+  "land": "BW",
+  "bereitsteller": "Bad Wurzach (über hale»connect)",
+  "herausgeber": "Bad Wurzach",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 105
+ },
+ {
   "schluessel": "kommone:116",
   "land": "BW",
   "bereitsteller": "Gemeinde Hüttlingen (über Komm.ONE)",
   "herausgeber": "Gemeinde Hüttlingen",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 105
+ },
+ {
+  "schluessel": "kommone:291",
+  "land": "BW",
+  "bereitsteller": "Stadt Meßkirch (über Komm.ONE)",
+  "herausgeber": "Stadt Meßkirch",
   "lizenz": "keine-angabe",
   "lizenz_angegeben": "keine-angabe",
   "lizenz_url": "",
@@ -1510,18 +2182,6 @@
   "bearbeitung_erlaubt": true,
   "einschraenkung": null,
   "plaene": 105
- },
- {
-  "schluessel": "kommone:291",
-  "land": "BW",
-  "bereitsteller": "Stadt Meßkirch (über Komm.ONE)",
-  "herausgeber": "Stadt Meßkirch",
-  "lizenz": "keine-angabe",
-  "lizenz_angegeben": "keine-angabe",
-  "lizenz_url": "",
-  "bearbeitung_erlaubt": true,
-  "einschraenkung": null,
-  "plaene": 104
  },
  {
   "schluessel": "kommone:522",
@@ -1545,6 +2205,18 @@
   "lizenz_url": "",
   "bearbeitung_erlaubt": true,
   "einschraenkung": null,
+  "plaene": 104
+ },
+ {
+  "schluessel": "stadt:ESSLINGEN_ALTBESTAND",
+  "land": "BW",
+  "bereitsteller": "Stadt Esslingen a.N., Stadtplanungsamt, www.esslingen.de",
+  "herausgeber": "Stadt Esslingen am Neckar, Stadtplanungsamt",
+  "lizenz": "amtliches-werk",
+  "lizenz_angegeben": "genehmigungspflichtig",
+  "lizenz_url": null,
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": "genehmigung",
   "plaene": 104
  },
  {
@@ -1656,6 +2328,18 @@
   "plaene": 100
  },
  {
+  "schluessel": "kommone:180.b497f9b7",
+  "land": "BW",
+  "bereitsteller": "Stadt Überlingen (über Komm.ONE)",
+  "herausgeber": "Stadt Überlingen",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 99
+ },
+ {
   "schluessel": "kommone:253",
   "land": "BW",
   "bereitsteller": "Stadt Schömberg (über Komm.ONE)",
@@ -1678,6 +2362,30 @@
   "bearbeitung_erlaubt": true,
   "einschraenkung": null,
   "plaene": 99
+ },
+ {
+  "schluessel": "haleconnect:1087",
+  "land": "BW",
+  "bereitsteller": "Gemeinde Fichtenberg (über hale»connect)",
+  "herausgeber": "Gemeinde Fichtenberg",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 98
+ },
+ {
+  "schluessel": "haleconnect:1090",
+  "land": "BW",
+  "bereitsteller": "Gemeinde Sulzbach-Laufen (über hale»connect)",
+  "herausgeber": "Gemeinde Sulzbach-Laufen",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 98
  },
  {
   "schluessel": "kommone:545",
@@ -1728,6 +2436,18 @@
   "plaene": 96
  },
  {
+  "schluessel": "haleconnect:956",
+  "land": "BW",
+  "bereitsteller": "Stadt Leimen (über hale»connect)",
+  "herausgeber": "Stadt Leimen",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 94
+ },
+ {
   "schluessel": "kommone:199",
   "land": "BW",
   "bereitsteller": "Gemeinde Ostrach (über Komm.ONE)",
@@ -1738,6 +2458,42 @@
   "bearbeitung_erlaubt": true,
   "einschraenkung": null,
   "plaene": 94
+ },
+ {
+  "schluessel": "haleconnect:1092",
+  "land": "BW",
+  "bereitsteller": "Gemeinde Abstatt (über hale»connect)",
+  "herausgeber": "Gemeinde Abstatt",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 93
+ },
+ {
+  "schluessel": "haleconnect:1221",
+  "land": "BW",
+  "bereitsteller": "Pfullendorf (über hale»connect)",
+  "herausgeber": "Pfullendorf",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 93
+ },
+ {
+  "schluessel": "kommone:810",
+  "land": "BW",
+  "bereitsteller": "Gemeinde Bodelshausen (über Komm.ONE)",
+  "herausgeber": "Gemeinde Bodelshausen",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 93
  },
  {
   "schluessel": "kommone:29",
@@ -1836,18 +2592,6 @@
   "plaene": 90
  },
  {
-  "schluessel": "kommone:670",
-  "land": "BW",
-  "bereitsteller": "Stadt Dietenheim (über Komm.ONE)",
-  "herausgeber": "Stadt Dietenheim",
-  "lizenz": "keine-angabe",
-  "lizenz_angegeben": "keine-angabe",
-  "lizenz_url": "",
-  "bearbeitung_erlaubt": true,
-  "einschraenkung": null,
-  "plaene": 90
- },
- {
   "schluessel": "kommone:726",
   "land": "BW",
   "bereitsteller": "Stadt Schriesheim (über Komm.ONE)",
@@ -1870,6 +2614,42 @@
   "bearbeitung_erlaubt": true,
   "einschraenkung": null,
   "plaene": 90
+ },
+ {
+  "schluessel": "land:BW_ALB_DONAU_SATZUNGEN",
+  "land": "BW",
+  "bereitsteller": "Landratsamt Alb-Donau-Kreis",
+  "herausgeber": "Landratsamt Alb-Donau-Kreis",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 90
+ },
+ {
+  "schluessel": "haleconnect:1106",
+  "land": "BW",
+  "bereitsteller": "Gemeinde Köngen (über hale»connect)",
+  "herausgeber": "Gemeinde Köngen",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 88
+ },
+ {
+  "schluessel": "haleconnect:706",
+  "land": "BW",
+  "bereitsteller": "Gemeinde Ehningen (über hale»connect)",
+  "herausgeber": "Gemeinde Ehningen",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 88
  },
  {
   "schluessel": "kommone:147",
@@ -1920,6 +2700,18 @@
   "plaene": 87
  },
  {
+  "schluessel": "haleconnect:1140",
+  "land": "BW",
+  "bereitsteller": "Gemeindeverwaltung Pfalzgrafenweiler (über hale»connect)",
+  "herausgeber": "Gemeindeverwaltung Pfalzgrafenweiler",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 86
+ },
+ {
   "schluessel": "kommone:177",
   "land": "BW",
   "bereitsteller": "Stadt Lauchheim (über Komm.ONE)",
@@ -1968,6 +2760,18 @@
   "plaene": 85
  },
  {
+  "schluessel": "kommone:334.4d5cd928",
+  "land": "BW",
+  "bereitsteller": "Stadt Hockenheim (über Komm.ONE)",
+  "herausgeber": "Stadt Hockenheim",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 85
+ },
+ {
   "schluessel": "kommone:355",
   "land": "BW",
   "bereitsteller": "Stadt Lörrach (über Komm.ONE)",
@@ -2002,6 +2806,18 @@
   "bearbeitung_erlaubt": true,
   "einschraenkung": null,
   "plaene": 85
+ },
+ {
+  "schluessel": "haleconnect:854",
+  "land": "BW",
+  "bereitsteller": "Stadt Bad Urach (über hale»connect)",
+  "herausgeber": "Stadt Bad Urach",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 84
  },
  {
   "schluessel": "kommone:466",
@@ -2052,18 +2868,6 @@
   "plaene": 83
  },
  {
-  "schluessel": "kommone:108",
-  "land": "BW",
-  "bereitsteller": "Stadt Laichingen (über Komm.ONE)",
-  "herausgeber": "Stadt Laichingen",
-  "lizenz": "keine-angabe",
-  "lizenz_angegeben": "keine-angabe",
-  "lizenz_url": "",
-  "bearbeitung_erlaubt": true,
-  "einschraenkung": null,
-  "plaene": 82
- },
- {
   "schluessel": "kommone:118",
   "land": "BW",
   "bereitsteller": "Stadt Owen (über Komm.ONE)",
@@ -2098,6 +2902,30 @@
   "bearbeitung_erlaubt": true,
   "einschraenkung": null,
   "plaene": 82
+ },
+ {
+  "schluessel": "haleconnect:1143",
+  "land": "BW",
+  "bereitsteller": "Stadtverwaltung Sulz (über hale»connect)",
+  "herausgeber": "Stadtverwaltung Sulz",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 81
+ },
+ {
+  "schluessel": "haleconnect:1146",
+  "land": "BW",
+  "bereitsteller": "Isny (über hale»connect)",
+  "herausgeber": "Isny",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 81
  },
  {
   "schluessel": "kommone:111",
@@ -2140,18 +2968,6 @@
   "land": "BW",
   "bereitsteller": "Gemeinde Altbach (über Komm.ONE)",
   "herausgeber": "Gemeinde Altbach",
-  "lizenz": "keine-angabe",
-  "lizenz_angegeben": "keine-angabe",
-  "lizenz_url": "",
-  "bearbeitung_erlaubt": true,
-  "einschraenkung": null,
-  "plaene": 80
- },
- {
-  "schluessel": "kommone:256",
-  "land": "BW",
-  "bereitsteller": "Gemeinde Lonsee (über Komm.ONE)",
-  "herausgeber": "Gemeinde Lonsee",
   "lizenz": "keine-angabe",
   "lizenz_angegeben": "keine-angabe",
   "lizenz_url": "",
@@ -2232,6 +3048,66 @@
   "plaene": 80
  },
  {
+  "schluessel": "haleconnect:1214",
+  "land": "BW",
+  "bereitsteller": "Gemeinde Mehrstetten (über hale»connect)",
+  "herausgeber": "Gemeinde Mehrstetten",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 79
+ },
+ {
+  "schluessel": "haleconnect:1255",
+  "land": "BW",
+  "bereitsteller": "Gemeinde Engstingen (über hale»connect)",
+  "herausgeber": "Gemeinde Engstingen",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 79
+ },
+ {
+  "schluessel": "haleconnect:1301",
+  "land": "BW",
+  "bereitsteller": "Gemeinde Weissach (über hale»connect)",
+  "herausgeber": "Gemeinde Weissach",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 79
+ },
+ {
+  "schluessel": "haleconnect:1327",
+  "land": "BW",
+  "bereitsteller": "Gemeinde Hülben (über hale»connect)",
+  "herausgeber": "Gemeinde Hülben",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 79
+ },
+ {
+  "schluessel": "kommone:302.5a68ec16",
+  "land": "BW",
+  "bereitsteller": "Gemeinde Zimmern ob Rottweil (über Komm.ONE)",
+  "herausgeber": "Gemeinde Zimmern ob Rottweil",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 79
+ },
+ {
   "schluessel": "kommone:463",
   "land": "BW",
   "bereitsteller": "Stadt Neuffen (über Komm.ONE)",
@@ -2248,6 +3124,30 @@
   "land": "BW",
   "bereitsteller": "Gemeinde Forst (über Komm.ONE)",
   "herausgeber": "Gemeinde Forst",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 79
+ },
+ {
+  "schluessel": "kommone:538.c0b0adb8",
+  "land": "BW",
+  "bereitsteller": "Stadt Mahlberg (über Komm.ONE)",
+  "herausgeber": "Stadt Mahlberg",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 79
+ },
+ {
+  "schluessel": "kommone:554.d00b5b4c",
+  "land": "BW",
+  "bereitsteller": "Gemeinde Oberboihingen (über Komm.ONE)",
+  "herausgeber": "Gemeinde Oberboihingen",
   "lizenz": "keine-angabe",
   "lizenz_angegeben": "keine-angabe",
   "lizenz_url": "",
@@ -2280,6 +3180,30 @@
   "plaene": 79
  },
  {
+  "schluessel": "haleconnect:1093",
+  "land": "BW",
+  "bereitsteller": "Gemeinde Gärtringen (über hale»connect)",
+  "herausgeber": "Gemeinde Gärtringen",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 78
+ },
+ {
+  "schluessel": "haleconnect:1266",
+  "land": "BW",
+  "bereitsteller": "Stadt Markgröningen (über hale»connect)",
+  "herausgeber": "Stadt Markgröningen",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 78
+ },
+ {
   "schluessel": "kommone:120",
   "land": "BW",
   "bereitsteller": "Gemeinde Illerrieden (über Komm.ONE)",
@@ -2302,6 +3226,18 @@
   "bearbeitung_erlaubt": true,
   "einschraenkung": null,
   "plaene": 78
+ },
+ {
+  "schluessel": "haleconnect:1227",
+  "land": "BW",
+  "bereitsteller": "Gemeinde Magstadt (über hale»connect)",
+  "herausgeber": "Gemeinde Magstadt",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 77
  },
  {
   "schluessel": "kommone:36",
@@ -2340,6 +3276,18 @@
   "plaene": 77
  },
  {
+  "schluessel": "haleconnect:1057",
+  "land": "BW",
+  "bereitsteller": "Gemeinde Hochdorf (über hale»connect)",
+  "herausgeber": "Gemeinde Hochdorf",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 76
+ },
+ {
   "schluessel": "kommone:408",
   "land": "BW",
   "bereitsteller": "Gemeinde Salem (über Komm.ONE)",
@@ -2374,6 +3322,18 @@
   "bearbeitung_erlaubt": true,
   "einschraenkung": null,
   "plaene": 75
+ },
+ {
+  "schluessel": "haleconnect:1056",
+  "land": "BW",
+  "bereitsteller": "Gemeinde Böbingen an der Rems (über hale»connect)",
+  "herausgeber": "Gemeinde Böbingen an der Rems",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 74
  },
  {
   "schluessel": "kommone:32",
@@ -2472,6 +3432,30 @@
   "plaene": 72
  },
  {
+  "schluessel": "kommone:792",
+  "land": "BW",
+  "bereitsteller": "Gemeinde Königsfeld im Schwarzwald (über Komm.ONE)",
+  "herausgeber": "Gemeinde Königsfeld im Schwarzwald",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 72
+ },
+ {
+  "schluessel": "haleconnect:1276",
+  "land": "BW",
+  "bereitsteller": "Gemeinde Deggingen (über hale»connect)",
+  "herausgeber": "Gemeinde Deggingen",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 71
+ },
+ {
   "schluessel": "kommone:22",
   "land": "BW",
   "bereitsteller": "Gemeinde Mundelsheim (über Komm.ONE)",
@@ -2544,16 +3528,40 @@
   "plaene": 70
  },
  {
-  "schluessel": "kommone:792",
+  "schluessel": "stadt:GOEPPINGEN",
   "land": "BW",
-  "bereitsteller": "Gemeinde Königsfeld im Schwarzwald (über Komm.ONE)",
-  "herausgeber": "Gemeinde Königsfeld im Schwarzwald",
+  "bereitsteller": "Geodaten (c) Stadt Göppingen, geoportal.goeppingen.de",
+  "herausgeber": "Stadt Göppingen, Abteilung Stadtplanung",
   "lizenz": "keine-angabe",
   "lizenz_angegeben": "keine-angabe",
   "lizenz_url": "",
   "bearbeitung_erlaubt": true,
   "einschraenkung": null,
   "plaene": 70
+ },
+ {
+  "schluessel": "haleconnect:1245",
+  "land": "BW",
+  "bereitsteller": "Gemeinde Bad Ditzenbach (über hale»connect)",
+  "herausgeber": "Gemeinde Bad Ditzenbach",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 69
+ },
+ {
+  "schluessel": "haleconnect:1287",
+  "land": "BW",
+  "bereitsteller": "Gemeinde Eutingen (über hale»connect)",
+  "herausgeber": "Gemeinde Eutingen",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 69
  },
  {
   "schluessel": "kommone:171",
@@ -2566,6 +3574,18 @@
   "bearbeitung_erlaubt": true,
   "einschraenkung": null,
   "plaene": 69
+ },
+ {
+  "schluessel": "haleconnect:1121",
+  "land": "BW",
+  "bereitsteller": "Gemeindeverwaltung Meckesheim (über hale»connect)",
+  "herausgeber": "Gemeindeverwaltung Meckesheim",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 68
  },
  {
   "schluessel": "kommone:25",
@@ -2604,10 +3624,34 @@
   "plaene": 68
  },
  {
-  "schluessel": "kommone:204",
+  "schluessel": "haleconnect:1068",
   "land": "BW",
-  "bereitsteller": "Stadt Munderkingen (über Komm.ONE)",
-  "herausgeber": "Stadt Munderkingen",
+  "bereitsteller": "Gemeinde Abtsgmünd (über hale»connect)",
+  "herausgeber": "Gemeinde Abtsgmünd",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 67
+ },
+ {
+  "schluessel": "haleconnect:1107",
+  "land": "BW",
+  "bereitsteller": "Gemeinde Eningen unter Achalm (über hale»connect)",
+  "herausgeber": "Gemeinde Eningen unter Achalm",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 67
+ },
+ {
+  "schluessel": "haleconnect:1470",
+  "land": "BW",
+  "bereitsteller": "Bergatreute (über hale»connect)",
+  "herausgeber": "Bergatreute",
   "lizenz": "keine-angabe",
   "lizenz_angegeben": "keine-angabe",
   "lizenz_url": "",
@@ -2628,6 +3672,18 @@
   "plaene": 67
  },
  {
+  "schluessel": "kommone:658",
+  "land": "BW",
+  "bereitsteller": "Gemeinde Meißenheim (über Komm.ONE)",
+  "herausgeber": "Gemeinde Meißenheim",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 67
+ },
+ {
   "schluessel": "kommone:812",
   "land": "BW",
   "bereitsteller": "Stadt Altensteig (über Komm.ONE)",
@@ -2638,6 +3694,30 @@
   "bearbeitung_erlaubt": true,
   "einschraenkung": null,
   "plaene": 67
+ },
+ {
+  "schluessel": "haleconnect:1267",
+  "land": "BW",
+  "bereitsteller": "Gemeinde Grafenau (über hale»connect)",
+  "herausgeber": "Gemeinde Grafenau",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 66
+ },
+ {
+  "schluessel": "haleconnect:1434",
+  "land": "BW",
+  "bereitsteller": "Gemeinde Dettenhausen (über hale»connect)",
+  "herausgeber": "Gemeinde Dettenhausen",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 66
  },
  {
   "schluessel": "kommone:166",
@@ -2676,6 +3756,18 @@
   "plaene": 66
  },
  {
+  "schluessel": "haleconnect:1219",
+  "land": "BW",
+  "bereitsteller": "Schlier (über hale»connect)",
+  "herausgeber": "Schlier",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 64
+ },
+ {
   "schluessel": "kommone:791",
   "land": "BW",
   "bereitsteller": "Stadt Bräunlingen (über Komm.ONE)",
@@ -2686,6 +3778,30 @@
   "bearbeitung_erlaubt": true,
   "einschraenkung": null,
   "plaene": 64
+ },
+ {
+  "schluessel": "haleconnect:1120",
+  "land": "BW",
+  "bereitsteller": "Stadt Neckargemünd (über hale»connect)",
+  "herausgeber": "Stadt Neckargemünd",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 63
+ },
+ {
+  "schluessel": "haleconnect:1366",
+  "land": "BW",
+  "bereitsteller": "Gemeinde Zwiefalten (über hale»connect)",
+  "herausgeber": "Gemeinde Zwiefalten",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 63
  },
  {
   "schluessel": "kommone:458",
@@ -2710,6 +3826,54 @@
   "bearbeitung_erlaubt": true,
   "einschraenkung": null,
   "plaene": 63
+ },
+ {
+  "schluessel": "haleconnect:1170",
+  "land": "BW",
+  "bereitsteller": "Gemeinde Gingen an der Fils (über hale»connect)",
+  "herausgeber": "Gemeinde Gingen an der Fils",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 62
+ },
+ {
+  "schluessel": "haleconnect:933",
+  "land": "BW",
+  "bereitsteller": "Gemeinde Bühlertann (über hale»connect)",
+  "herausgeber": "Gemeinde Bühlertann",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 62
+ },
+ {
+  "schluessel": "haleconnect:952.af17f487",
+  "land": "BW",
+  "bereitsteller": "Gemeinde Rainau (über hale»connect)",
+  "herausgeber": "Gemeinde Rainau",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 62
+ },
+ {
+  "schluessel": "kommone:269.fadbb3b8",
+  "land": "BW",
+  "bereitsteller": "Gemeinde Achstetten (über Komm.ONE)",
+  "herausgeber": "Gemeinde Achstetten",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 62
  },
  {
   "schluessel": "kommone:312",
@@ -2760,6 +3924,30 @@
   "plaene": 62
  },
  {
+  "schluessel": "kommone:711",
+  "land": "BW",
+  "bereitsteller": "Stadt Bad Teinach-Zavelstein (über Komm.ONE)",
+  "herausgeber": "Stadt Bad Teinach-Zavelstein",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 62
+ },
+ {
+  "schluessel": "haleconnect:1490",
+  "land": "BW",
+  "bereitsteller": "Stadt Hayingen (über hale»connect)",
+  "herausgeber": "Stadt Hayingen",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 61
+ },
+ {
   "schluessel": "kommone:362",
   "land": "BW",
   "bereitsteller": "Gemeinde Gemmingen (über Komm.ONE)",
@@ -2782,6 +3970,30 @@
   "bearbeitung_erlaubt": true,
   "einschraenkung": null,
   "plaene": 61
+ },
+ {
+  "schluessel": "haleconnect:1213",
+  "land": "BW",
+  "bereitsteller": "Gemeinde Bad Überkingen (über hale»connect)",
+  "herausgeber": "Gemeinde Bad Überkingen",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 60
+ },
+ {
+  "schluessel": "haleconnect:1225",
+  "land": "BW",
+  "bereitsteller": "Bodnegg (über hale»connect)",
+  "herausgeber": "Bodnegg",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 60
  },
  {
   "schluessel": "kommone:142",
@@ -2844,6 +4056,30 @@
   "plaene": 59
  },
  {
+  "schluessel": "haleconnect:1260",
+  "land": "BW",
+  "bereitsteller": "Gemeinde Gomaringen (über hale»connect)",
+  "herausgeber": "Gemeinde Gomaringen",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 58
+ },
+ {
+  "schluessel": "haleconnect:1341",
+  "land": "BW",
+  "bereitsteller": "Stadtverwaltung Haiterbach (über hale»connect)",
+  "herausgeber": "Stadtverwaltung Haiterbach",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 58
+ },
+ {
   "schluessel": "kommone:184",
   "land": "BW",
   "bereitsteller": "Gemeinde Westerheim (über Komm.ONE)",
@@ -2878,6 +4114,54 @@
   "bearbeitung_erlaubt": true,
   "einschraenkung": null,
   "plaene": 58
+ },
+ {
+  "schluessel": "haleconnect:1011",
+  "land": "BW",
+  "bereitsteller": "Gemeinde Eschach (über hale»connect)",
+  "herausgeber": "Gemeinde Eschach",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 57
+ },
+ {
+  "schluessel": "haleconnect:1080",
+  "land": "BW",
+  "bereitsteller": "Gemeinde Altdorf (über hale»connect)",
+  "herausgeber": "Gemeinde Altdorf",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 57
+ },
+ {
+  "schluessel": "haleconnect:1320",
+  "land": "BW",
+  "bereitsteller": "Gemeinde Gomadingen (über hale»connect)",
+  "herausgeber": "Gemeinde Gomadingen",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 57
+ },
+ {
+  "schluessel": "haleconnect:1344",
+  "land": "BW",
+  "bereitsteller": "Burgrieden (über hale»connect)",
+  "herausgeber": "Burgrieden",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 57
  },
  {
   "schluessel": "kommone:214",
@@ -2926,6 +4210,18 @@
   "bearbeitung_erlaubt": true,
   "einschraenkung": null,
   "plaene": 57
+ },
+ {
+  "schluessel": "haleconnect:1035",
+  "land": "BW",
+  "bereitsteller": "Gemeinde Untereisesheim (über hale»connect)",
+  "herausgeber": "Gemeinde Untereisesheim",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 56
  },
  {
   "schluessel": "kommone:21",
@@ -2998,6 +4294,30 @@
   "bearbeitung_erlaubt": true,
   "einschraenkung": null,
   "plaene": 55
+ },
+ {
+  "schluessel": "haleconnect:1244",
+  "land": "BW",
+  "bereitsteller": "Gemeinde Jettingen (über hale»connect)",
+  "herausgeber": "Gemeinde Jettingen",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 54
+ },
+ {
+  "schluessel": "haleconnect:1253",
+  "land": "BW",
+  "bereitsteller": "Gemeinde Bisingen (über hale»connect)",
+  "herausgeber": "Gemeinde Bisingen",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 54
  },
  {
   "schluessel": "kommone:129",
@@ -3120,6 +4440,18 @@
   "plaene": 53
  },
  {
+  "schluessel": "haleconnect:934",
+  "land": "BW",
+  "bereitsteller": "Gemeinde Bühlerzell (über hale»connect)",
+  "herausgeber": "Gemeinde Bühlerzell",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 52
+ },
+ {
   "schluessel": "kommone:179",
   "land": "BW",
   "bereitsteller": "Gemeinde Beuren (über Komm.ONE)",
@@ -3136,6 +4468,18 @@
   "land": "BW",
   "bereitsteller": "Stadt Lauffen am Neckar (über Komm.ONE)",
   "herausgeber": "Stadt Lauffen am Neckar",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 52
+ },
+ {
+  "schluessel": "kommone:493.8dd6accb",
+  "land": "BW",
+  "bereitsteller": "Gemeinde Karlsdorf-Neuthard (über Komm.ONE)",
+  "herausgeber": "Gemeinde Karlsdorf-Neuthard",
   "lizenz": "keine-angabe",
   "lizenz_angegeben": "keine-angabe",
   "lizenz_url": "",
@@ -3166,6 +4510,30 @@
   "bearbeitung_erlaubt": true,
   "einschraenkung": null,
   "plaene": 52
+ },
+ {
+  "schluessel": "haleconnect:1042.6843ad33",
+  "land": "BW",
+  "bereitsteller": "Gemeinde Bartholomä (über hale»connect)",
+  "herausgeber": "Gemeinde Bartholomä",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 51
+ },
+ {
+  "schluessel": "haleconnect:1330",
+  "land": "BW",
+  "bereitsteller": "Aulendorf (über hale»connect)",
+  "herausgeber": "Aulendorf",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 51
  },
  {
   "schluessel": "kommone:398",
@@ -3220,18 +4588,6 @@
   "land": "BW",
   "bereitsteller": "Gemeinde Altenriet (über Komm.ONE)",
   "herausgeber": "Gemeinde Altenriet",
-  "lizenz": "keine-angabe",
-  "lizenz_angegeben": "keine-angabe",
-  "lizenz_url": "",
-  "bearbeitung_erlaubt": true,
-  "einschraenkung": null,
-  "plaene": 50
- },
- {
-  "schluessel": "kommone:692",
-  "land": "BW",
-  "bereitsteller": "Stadt Langenau (über Komm.ONE)",
-  "herausgeber": "Stadt Langenau",
   "lizenz": "keine-angabe",
   "lizenz_angegeben": "keine-angabe",
   "lizenz_url": "",
@@ -3336,6 +4692,18 @@
   "plaene": 48
  },
  {
+  "schluessel": "kommone:204",
+  "land": "BW",
+  "bereitsteller": "Stadt Munderkingen (über Komm.ONE)",
+  "herausgeber": "Stadt Munderkingen",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 48
+ },
+ {
   "schluessel": "kommone:288",
   "land": "BW",
   "bereitsteller": "Gemeinde Kupferzell (über Komm.ONE)",
@@ -3358,6 +4726,18 @@
   "bearbeitung_erlaubt": true,
   "einschraenkung": null,
   "plaene": 48
+ },
+ {
+  "schluessel": "haleconnect:1081",
+  "land": "BW",
+  "bereitsteller": "Gemeinde Nufringen (über hale»connect)",
+  "herausgeber": "Gemeinde Nufringen",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 47
  },
  {
   "schluessel": "kommone:154",
@@ -3442,6 +4822,18 @@
   "bearbeitung_erlaubt": true,
   "einschraenkung": null,
   "plaene": 47
+ },
+ {
+  "schluessel": "haleconnect:1032",
+  "land": "BW",
+  "bereitsteller": "Stadt Walldorf (über hale»connect)",
+  "herausgeber": "Stadt Walldorf",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 46
  },
  {
   "schluessel": "kommone:115",
@@ -3540,6 +4932,18 @@
   "plaene": 46
  },
  {
+  "schluessel": "haleconnect:1224",
+  "land": "BW",
+  "bereitsteller": "Kirchdorf an der Iller (über hale»connect)",
+  "herausgeber": "Kirchdorf an der Iller",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 45
+ },
+ {
   "schluessel": "kommone:195",
   "land": "BW",
   "bereitsteller": "Stadt Mühlacker (über Komm.ONE)",
@@ -3576,6 +4980,78 @@
   "plaene": 45
  },
  {
+  "schluessel": "kommone:815",
+  "land": "BW",
+  "bereitsteller": "Stadt Heimsheim (über Komm.ONE)",
+  "herausgeber": "Stadt Heimsheim",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 45
+ },
+ {
+  "schluessel": "haleconnect:1038.e90718de",
+  "land": "BW",
+  "bereitsteller": "Gemeinde Durlangen (über hale»connect)",
+  "herausgeber": "Gemeinde Durlangen",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 44
+ },
+ {
+  "schluessel": "haleconnect:1167",
+  "land": "BW",
+  "bereitsteller": "Horgenzell (über hale»connect)",
+  "herausgeber": "Horgenzell",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 44
+ },
+ {
+  "schluessel": "haleconnect:1169",
+  "land": "BW",
+  "bereitsteller": "Gemeinde Grabenstetten (über hale»connect)",
+  "herausgeber": "Gemeinde Grabenstetten",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 44
+ },
+ {
+  "schluessel": "haleconnect:1193",
+  "land": "BW",
+  "bereitsteller": "Grünkraut (über hale»connect)",
+  "herausgeber": "Grünkraut",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 44
+ },
+ {
+  "schluessel": "haleconnect:1268",
+  "land": "BW",
+  "bereitsteller": "Stadt Blaubeuren (über hale»connect)",
+  "herausgeber": "Stadt Blaubeuren",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 44
+ },
+ {
   "schluessel": "kommone:14",
   "land": "BW",
   "bereitsteller": "Gemeinde Dörzbach (über Komm.ONE)",
@@ -3598,6 +5074,42 @@
   "bearbeitung_erlaubt": true,
   "einschraenkung": null,
   "plaene": 44
+ },
+ {
+  "schluessel": "haleconnect:1001",
+  "land": "BW",
+  "bereitsteller": "Waldburg (über hale»connect)",
+  "herausgeber": "Waldburg",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 43
+ },
+ {
+  "schluessel": "haleconnect:1196",
+  "land": "BW",
+  "bereitsteller": "Gemeinde Kirchardt (über hale»connect)",
+  "herausgeber": "Gemeinde Kirchardt",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 43
+ },
+ {
+  "schluessel": "haleconnect:1222",
+  "land": "BW",
+  "bereitsteller": "Kißlegg (über hale»connect)",
+  "herausgeber": "Kißlegg",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 43
  },
  {
   "schluessel": "kommone:160",
@@ -3672,6 +5184,30 @@
   "plaene": 43
  },
  {
+  "schluessel": "haleconnect:1377",
+  "land": "BW",
+  "bereitsteller": "Amtzell (über hale»connect)",
+  "herausgeber": "Amtzell",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 42
+ },
+ {
+  "schluessel": "haleconnect:1477",
+  "land": "BW",
+  "bereitsteller": "Gemeinde Vöhringen (BW) (über hale»connect)",
+  "herausgeber": "Gemeinde Vöhringen (BW)",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 42
+ },
+ {
   "schluessel": "kommone:295",
   "land": "BW",
   "bereitsteller": "Gemeinde Massenbachhausen (über Komm.ONE)",
@@ -3744,6 +5280,18 @@
   "plaene": 42
  },
  {
+  "schluessel": "haleconnect:1065.d4137cf8",
+  "land": "BW",
+  "bereitsteller": "Gemeinde Göggingen (über hale»connect)",
+  "herausgeber": "Gemeinde Göggingen",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 41
+ },
+ {
   "schluessel": "kommone:251",
   "land": "BW",
   "bereitsteller": "Gemeinde Brigachtal (über Komm.ONE)",
@@ -3790,6 +5338,54 @@
   "bearbeitung_erlaubt": true,
   "einschraenkung": null,
   "plaene": 41
+ },
+ {
+  "schluessel": "kommone:723",
+  "land": "BW",
+  "bereitsteller": "Stadt Spaichingen (über Komm.ONE)",
+  "herausgeber": "Stadt Spaichingen",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 41
+ },
+ {
+  "schluessel": "haleconnect:1066",
+  "land": "BW",
+  "bereitsteller": "Gemeinde Hildrizhausen (über hale»connect)",
+  "herausgeber": "Gemeinde Hildrizhausen",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 40
+ },
+ {
+  "schluessel": "haleconnect:1316",
+  "land": "BW",
+  "bereitsteller": "Stadtverwaltung Kehl (über hale»connect)",
+  "herausgeber": "Stadtverwaltung Kehl",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 40
+ },
+ {
+  "schluessel": "haleconnect:976",
+  "land": "BW",
+  "bereitsteller": "Gemeinde Winterlingen (über hale»connect)",
+  "herausgeber": "Gemeinde Winterlingen",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 40
  },
  {
   "schluessel": "kommone:453",
@@ -3876,6 +5472,18 @@
   "plaene": 40
  },
  {
+  "schluessel": "haleconnect:1353",
+  "land": "BW",
+  "bereitsteller": "Stadt Ehingen (Donau) (über hale»connect)",
+  "herausgeber": "Stadt Ehingen (Donau)",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 39
+ },
+ {
   "schluessel": "kommone:557",
   "land": "BW",
   "bereitsteller": "Gemeinde Altdorf (über Komm.ONE)",
@@ -3910,6 +5518,18 @@
   "bearbeitung_erlaubt": true,
   "einschraenkung": null,
   "plaene": 39
+ },
+ {
+  "schluessel": "haleconnect:1228",
+  "land": "BW",
+  "bereitsteller": "Gemeinde Deckenpfronn (über hale»connect)",
+  "herausgeber": "Gemeinde Deckenpfronn",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 38
  },
  {
   "schluessel": "kommone:331",
@@ -3996,6 +5616,18 @@
   "plaene": 37
  },
  {
+  "schluessel": "haleconnect:1135",
+  "land": "BW",
+  "bereitsteller": "Achberg (über hale»connect)",
+  "herausgeber": "Achberg",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 36
+ },
+ {
   "schluessel": "kommone:153",
   "land": "BW",
   "bereitsteller": "Gemeinde Kirchheim am Ries (über Komm.ONE)",
@@ -4044,6 +5676,18 @@
   "plaene": 36
  },
  {
+  "schluessel": "kommone:88",
+  "land": "BW",
+  "bereitsteller": "Gemeinde Neckargerach (über Komm.ONE)",
+  "herausgeber": "Gemeinde Neckargerach",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 36
+ },
+ {
   "schluessel": "kommone:419",
   "land": "BW",
   "bereitsteller": "Gemeinde Dielheim (über Komm.ONE)",
@@ -4054,6 +5698,54 @@
   "bearbeitung_erlaubt": true,
   "einschraenkung": null,
   "plaene": 35
+ },
+ {
+  "schluessel": "kommone:817",
+  "land": "BW",
+  "bereitsteller": "Gemeinde Meckenbeuren (über Komm.ONE)",
+  "herausgeber": "Gemeinde Meckenbeuren",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 35
+ },
+ {
+  "schluessel": "haleconnect:1051",
+  "land": "BW",
+  "bereitsteller": "Gemeinde Bondorf (über hale»connect)",
+  "herausgeber": "Gemeinde Bondorf",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 34
+ },
+ {
+  "schluessel": "haleconnect:1094",
+  "land": "BW",
+  "bereitsteller": "Rot an der Rot (über hale»connect)",
+  "herausgeber": "Rot an der Rot",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 34
+ },
+ {
+  "schluessel": "haleconnect:1144",
+  "land": "BW",
+  "bereitsteller": "Argenbühl (über hale»connect)",
+  "herausgeber": "Argenbühl",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 34
  },
  {
   "schluessel": "kommone:388",
@@ -4140,6 +5832,18 @@
   "plaene": 33
  },
  {
+  "schluessel": "haleconnect:944",
+  "land": "BW",
+  "bereitsteller": "Gemeinde Sontheim an der Brenz (über hale»connect)",
+  "herausgeber": "Gemeinde Sontheim an der Brenz",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 32
+ },
+ {
   "schluessel": "kommone:140",
   "land": "BW",
   "bereitsteller": "Gemeinde Ohmden (über Komm.ONE)",
@@ -4200,10 +5904,10 @@
   "plaene": 32
  },
  {
-  "schluessel": "kommone:161",
+  "schluessel": "haleconnect:896",
   "land": "BW",
-  "bereitsteller": "Gemeinde Illmensee (über Komm.ONE)",
-  "herausgeber": "Gemeinde Illmensee",
+  "bereitsteller": "Gemeinde Wangen (über hale»connect)",
+  "herausgeber": "Gemeinde Wangen",
   "lizenz": "keine-angabe",
   "lizenz_angegeben": "keine-angabe",
   "lizenz_url": "",
@@ -4212,10 +5916,10 @@
   "plaene": 31
  },
  {
-  "schluessel": "kommone:206",
+  "schluessel": "kommone:161",
   "land": "BW",
-  "bereitsteller": "Gemeinde Oberstadion (über Komm.ONE)",
-  "herausgeber": "Gemeinde Oberstadion",
+  "bereitsteller": "Gemeinde Illmensee (über Komm.ONE)",
+  "herausgeber": "Gemeinde Illmensee",
   "lizenz": "keine-angabe",
   "lizenz_angegeben": "keine-angabe",
   "lizenz_url": "",
@@ -4272,6 +5976,30 @@
   "plaene": 31
  },
  {
+  "schluessel": "haleconnect:1082",
+  "land": "BW",
+  "bereitsteller": "Gemeinde Mötzingen (über hale»connect)",
+  "herausgeber": "Gemeinde Mötzingen",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 30
+ },
+ {
+  "schluessel": "haleconnect:1187",
+  "land": "BW",
+  "bereitsteller": "Gemeinde Rangendingen (über hale»connect)",
+  "herausgeber": "Gemeinde Rangendingen",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 30
+ },
+ {
   "schluessel": "kommone:113",
   "land": "BW",
   "bereitsteller": "Gemeinde Stödtlen (über Komm.ONE)",
@@ -4288,6 +6016,18 @@
   "land": "BW",
   "bereitsteller": "Gemeinde Sigmaringendorf (über Komm.ONE)",
   "herausgeber": "Gemeinde Sigmaringendorf",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 30
+ },
+ {
+  "schluessel": "kommone:256",
+  "land": "BW",
+  "bereitsteller": "Gemeinde Lonsee (über Komm.ONE)",
+  "herausgeber": "Gemeinde Lonsee",
   "lizenz": "keine-angabe",
   "lizenz_angegeben": "keine-angabe",
   "lizenz_url": "",
@@ -4330,6 +6070,66 @@
   "bearbeitung_erlaubt": true,
   "einschraenkung": null,
   "plaene": 30
+ },
+ {
+  "schluessel": "haleconnect:1072",
+  "land": "BW",
+  "bereitsteller": "Gutenzell-Hürbel (über hale»connect)",
+  "herausgeber": "Gutenzell-Hürbel",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 29
+ },
+ {
+  "schluessel": "haleconnect:1183",
+  "land": "BW",
+  "bereitsteller": "Gemeinde Schlat (über hale»connect)",
+  "herausgeber": "Gemeinde Schlat",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 29
+ },
+ {
+  "schluessel": "haleconnect:1186",
+  "land": "BW",
+  "bereitsteller": "Gemeinde Ittlingen (über hale»connect)",
+  "herausgeber": "Gemeinde Ittlingen",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 29
+ },
+ {
+  "schluessel": "haleconnect:1223",
+  "land": "BW",
+  "bereitsteller": "Oberdischingen (über hale»connect)",
+  "herausgeber": "Oberdischingen",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 29
+ },
+ {
+  "schluessel": "haleconnect:1469",
+  "land": "BW",
+  "bereitsteller": "Baienfurt (über hale»connect)",
+  "herausgeber": "Baienfurt",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 29
  },
  {
   "schluessel": "kommone:173",
@@ -4378,6 +6178,54 @@
   "bearbeitung_erlaubt": true,
   "einschraenkung": null,
   "plaene": 29
+ },
+ {
+  "schluessel": "kommone:797.272d64aa",
+  "land": "BW",
+  "bereitsteller": "Gemeinde Börtlingen (über Komm.ONE)",
+  "herausgeber": "Gemeinde Börtlingen",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 29
+ },
+ {
+  "schluessel": "haleconnect:1194",
+  "land": "BW",
+  "bereitsteller": "Hohenfels (über hale»connect)",
+  "herausgeber": "Hohenfels",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 28
+ },
+ {
+  "schluessel": "haleconnect:1421",
+  "land": "BW",
+  "bereitsteller": "Stadt Aach (über hale»connect)",
+  "herausgeber": "Stadt Aach",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 28
+ },
+ {
+  "schluessel": "haleconnect:960",
+  "land": "BW",
+  "bereitsteller": "Schechingen (über hale»connect)",
+  "herausgeber": "Schechingen",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 28
  },
  {
   "schluessel": "kommone:109",
@@ -4440,6 +6288,30 @@
   "plaene": 28
  },
  {
+  "schluessel": "kommone:692",
+  "land": "BW",
+  "bereitsteller": "Stadt Langenau (über Komm.ONE)",
+  "herausgeber": "Stadt Langenau",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 28
+ },
+ {
+  "schluessel": "haleconnect:932",
+  "land": "BW",
+  "bereitsteller": "Gemeinde Wört (über hale»connect)",
+  "herausgeber": "Gemeinde Wört",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 27
+ },
+ {
   "schluessel": "kommone:371",
   "land": "BW",
   "bereitsteller": "Gemeinde Kleines Wiesental (über Komm.ONE)",
@@ -4474,6 +6346,18 @@
   "bearbeitung_erlaubt": true,
   "einschraenkung": null,
   "plaene": 27
+ },
+ {
+  "schluessel": "kommone:124",
+  "land": "BW",
+  "bereitsteller": "Gemeinde Erkenbrechtsweiler (über Komm.ONE)",
+  "herausgeber": "Gemeinde Erkenbrechtsweiler",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 26
  },
  {
   "schluessel": "kommone:277",
@@ -4668,6 +6552,30 @@
   "plaene": 25
  },
  {
+  "schluessel": "kommone:768",
+  "land": "BW",
+  "bereitsteller": "Gemeinde Jagsthausen (über Komm.ONE)",
+  "herausgeber": "Gemeinde Jagsthausen",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 25
+ },
+ {
+  "schluessel": "haleconnect:930",
+  "land": "BW",
+  "bereitsteller": "Gemeinde Täferrot (über hale»connect)",
+  "herausgeber": "Gemeinde Täferrot",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 24
+ },
+ {
   "schluessel": "kommone:144",
   "land": "BW",
   "bereitsteller": "Gemeinde Aldingen (über Komm.ONE)",
@@ -4714,6 +6622,30 @@
   "bearbeitung_erlaubt": true,
   "einschraenkung": null,
   "plaene": 24
+ },
+ {
+  "schluessel": "kommone:686",
+  "land": "BW",
+  "bereitsteller": "Gemeinde Roigheim (über Komm.ONE)",
+  "herausgeber": "Gemeinde Roigheim",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 24
+ },
+ {
+  "schluessel": "haleconnect:1318",
+  "land": "BW",
+  "bereitsteller": "Gemeinde Kirchentellinsfurt (über hale»connect)",
+  "herausgeber": "Gemeinde Kirchentellinsfurt",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 23
  },
  {
   "schluessel": "kommone:280",
@@ -4764,10 +6696,22 @@
   "plaene": 23
  },
  {
-  "schluessel": "kommone:208",
+  "schluessel": "haleconnect:778",
   "land": "BW",
-  "bereitsteller": "Gemeinde Rottenacker (über Komm.ONE)",
-  "herausgeber": "Gemeinde Rottenacker",
+  "bereitsteller": "Gemeinde Jungingen (über hale»connect)",
+  "herausgeber": "Gemeinde Jungingen",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 22
+ },
+ {
+  "schluessel": "kommone:108",
+  "land": "BW",
+  "bereitsteller": "Stadt Laichingen (über Komm.ONE)",
+  "herausgeber": "Stadt Laichingen",
   "lizenz": "keine-angabe",
   "lizenz_angegeben": "keine-angabe",
   "lizenz_url": "",
@@ -4872,18 +6816,6 @@
   "plaene": 21
  },
  {
-  "schluessel": "kommone:258",
-  "land": "BW",
-  "bereitsteller": "Gemeinde Beimerstetten (über Komm.ONE)",
-  "herausgeber": "Gemeinde Beimerstetten",
-  "lizenz": "keine-angabe",
-  "lizenz_angegeben": "keine-angabe",
-  "lizenz_url": "",
-  "bearbeitung_erlaubt": true,
-  "einschraenkung": null,
-  "plaene": 21
- },
- {
   "schluessel": "kommone:290",
   "land": "BW",
   "bereitsteller": "Gemeinde Tannheim (über Komm.ONE)",
@@ -4942,6 +6874,18 @@
   "bearbeitung_erlaubt": true,
   "einschraenkung": null,
   "plaene": 21
+ },
+ {
+  "schluessel": "haleconnect:929.c0bba779",
+  "land": "BW",
+  "bereitsteller": "Gemeinde Adelmannsfelden (über hale»connect)",
+  "herausgeber": "Gemeinde Adelmannsfelden",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 20
  },
  {
   "schluessel": "kommone:223",
@@ -5028,10 +6972,34 @@
   "plaene": 20
  },
  {
+  "schluessel": "kommone:785.70fa9e8b",
+  "land": "BW",
+  "bereitsteller": "Stadt Alpirsbach (über Komm.ONE)",
+  "herausgeber": "Stadt Alpirsbach",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 20
+ },
+ {
   "schluessel": "kommone:788",
   "land": "BW",
   "bereitsteller": "Stadt Horb am Neckar (über Komm.ONE)",
   "herausgeber": "Stadt Horb am Neckar",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 20
+ },
+ {
+  "schluessel": "kommone:814",
+  "land": "BW",
+  "bereitsteller": "Gemeinde Fluorn-Winzeln (über Komm.ONE)",
+  "herausgeber": "Gemeinde Fluorn-Winzeln",
   "lizenz": "keine-angabe",
   "lizenz_angegeben": "keine-angabe",
   "lizenz_url": "",
@@ -5080,6 +7048,18 @@
   "land": "BW",
   "bereitsteller": "Gemeinde Simonswald (über Komm.ONE)",
   "herausgeber": "Gemeinde Simonswald",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 19
+ },
+ {
+  "schluessel": "kommone:805",
+  "land": "BW",
+  "bereitsteller": "Stadt Heidelberg (über Komm.ONE)",
+  "herausgeber": "Stadt Heidelberg",
   "lizenz": "keine-angabe",
   "lizenz_angegeben": "keine-angabe",
   "lizenz_url": "",
@@ -5196,6 +7176,18 @@
   "plaene": 17
  },
  {
+  "schluessel": "kommone:467",
+  "land": "BW",
+  "bereitsteller": "Stadt Bad Rappenau (über Komm.ONE)",
+  "herausgeber": "Stadt Bad Rappenau",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 17
+ },
+ {
   "schluessel": "kommone:494",
   "land": "BW",
   "bereitsteller": "Gemeinde Neuhausen ob Eck (über Komm.ONE)",
@@ -5212,6 +7204,18 @@
   "land": "BW",
   "bereitsteller": "Gemeinde Siegelsbach (über Komm.ONE)",
   "herausgeber": "Gemeinde Siegelsbach",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 17
+ },
+ {
+  "schluessel": "kommone:543.e38e8d10",
+  "land": "BW",
+  "bereitsteller": "Stadt Kirchheim unter Teck (über Komm.ONE)",
+  "herausgeber": "Stadt Kirchheim unter Teck",
   "lizenz": "keine-angabe",
   "lizenz_angegeben": "keine-angabe",
   "lizenz_url": "",
@@ -5424,10 +7428,10 @@
   "plaene": 14
  },
  {
-  "schluessel": "kommone:203",
+  "schluessel": "haleconnect:1013",
   "land": "BW",
-  "bereitsteller": "Gemeinde Lauterach (über Komm.ONE)",
-  "herausgeber": "Gemeinde Lauterach",
+  "bereitsteller": "Gemeinde Riesbürg (über hale»connect)",
+  "herausgeber": "Gemeinde Riesbürg",
   "lizenz": "keine-angabe",
   "lizenz_angegeben": "keine-angabe",
   "lizenz_url": "",
@@ -5452,6 +7456,18 @@
   "land": "BW",
   "bereitsteller": "Gemeinde Binau (über Komm.ONE)",
   "herausgeber": "Gemeinde Binau",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 13
+ },
+ {
+  "schluessel": "kommone:520",
+  "land": "BW",
+  "bereitsteller": "Gemeinde Zuzenhausen (über Komm.ONE)",
+  "herausgeber": "Gemeinde Zuzenhausen",
   "lizenz": "keine-angabe",
   "lizenz_angegeben": "keine-angabe",
   "lizenz_url": "",
@@ -5506,6 +7522,18 @@
   "bearbeitung_erlaubt": true,
   "einschraenkung": null,
   "plaene": 13
+ },
+ {
+  "schluessel": "kommone:206",
+  "land": "BW",
+  "bereitsteller": "Gemeinde Oberstadion (über Komm.ONE)",
+  "herausgeber": "Gemeinde Oberstadion",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 12
  },
  {
   "schluessel": "kommone:395",
@@ -5604,6 +7632,18 @@
   "plaene": 11
  },
  {
+  "schluessel": "kommone:648.062a7f3d",
+  "land": "BW",
+  "bereitsteller": "Stadt Geislingen an der Steige (über Komm.ONE)",
+  "herausgeber": "Stadt Geislingen an der Steige",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 11
+ },
+ {
   "schluessel": "kommone:672",
   "land": "BW",
   "bereitsteller": "Gemeinde Reute (über Komm.ONE)",
@@ -5638,6 +7678,18 @@
   "bearbeitung_erlaubt": true,
   "einschraenkung": null,
   "plaene": 11
+ },
+ {
+  "schluessel": "kommone:149.153d9dab",
+  "land": "BW",
+  "bereitsteller": "Stadt Filderstadt (über Komm.ONE)",
+  "herausgeber": "Stadt Filderstadt",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 10
  },
  {
   "schluessel": "kommone:212",
@@ -5736,6 +7788,30 @@
   "plaene": 10
  },
  {
+  "schluessel": "haleconnect:1012",
+  "land": "BW",
+  "bereitsteller": "Gemeinde Obergröningen (über hale»connect)",
+  "herausgeber": "Gemeinde Obergröningen",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 9
+ },
+ {
+  "schluessel": "haleconnect:1354",
+  "land": "BW",
+  "bereitsteller": "Gemeinde Griesingen (über hale»connect)",
+  "herausgeber": "Gemeinde Griesingen",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 9
+ },
+ {
   "schluessel": "kommone:238",
   "land": "BW",
   "bereitsteller": "Gemeinde Bubsheim (über Komm.ONE)",
@@ -5764,6 +7840,18 @@
   "land": "BW",
   "bereitsteller": "Gemeinde Königsheim (über Komm.ONE)",
   "herausgeber": "Gemeinde Königsheim",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 9
+ },
+ {
+  "schluessel": "kommone:252.bfa54810",
+  "land": "BW",
+  "bereitsteller": "Stadt Herbrechtingen (über Komm.ONE)",
+  "herausgeber": "Stadt Herbrechtingen",
   "lizenz": "keine-angabe",
   "lizenz_angegeben": "keine-angabe",
   "lizenz_url": "",
@@ -5820,10 +7908,34 @@
   "plaene": 9
  },
  {
+  "schluessel": "kommone:633.004c7987",
+  "land": "BW",
+  "bereitsteller": "Stadt Emmendingen (über Komm.ONE)",
+  "herausgeber": "Stadt Emmendingen",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 9
+ },
+ {
   "schluessel": "kommone:640",
   "land": "BW",
   "bereitsteller": "Gemeinde Heddesbach (über Komm.ONE)",
   "herausgeber": "Gemeinde Heddesbach",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 9
+ },
+ {
+  "schluessel": "kommone:721",
+  "land": "BW",
+  "bereitsteller": "Gemeinde Hausen ob Verena (über Komm.ONE)",
+  "herausgeber": "Gemeinde Hausen ob Verena",
   "lizenz": "keine-angabe",
   "lizenz_angegeben": "keine-angabe",
   "lizenz_url": "",
@@ -5842,6 +7954,18 @@
   "bearbeitung_erlaubt": true,
   "einschraenkung": null,
   "plaene": 9
+ },
+ {
+  "schluessel": "kommone:108.519aa035",
+  "land": "BW",
+  "bereitsteller": "Stadt Laichingen (über Komm.ONE)",
+  "herausgeber": "Stadt Laichingen",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 8
  },
  {
   "schluessel": "kommone:221",
@@ -5880,6 +8004,18 @@
   "plaene": 8
  },
  {
+  "schluessel": "kommone:323",
+  "land": "BW",
+  "bereitsteller": "Stadt Bad Wimpfen (über Komm.ONE)",
+  "herausgeber": "Stadt Bad Wimpfen",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 8
+ },
+ {
   "schluessel": "kommone:336",
   "land": "BW",
   "bereitsteller": "Gemeinde Aitern (über Komm.ONE)",
@@ -5896,6 +8032,18 @@
   "land": "BW",
   "bereitsteller": "Gemeinde Utzenfeld (über Komm.ONE)",
   "herausgeber": "Gemeinde Utzenfeld",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 8
+ },
+ {
+  "schluessel": "kommone:387",
+  "land": "BW",
+  "bereitsteller": "Gemeinde Schwörstadt (über Komm.ONE)",
+  "herausgeber": "Gemeinde Schwörstadt",
   "lizenz": "keine-angabe",
   "lizenz_angegeben": "keine-angabe",
   "lizenz_url": "",
@@ -5950,6 +8098,42 @@
   "bearbeitung_erlaubt": true,
   "einschraenkung": null,
   "plaene": 8
+ },
+ {
+  "schluessel": "kommone:670",
+  "land": "BW",
+  "bereitsteller": "Stadt Dietenheim (über Komm.ONE)",
+  "herausgeber": "Stadt Dietenheim",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 8
+ },
+ {
+  "schluessel": "kommone:155",
+  "land": "BW",
+  "bereitsteller": "Gemeinde Neckarzimmern (über Komm.ONE)",
+  "herausgeber": "Gemeinde Neckarzimmern",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 7
+ },
+ {
+  "schluessel": "kommone:208",
+  "land": "BW",
+  "bereitsteller": "Gemeinde Rottenacker (über Komm.ONE)",
+  "herausgeber": "Gemeinde Rottenacker",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 7
  },
  {
   "schluessel": "kommone:225",
@@ -6012,6 +8196,18 @@
   "plaene": 7
  },
  {
+  "schluessel": "kommone:716",
+  "land": "BW",
+  "bereitsteller": "Gemeinde Balgheim (über Komm.ONE)",
+  "herausgeber": "Gemeinde Balgheim",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 7
+ },
+ {
   "schluessel": "kommone:717",
   "land": "BW",
   "bereitsteller": "Gemeinde Böttigen (über Komm.ONE)",
@@ -6048,10 +8244,10 @@
   "plaene": 6
  },
  {
-  "schluessel": "kommone:191",
+  "schluessel": "kommone:258",
   "land": "BW",
-  "bereitsteller": "Gemeinde Emerkingen (über Komm.ONE)",
-  "herausgeber": "Gemeinde Emerkingen",
+  "bereitsteller": "Gemeinde Beimerstetten (über Komm.ONE)",
+  "herausgeber": "Gemeinde Beimerstetten",
   "lizenz": "keine-angabe",
   "lizenz_angegeben": "keine-angabe",
   "lizenz_url": "",
@@ -6060,10 +8256,10 @@
   "plaene": 6
  },
  {
-  "schluessel": "kommone:193",
+  "schluessel": "kommone:270.5f113825",
   "land": "BW",
-  "bereitsteller": "Gemeinde Hausen am Bussen (über Komm.ONE)",
-  "herausgeber": "Gemeinde Hausen am Bussen",
+  "bereitsteller": "Stadt Aichtal (über Komm.ONE)",
+  "herausgeber": "Stadt Aichtal",
   "lizenz": "keine-angabe",
   "lizenz_angegeben": "keine-angabe",
   "lizenz_url": "",
@@ -6084,18 +8280,6 @@
   "plaene": 6
  },
  {
-  "schluessel": "kommone:348",
-  "land": "BW",
-  "bereitsteller": "Gemeinde Altheim bei Ehingen (über Komm.ONE)",
-  "herausgeber": "Gemeinde Altheim bei Ehingen",
-  "lizenz": "keine-angabe",
-  "lizenz_angegeben": "keine-angabe",
-  "lizenz_url": "",
-  "bearbeitung_erlaubt": true,
-  "einschraenkung": null,
-  "plaene": 6
- },
- {
   "schluessel": "kommone:493",
   "land": "BW",
   "bereitsteller": "Gemeinde Karlsdorf-Neuthard (über Komm.ONE)",
@@ -6108,22 +8292,10 @@
   "plaene": 6
  },
  {
-  "schluessel": "kommone:693",
+  "schluessel": "kommone:674.365604f3",
   "land": "BW",
-  "bereitsteller": "Gemeinde Altheim (Alb) (über Komm.ONE)",
-  "herausgeber": "Gemeinde Altheim (Alb)",
-  "lizenz": "keine-angabe",
-  "lizenz_angegeben": "keine-angabe",
-  "lizenz_url": "",
-  "bearbeitung_erlaubt": true,
-  "einschraenkung": null,
-  "plaene": 6
- },
- {
-  "schluessel": "kommone:694",
-  "land": "BW",
-  "bereitsteller": "Gemeinde Asselfingen (über Komm.ONE)",
-  "herausgeber": "Gemeinde Asselfingen",
+  "bereitsteller": "Stadt Rastatt (über Komm.ONE)",
+  "herausgeber": "Stadt Rastatt",
   "lizenz": "keine-angabe",
   "lizenz_angegeben": "keine-angabe",
   "lizenz_url": "",
@@ -6144,10 +8316,70 @@
   "plaene": 5
  },
  {
+  "schluessel": "kommone:196.c78b61fd",
+  "land": "BW",
+  "bereitsteller": "Stadt Bietigheim-Bissingen (über Komm.ONE)",
+  "herausgeber": "Stadt Bietigheim-Bissingen",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 5
+ },
+ {
+  "schluessel": "kommone:203",
+  "land": "BW",
+  "bereitsteller": "Gemeinde Lauterach (über Komm.ONE)",
+  "herausgeber": "Gemeinde Lauterach",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 5
+ },
+ {
+  "schluessel": "kommone:205.95ee10c1",
+  "land": "BW",
+  "bereitsteller": "Gemeinde Obermarchtal (über Komm.ONE)",
+  "herausgeber": "Gemeinde Obermarchtal",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 5
+ },
+ {
+  "schluessel": "kommone:227.a8063854",
+  "land": "BW",
+  "bereitsteller": "Gemeinde Hoßkirch (über Komm.ONE)",
+  "herausgeber": "Gemeinde Hoßkirch",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 5
+ },
+ {
   "schluessel": "kommone:334",
   "land": "BW",
   "bereitsteller": "Stadt Hockenheim (über Komm.ONE)",
   "herausgeber": "Stadt Hockenheim",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 5
+ },
+ {
+  "schluessel": "kommone:341",
+  "land": "BW",
+  "bereitsteller": "Gemeinde Tunau (über Komm.ONE)",
+  "herausgeber": "Gemeinde Tunau",
   "lizenz": "keine-angabe",
   "lizenz_angegeben": "keine-angabe",
   "lizenz_url": "",
@@ -6192,10 +8424,10 @@
   "plaene": 5
  },
  {
-  "schluessel": "kommone:705",
+  "schluessel": "kommone:613.3ca2db15",
   "land": "BW",
-  "bereitsteller": "Gemeinde Weidenstetten (über Komm.ONE)",
-  "herausgeber": "Gemeinde Weidenstetten",
+  "bereitsteller": "Gemeinde Kronau (über Komm.ONE)",
+  "herausgeber": "Gemeinde Kronau",
   "lizenz": "keine-angabe",
   "lizenz_angegeben": "keine-angabe",
   "lizenz_url": "",
@@ -6204,10 +8436,106 @@
   "plaene": 5
  },
  {
+  "schluessel": "kommone:692.22095e22",
+  "land": "BW",
+  "bereitsteller": "Stadt Langenau (über Komm.ONE)",
+  "herausgeber": "Stadt Langenau",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 5
+ },
+ {
+  "schluessel": "haleconnect:952.8a45b92f",
+  "land": "BW",
+  "bereitsteller": "Gemeinde Rainau (über hale»connect)",
+  "herausgeber": "Gemeinde Rainau",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 4
+ },
+ {
+  "schluessel": "kommone:206.46ef6207",
+  "land": "BW",
+  "bereitsteller": "Gemeinde Oberstadion (über Komm.ONE)",
+  "herausgeber": "Gemeinde Oberstadion",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 4
+ },
+ {
+  "schluessel": "kommone:221.e352d170",
+  "land": "BW",
+  "bereitsteller": "Gemeinde Boms (über Komm.ONE)",
+  "herausgeber": "Gemeinde Boms",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 4
+ },
+ {
   "schluessel": "kommone:224",
   "land": "BW",
   "bereitsteller": "Gemeinde Eichstegen (über Komm.ONE)",
   "herausgeber": "Gemeinde Eichstegen",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 4
+ },
+ {
+  "schluessel": "kommone:224.3e1a6e63",
+  "land": "BW",
+  "bereitsteller": "Gemeinde Eichstegen (über Komm.ONE)",
+  "herausgeber": "Gemeinde Eichstegen",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 4
+ },
+ {
+  "schluessel": "kommone:361",
+  "land": "BW",
+  "bereitsteller": "Gemeinde Hagnau am Bodensee (über Komm.ONE)",
+  "herausgeber": "Gemeinde Hagnau am Bodensee",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 4
+ },
+ {
+  "schluessel": "kommone:378.728ddcc4",
+  "land": "BW",
+  "bereitsteller": "Stadt Oberderdingen (über Komm.ONE)",
+  "herausgeber": "Stadt Oberderdingen",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 4
+ },
+ {
+  "schluessel": "kommone:451.317da3c1",
+  "land": "BW",
+  "bereitsteller": "Gemeinde Graben-Neudorf (über Komm.ONE)",
+  "herausgeber": "Gemeinde Graben-Neudorf",
   "lizenz": "keine-angabe",
   "lizenz_angegeben": "keine-angabe",
   "lizenz_url": "",
@@ -6228,6 +8556,30 @@
   "plaene": 4
  },
  {
+  "schluessel": "kommone:593.a789f815",
+  "land": "BW",
+  "bereitsteller": "Gemeinde Plankstadt (über Komm.ONE)",
+  "herausgeber": "Gemeinde Plankstadt",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 4
+ },
+ {
+  "schluessel": "kommone:762.4dc44eba",
+  "land": "BW",
+  "bereitsteller": "Stadt Kandern (über Komm.ONE)",
+  "herausgeber": "Stadt Kandern",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 4
+ },
+ {
   "schluessel": "kommone:776",
   "land": "BW",
   "bereitsteller": "Gemeinde Talheim (Tuttlingen) (über Komm.ONE)",
@@ -6238,6 +8590,66 @@
   "bearbeitung_erlaubt": true,
   "einschraenkung": null,
   "plaene": 4
+ },
+ {
+  "schluessel": "haleconnect:1038.b121bbce",
+  "land": "BW",
+  "bereitsteller": "Gemeinde Durlangen (über hale»connect)",
+  "herausgeber": "Gemeinde Durlangen",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 3
+ },
+ {
+  "schluessel": "kommone:204.178eda3f",
+  "land": "BW",
+  "bereitsteller": "Stadt Munderkingen (über Komm.ONE)",
+  "herausgeber": "Stadt Munderkingen",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 3
+ },
+ {
+  "schluessel": "kommone:209",
+  "land": "BW",
+  "bereitsteller": "Gemeinde Untermarchtal (über Komm.ONE)",
+  "herausgeber": "Gemeinde Untermarchtal",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 3
+ },
+ {
+  "schluessel": "kommone:220.beed31c4",
+  "land": "BW",
+  "bereitsteller": "Gemeinde Altshausen (über Komm.ONE)",
+  "herausgeber": "Gemeinde Altshausen",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 3
+ },
+ {
+  "schluessel": "kommone:227",
+  "land": "BW",
+  "bereitsteller": "Gemeinde Hoßkirch (über Komm.ONE)",
+  "herausgeber": "Gemeinde Hoßkirch",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 3
  },
  {
   "schluessel": "kommone:239",
@@ -6276,6 +8688,90 @@
   "plaene": 3
  },
  {
+  "schluessel": "kommone:375.6be27b31",
+  "land": "BW",
+  "bereitsteller": "Gemeinde Bad Bellingen (über Komm.ONE)",
+  "herausgeber": "Gemeinde Bad Bellingen",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 3
+ },
+ {
+  "schluessel": "kommone:415",
+  "land": "BW",
+  "bereitsteller": "Gemeinde Kirchzarten (über Komm.ONE)",
+  "herausgeber": "Gemeinde Kirchzarten",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 3
+ },
+ {
+  "schluessel": "kommone:446.69ebbede",
+  "land": "BW",
+  "bereitsteller": "Stadt Rauenberg (über Komm.ONE)",
+  "herausgeber": "Stadt Rauenberg",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 3
+ },
+ {
+  "schluessel": "kommone:447.862d6e08",
+  "land": "BW",
+  "bereitsteller": "Gemeinde Mühlhausen im Kraichgau (über Komm.ONE)",
+  "herausgeber": "Gemeinde Mühlhausen im Kraichgau",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 3
+ },
+ {
+  "schluessel": "kommone:457.7d5478b9",
+  "land": "BW",
+  "bereitsteller": "Gemeinde Nußloch (über Komm.ONE)",
+  "herausgeber": "Gemeinde Nußloch",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 3
+ },
+ {
+  "schluessel": "kommone:489",
+  "land": "BW",
+  "bereitsteller": "Gemeinde Buggingen (über Komm.ONE)",
+  "herausgeber": "Gemeinde Buggingen",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 3
+ },
+ {
+  "schluessel": "kommone:526.123a8e57",
+  "land": "BW",
+  "bereitsteller": "Stadt Eppingen (über Komm.ONE)",
+  "herausgeber": "Stadt Eppingen",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 3
+ },
+ {
   "schluessel": "kommone:6",
   "land": "BW",
   "bereitsteller": "Landratsamt Hohenlohekreis (über Komm.ONE)",
@@ -6292,6 +8788,18 @@
   "land": "BW",
   "bereitsteller": "Stadt Rastatt (über Komm.ONE)",
   "herausgeber": "Stadt Rastatt",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 3
+ },
+ {
+  "schluessel": "kommone:693",
+  "land": "BW",
+  "bereitsteller": "Gemeinde Altheim (Alb) (über Komm.ONE)",
+  "herausgeber": "Gemeinde Altheim (Alb)",
   "lizenz": "keine-angabe",
   "lizenz_angegeben": "keine-angabe",
   "lizenz_url": "",
@@ -6348,10 +8856,154 @@
   "plaene": 3
  },
  {
+  "schluessel": "haleconnect:1355",
+  "land": "BW",
+  "bereitsteller": "Gemeinde Öpfingen (über hale»connect)",
+  "herausgeber": "Gemeinde Öpfingen",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 2
+ },
+ {
+  "schluessel": "kommone:104.e6ac5c2d",
+  "land": "BW",
+  "bereitsteller": "Gemeinde Großbettlingen (über Komm.ONE)",
+  "herausgeber": "Gemeinde Großbettlingen",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 2
+ },
+ {
+  "schluessel": "kommone:118.b989a70f",
+  "land": "BW",
+  "bereitsteller": "Stadt Owen (über Komm.ONE)",
+  "herausgeber": "Stadt Owen",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 2
+ },
+ {
+  "schluessel": "kommone:171.0f08b434",
+  "land": "BW",
+  "bereitsteller": "Gemeinde Bempflingen (über Komm.ONE)",
+  "herausgeber": "Gemeinde Bempflingen",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 2
+ },
+ {
+  "schluessel": "kommone:191",
+  "land": "BW",
+  "bereitsteller": "Gemeinde Emerkingen (über Komm.ONE)",
+  "herausgeber": "Gemeinde Emerkingen",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 2
+ },
+ {
   "schluessel": "kommone:192",
   "land": "BW",
   "bereitsteller": "Stadt Wendlingen am Neckar (über Komm.ONE)",
   "herausgeber": "Stadt Wendlingen am Neckar",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 2
+ },
+ {
+  "schluessel": "kommone:193",
+  "land": "BW",
+  "bereitsteller": "Gemeinde Hausen am Bussen (über Komm.ONE)",
+  "herausgeber": "Gemeinde Hausen am Bussen",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 2
+ },
+ {
+  "schluessel": "kommone:222.215d0a86",
+  "land": "BW",
+  "bereitsteller": "Gemeinde Ebenweiler (über Komm.ONE)",
+  "herausgeber": "Gemeinde Ebenweiler",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 2
+ },
+ {
+  "schluessel": "kommone:230",
+  "land": "BW",
+  "bereitsteller": "Gemeinde Königseggwald (über Komm.ONE)",
+  "herausgeber": "Gemeinde Königseggwald",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 2
+ },
+ {
+  "schluessel": "kommone:274.412675d6",
+  "land": "BW",
+  "bereitsteller": "Gemeinde Holzmaden (über Komm.ONE)",
+  "herausgeber": "Gemeinde Holzmaden",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 2
+ },
+ {
+  "schluessel": "kommone:377.305c41c0",
+  "land": "BW",
+  "bereitsteller": "Gemeinde Grenzach-Wyhlen (über Komm.ONE)",
+  "herausgeber": "Gemeinde Grenzach-Wyhlen",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 2
+ },
+ {
+  "schluessel": "kommone:420",
+  "land": "BW",
+  "bereitsteller": "Gemeinde Ebringen (über Komm.ONE)",
+  "herausgeber": "Gemeinde Ebringen",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 2
+ },
+ {
+  "schluessel": "kommone:481.408c4008",
+  "land": "BW",
+  "bereitsteller": "Gemeinde Pfinztal (über Komm.ONE)",
+  "herausgeber": "Gemeinde Pfinztal",
   "lizenz": "keine-angabe",
   "lizenz_angegeben": "keine-angabe",
   "lizenz_url": "",
@@ -6372,10 +9024,10 @@
   "plaene": 2
  },
  {
-  "schluessel": "kommone:700",
+  "schluessel": "kommone:576.cfe4b281",
   "land": "BW",
-  "bereitsteller": "Gemeinde Neenstetten (über Komm.ONE)",
-  "herausgeber": "Gemeinde Neenstetten",
+  "bereitsteller": "Gemeinde Linkenheim-Hochstetten (über Komm.ONE)",
+  "herausgeber": "Gemeinde Linkenheim-Hochstetten",
   "lizenz": "keine-angabe",
   "lizenz_angegeben": "keine-angabe",
   "lizenz_url": "",
@@ -6384,10 +9036,82 @@
   "plaene": 2
  },
  {
-  "schluessel": "kommone:703",
+  "schluessel": "kommone:592.53735617",
   "land": "BW",
-  "bereitsteller": "Gemeinde Rammingen (über Komm.ONE)",
-  "herausgeber": "Gemeinde Rammingen",
+  "bereitsteller": "Gemeinde Steinen (über Komm.ONE)",
+  "herausgeber": "Gemeinde Steinen",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 2
+ },
+ {
+  "schluessel": "kommone:608",
+  "land": "BW",
+  "bereitsteller": "Gemeinde Bahlingen am Kaiserstuhl (über Komm.ONE)",
+  "herausgeber": "Gemeinde Bahlingen am Kaiserstuhl",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 2
+ },
+ {
+  "schluessel": "kommone:68.5f21fcf9",
+  "land": "BW",
+  "bereitsteller": "Gemeinde Langenargen (über Komm.ONE)",
+  "herausgeber": "Gemeinde Langenargen",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 2
+ },
+ {
+  "schluessel": "kommone:694",
+  "land": "BW",
+  "bereitsteller": "Gemeinde Asselfingen (über Komm.ONE)",
+  "herausgeber": "Gemeinde Asselfingen",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 2
+ },
+ {
+  "schluessel": "kommone:696.a8365b3f",
+  "land": "BW",
+  "bereitsteller": "Gemeinde Bernstadt (über Komm.ONE)",
+  "herausgeber": "Gemeinde Bernstadt",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 2
+ },
+ {
+  "schluessel": "kommone:763.4b1f9a52",
+  "land": "BW",
+  "bereitsteller": "Stadt Wernau (Neckar) (über Komm.ONE)",
+  "herausgeber": "Stadt Wernau (Neckar)",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 2
+ },
+ {
+  "schluessel": "kommone:774",
+  "land": "BW",
+  "bereitsteller": "Gemeinde Durchhausen (über Komm.ONE)",
+  "herausgeber": "Gemeinde Durchhausen",
   "lizenz": "keine-angabe",
   "lizenz_angegeben": "keine-angabe",
   "lizenz_url": "",
@@ -6406,6 +9130,78 @@
   "bearbeitung_erlaubt": true,
   "einschraenkung": null,
   "plaene": 2
+ },
+ {
+  "schluessel": "kommone:98.30eceffa",
+  "land": "BW",
+  "bereitsteller": "Gemeinde Bissingen an der Teck (über Komm.ONE)",
+  "herausgeber": "Gemeinde Bissingen an der Teck",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 2
+ },
+ {
+  "schluessel": "haleconnect:1042.97c15fbb",
+  "land": "BW",
+  "bereitsteller": "Gemeinde Bartholomä (über hale»connect)",
+  "herausgeber": "Gemeinde Bartholomä",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 1
+ },
+ {
+  "schluessel": "haleconnect:1065.046fc69d",
+  "land": "BW",
+  "bereitsteller": "Gemeinde Göggingen (über hale»connect)",
+  "herausgeber": "Gemeinde Göggingen",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 1
+ },
+ {
+  "schluessel": "haleconnect:929.8cf6fe14",
+  "land": "BW",
+  "bereitsteller": "Gemeinde Adelmannsfelden (über hale»connect)",
+  "herausgeber": "Gemeinde Adelmannsfelden",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 1
+ },
+ {
+  "schluessel": "kommone:115.056e25fd",
+  "land": "BW",
+  "bereitsteller": "Gemeinde Unterensingen (über Komm.ONE)",
+  "herausgeber": "Gemeinde Unterensingen",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 1
+ },
+ {
+  "schluessel": "kommone:141.b8f0466e",
+  "land": "BW",
+  "bereitsteller": "Stadt Uhingen (über Komm.ONE)",
+  "herausgeber": "Stadt Uhingen",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 1
  },
  {
   "schluessel": "kommone:180",
@@ -6432,6 +9228,18 @@
   "plaene": 1
  },
  {
+  "schluessel": "kommone:207",
+  "land": "BW",
+  "bereitsteller": "Gemeinde Rechtenstein (über Komm.ONE)",
+  "herausgeber": "Gemeinde Rechtenstein",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 1
+ },
+ {
   "schluessel": "kommone:210",
   "land": "BW",
   "bereitsteller": "Gemeinde Emeringen (über Komm.ONE)",
@@ -6444,10 +9252,94 @@
   "plaene": 1
  },
  {
+  "schluessel": "kommone:225.7d5e627e",
+  "land": "BW",
+  "bereitsteller": "Gemeinde Fleischwangen (über Komm.ONE)",
+  "herausgeber": "Gemeinde Fleischwangen",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 1
+ },
+ {
+  "schluessel": "kommone:230.c8699550",
+  "land": "BW",
+  "bereitsteller": "Gemeinde Königseggwald (über Komm.ONE)",
+  "herausgeber": "Gemeinde Königseggwald",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 1
+ },
+ {
+  "schluessel": "kommone:231.1701c02e",
+  "land": "BW",
+  "bereitsteller": "Gemeinde Riedhausen (über Komm.ONE)",
+  "herausgeber": "Gemeinde Riedhausen",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 1
+ },
+ {
   "schluessel": "kommone:232",
   "land": "BW",
   "bereitsteller": "Gemeinde Unterwaldhausen (über Komm.ONE)",
   "herausgeber": "Gemeinde Unterwaldhausen",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 1
+ },
+ {
+  "schluessel": "kommone:258.4985db34",
+  "land": "BW",
+  "bereitsteller": "Gemeinde Beimerstetten (über Komm.ONE)",
+  "herausgeber": "Gemeinde Beimerstetten",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 1
+ },
+ {
+  "schluessel": "kommone:268.43d5ce84",
+  "land": "BW",
+  "bereitsteller": "Gemeinde Malsburg-Marzell (über Komm.ONE)",
+  "herausgeber": "Gemeinde Malsburg-Marzell",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 1
+ },
+ {
+  "schluessel": "kommone:273.509963d8",
+  "land": "BW",
+  "bereitsteller": "Gemeinde Aichhalden (über Komm.ONE)",
+  "herausgeber": "Gemeinde Aichhalden",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 1
+ },
+ {
+  "schluessel": "kommone:300.a17482ff",
+  "land": "BW",
+  "bereitsteller": "Gemeinde Neckartenzlingen (über Komm.ONE)",
+  "herausgeber": "Gemeinde Neckartenzlingen",
   "lizenz": "keine-angabe",
   "lizenz_angegeben": "keine-angabe",
   "lizenz_url": "",
@@ -6472,6 +9364,54 @@
   "land": "BW",
   "bereitsteller": "Gemeinde Ertingen (über Komm.ONE)",
   "herausgeber": "Gemeinde Ertingen",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 1
+ },
+ {
+  "schluessel": "kommone:304.2064aff6",
+  "land": "BW",
+  "bereitsteller": "Gemeinde Kohlberg (über Komm.ONE)",
+  "herausgeber": "Gemeinde Kohlberg",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 1
+ },
+ {
+  "schluessel": "kommone:335.de0c1a32",
+  "land": "BW",
+  "bereitsteller": "Gemeinde Efringen-Kirchen (über Komm.ONE)",
+  "herausgeber": "Gemeinde Efringen-Kirchen",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 1
+ },
+ {
+  "schluessel": "kommone:372.affe379a",
+  "land": "BW",
+  "bereitsteller": "Gemeinde Maulburg (über Komm.ONE)",
+  "herausgeber": "Gemeinde Maulburg",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 1
+ },
+ {
+  "schluessel": "kommone:381.77032d81",
+  "land": "BW",
+  "bereitsteller": "Gemeinde Schenkenzell (über Komm.ONE)",
+  "herausgeber": "Gemeinde Schenkenzell",
   "lizenz": "keine-angabe",
   "lizenz_angegeben": "keine-angabe",
   "lizenz_url": "",
@@ -6516,10 +9456,58 @@
   "plaene": 1
  },
  {
+  "schluessel": "kommone:463.dc8ea681",
+  "land": "BW",
+  "bereitsteller": "Stadt Neuffen (über Komm.ONE)",
+  "herausgeber": "Stadt Neuffen",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 1
+ },
+ {
+  "schluessel": "kommone:540.25e7c0a9",
+  "land": "BW",
+  "bereitsteller": "Gemeinde Waldachtal (über Komm.ONE)",
+  "herausgeber": "Gemeinde Waldachtal",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 1
+ },
+ {
   "schluessel": "kommone:617",
   "land": "BW",
   "bereitsteller": "Gemeinde Malsch (über Komm.ONE)",
   "herausgeber": "Gemeinde Malsch",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 1
+ },
+ {
+  "schluessel": "kommone:631.30b6e32c",
+  "land": "BW",
+  "bereitsteller": "Gemeinde Schliengen (über Komm.ONE)",
+  "herausgeber": "Gemeinde Schliengen",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 1
+ },
+ {
+  "schluessel": "kommone:688.1f52cb87",
+  "land": "BW",
+  "bereitsteller": "Gemeinde Binzen (über Komm.ONE)",
+  "herausgeber": "Gemeinde Binzen",
   "lizenz": "keine-angabe",
   "lizenz_angegeben": "keine-angabe",
   "lizenz_url": "",
@@ -6540,10 +9528,10 @@
   "plaene": 1
  },
  {
-  "schluessel": "kommone:696",
+  "schluessel": "kommone:697.ce5b4b55",
   "land": "BW",
-  "bereitsteller": "Gemeinde Bernstadt (über Komm.ONE)",
-  "herausgeber": "Gemeinde Bernstadt",
+  "bereitsteller": "Gemeinde Börslingen (über Komm.ONE)",
+  "herausgeber": "Gemeinde Börslingen",
   "lizenz": "keine-angabe",
   "lizenz_angegeben": "keine-angabe",
   "lizenz_url": "",
@@ -6552,10 +9540,82 @@
   "plaene": 1
  },
  {
-  "schluessel": "kommone:704",
+  "schluessel": "kommone:698",
   "land": "BW",
-  "bereitsteller": "Gemeinde Setzingen (über Komm.ONE)",
-  "herausgeber": "Gemeinde Setzingen",
+  "bereitsteller": "Gemeinde Breitingen (über Komm.ONE)",
+  "herausgeber": "Gemeinde Breitingen",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 1
+ },
+ {
+  "schluessel": "kommone:701",
+  "land": "BW",
+  "bereitsteller": "Gemeinde Nerenstetten (über Komm.ONE)",
+  "herausgeber": "Gemeinde Nerenstetten",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 1
+ },
+ {
+  "schluessel": "kommone:705",
+  "land": "BW",
+  "bereitsteller": "Gemeinde Weidenstetten (über Komm.ONE)",
+  "herausgeber": "Gemeinde Weidenstetten",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 1
+ },
+ {
+  "schluessel": "kommone:705.b8a187b0",
+  "land": "BW",
+  "bereitsteller": "Gemeinde Weidenstetten (über Komm.ONE)",
+  "herausgeber": "Gemeinde Weidenstetten",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 1
+ },
+ {
+  "schluessel": "kommone:735.7555e96a",
+  "land": "BW",
+  "bereitsteller": "Stadt Dornstetten (über Komm.ONE)",
+  "herausgeber": "Stadt Dornstetten",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 1
+ },
+ {
+  "schluessel": "kommone:785",
+  "land": "BW",
+  "bereitsteller": "Stadt Alpirsbach (über Komm.ONE)",
+  "herausgeber": "Stadt Alpirsbach",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 1
+ },
+ {
+  "schluessel": "kommone:798.7bc73151",
+  "land": "BW",
+  "bereitsteller": "Gemeinde Salach (über Komm.ONE)",
+  "herausgeber": "Gemeinde Salach",
   "lizenz": "keine-angabe",
   "lizenz_angegeben": "keine-angabe",
   "lizenz_url": "",
@@ -6585,7 +9645,7 @@
   "lizenz_url": "https://creativecommons.org/licenses/by-nd/4.0/deed.de",
   "bearbeitung_erlaubt": false,
   "einschraenkung": null,
-  "plaene": 19015
+  "plaene": 19034
  },
  {
   "schluessel": "land:BY_RIWA_TRAUNSTEIN_LK",
@@ -6609,7 +9669,7 @@
   "lizenz_url": "",
   "bearbeitung_erlaubt": true,
   "einschraenkung": null,
-  "plaene": 4906
+  "plaene": 4908
  },
  {
   "schluessel": "land:BY_RIWA_MUENCHEN_LK",
@@ -6681,7 +9741,7 @@
   "lizenz_url": "",
   "bearbeitung_erlaubt": true,
   "einschraenkung": null,
-  "plaene": 2195
+  "plaene": 2196
  },
  {
   "schluessel": "land:BY_RIWA_MUEHLDORF_LK",
@@ -6693,7 +9753,7 @@
   "lizenz_url": "",
   "bearbeitung_erlaubt": true,
   "einschraenkung": null,
-  "plaene": 2154
+  "plaene": 2155
  },
  {
   "schluessel": "adapter:muenchen",
@@ -6861,7 +9921,7 @@
   "lizenz_url": "",
   "bearbeitung_erlaubt": true,
   "einschraenkung": null,
-  "plaene": 1059
+  "plaene": 1064
  },
  {
   "schluessel": "land:BY_RIWA_WUNSIEDEL_LK",
@@ -7092,6 +10152,42 @@
   "plaene": 196
  },
  {
+  "schluessel": "adapter:roth",
+  "land": "BY",
+  "bereitsteller": "Stadt Roth",
+  "herausgeber": "Stadt Roth",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 188
+ },
+ {
+  "schluessel": "stadt:MEMMINGEN",
+  "land": "BY",
+  "bereitsteller": "Stadt Memmingen (CC BY 4.0)",
+  "herausgeber": "Stadt Memmingen, Amt 51 (GIS)",
+  "lizenz": "cc-by-4.0",
+  "lizenz_angegeben": "cc-by-4.0",
+  "lizenz_url": "https://creativecommons.org/licenses/by/4.0/deed.de",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 170
+ },
+ {
+  "schluessel": "land:BY_RIWA_WALDKRAIBURG_GD",
+  "land": "BY",
+  "bereitsteller": "Stadt Waldkraiburg (über RIWA GIS)",
+  "herausgeber": "Stadt Waldkraiburg",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 148
+ },
+ {
   "schluessel": "reg:121",
   "land": "BY",
   "bereitsteller": "Amberg",
@@ -7233,7 +10329,7 @@
   "lizenz_url": "https://creativecommons.org/licenses/by-nd/4.0/deed.de",
   "bearbeitung_erlaubt": false,
   "einschraenkung": null,
-  "plaene": 7
+  "plaene": 6
  },
  {
   "schluessel": "stadt:ASCHAFFENBURG",
@@ -7296,6 +10392,18 @@
   "plaene": 2191
  },
  {
+  "schluessel": "land:HE_WETTERAU",
+  "land": "HE",
+  "bereitsteller": "Der Kreisausschuss des Wetteraukreises (dl-de/by-2-0)",
+  "herausgeber": "Wetteraukreis",
+  "lizenz": "dl-de/by-2-0",
+  "lizenz_angegeben": "dl-de/by-2-0",
+  "lizenz_url": "https://www.govdata.de/dl-de/by-2-0",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 2177
+ },
+ {
   "schluessel": "land:HE_GDI_LIMBURG_WEILBURG",
   "land": "HE",
   "bereitsteller": "Der Kreisausschuss des Landkreises Limburg-Weilburg (dl-de/by-2-0)",
@@ -7329,7 +10437,7 @@
   "lizenz_url": "https://www.govdata.de/dl-de/by-2-0",
   "bearbeitung_erlaubt": true,
   "einschraenkung": null,
-  "plaene": 1296
+  "plaene": 1299
  },
  {
   "schluessel": "stadt:FRANKFURT",
@@ -7342,18 +10450,6 @@
   "bearbeitung_erlaubt": true,
   "einschraenkung": null,
   "plaene": 1206
- },
- {
-  "schluessel": "land:HE_GDI_WETTERAU",
-  "land": "HE",
-  "bereitsteller": "Der Kreisausschuss des Wetteraukreises (dl-de/by-2-0)",
-  "herausgeber": "Wetteraukreis",
-  "lizenz": "dl-de/by-2-0",
-  "lizenz_angegeben": "dl-de/by-2-0",
-  "lizenz_url": "https://www.govdata.de/dl-de/by-2-0",
-  "bearbeitung_erlaubt": true,
-  "einschraenkung": null,
-  "plaene": 1169
  },
  {
   "schluessel": "land:HE_GDI_HOCHTAUNUS",
@@ -7450,6 +10546,30 @@
   "bearbeitung_erlaubt": true,
   "einschraenkung": "nicht_kommerziell",
   "plaene": 199
+ },
+ {
+  "schluessel": "stadt:GIESSEN",
+  "land": "HE",
+  "bereitsteller": "Universitätsstadt Gießen, Vermessungsamt",
+  "herausgeber": "Universitätsstadt Gießen, Vermessungsamt",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 197
+ },
+ {
+  "schluessel": "stadt:RODGAU",
+  "land": "HE",
+  "bereitsteller": "Stadt Rodgau (dl-de/by-2-0)",
+  "herausgeber": "Stadt Rodgau",
+  "lizenz": "dl-de/by-2-0",
+  "lizenz_angegeben": "dl-de/by-2-0",
+  "lizenz_url": "https://www.govdata.de/dl-de/by-2-0",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 189
  },
  {
   "schluessel": "land:HE_MARBURG_BIEDENKOPF_06534011",
@@ -8352,6 +11472,18 @@
   "plaene": 60
  },
  {
+  "schluessel": "land:HE_GROSS_GERAU_VEP",
+  "land": "HE",
+  "bereitsteller": "Der Kreisausschuss des Kreises Groß-Gerau (dl-de/by-2-0)",
+  "herausgeber": "Kreis Groß-Gerau",
+  "lizenz": "dl-de/by-2-0",
+  "lizenz_angegeben": "dl-de/by-2-0",
+  "lizenz_url": "https://www.govdata.de/dl-de/by-2-0",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 56
+ },
+ {
   "schluessel": "land:HE_NORDHESSEN_VHL",
   "land": "HE",
   "bereitsteller": "Vöhl (GDI-Nordhessen)",
@@ -9165,7 +12297,7 @@
   "lizenz_url": "",
   "bearbeitung_erlaubt": true,
   "einschraenkung": null,
-  "plaene": 9299
+  "plaene": 9305
  },
  {
   "schluessel": "land:NI_RIWA_VIANOVIS",
@@ -9201,7 +12333,7 @@
   "lizenz_url": "",
   "bearbeitung_erlaubt": true,
   "einschraenkung": null,
-  "plaene": 2187
+  "plaene": 2188
  },
  {
   "schluessel": "land:NI_DIEPHOLZ",
@@ -9237,7 +12369,7 @@
   "lizenz_url": "https://www.govdata.de/dl-de/by-2-0",
   "bearbeitung_erlaubt": true,
   "einschraenkung": null,
-  "plaene": 1955
+  "plaene": 1954
  },
  {
   "schluessel": "land:NI_AURICH",
@@ -9516,6 +12648,18 @@
   "plaene": 399
  },
  {
+  "schluessel": "adapter:nolis_stade",
+  "land": "NI",
+  "bereitsteller": "Hansestadt Stade",
+  "herausgeber": "Hansestadt Stade",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 376
+ },
+ {
   "schluessel": "land:NI_CUXHAVEN",
   "land": "NI",
   "bereitsteller": "Stadt Cuxhaven",
@@ -9550,6 +12694,18 @@
   "bearbeitung_erlaubt": true,
   "einschraenkung": "genehmigung",
   "plaene": 351
+ },
+ {
+  "schluessel": "adapter:nolis_schaumburg",
+  "land": "NI",
+  "bereitsteller": "Landkreis Schaumburg (SG Niedernwöhren, SG Sachsenhagen, Stadt Obernkirchen)",
+  "herausgeber": "Landkreis Schaumburg (SG Niedernwöhren, SG Sachsenhagen, Stadt Obernkirchen)",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 349
  },
  {
   "schluessel": "reg:13",
@@ -9600,6 +12756,18 @@
   "plaene": 325
  },
  {
+  "schluessel": "stadt:EMDEN",
+  "land": "NI",
+  "bereitsteller": "Stadt Emden",
+  "herausgeber": "Stadt Emden",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 322
+ },
+ {
   "schluessel": "stadt:PAPENBURG_AENDERUNGEN",
   "land": "NI",
   "bereitsteller": "Stadt Papenburg",
@@ -9648,6 +12816,18 @@
   "plaene": 310
  },
  {
+  "schluessel": "adapter:nolis_barsinghausen",
+  "land": "NI",
+  "bereitsteller": "Stadt Barsinghausen",
+  "herausgeber": "Stadt Barsinghausen",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 308
+ },
+ {
   "schluessel": "land:NI_SEELZE",
   "land": "NI",
   "bereitsteller": "Stadt Seelze",
@@ -9672,6 +12852,30 @@
   "plaene": 296
  },
  {
+  "schluessel": "land:NI_LEHRTE",
+  "land": "NI",
+  "bereitsteller": "Stadt Lehrte",
+  "herausgeber": "Stadt Lehrte",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 293
+ },
+ {
+  "schluessel": "adapter:nolis_gehrden",
+  "land": "NI",
+  "bereitsteller": "Stadt Gehrden",
+  "herausgeber": "Stadt Gehrden",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 290
+ },
+ {
   "schluessel": "stadt:GIFHORN",
   "land": "NI",
   "bereitsteller": "Stadt Gifhorn",
@@ -9682,18 +12886,6 @@
   "bearbeitung_erlaubt": true,
   "einschraenkung": null,
   "plaene": 286
- },
- {
-  "schluessel": "land:NI_LEHRTE",
-  "land": "NI",
-  "bereitsteller": "Stadt Lehrte",
-  "herausgeber": "Stadt Lehrte",
-  "lizenz": "keine-angabe",
-  "lizenz_angegeben": "keine-angabe",
-  "lizenz_url": "",
-  "bearbeitung_erlaubt": true,
-  "einschraenkung": null,
-  "plaene": 277
  },
  {
   "schluessel": "govconnect:org.141.632d609b",
@@ -9708,6 +12900,18 @@
   "plaene": 276
  },
  {
+  "schluessel": "adapter:nolis_sehnde",
+  "land": "NI",
+  "bereitsteller": "Stadt Sehnde",
+  "herausgeber": "Stadt Sehnde",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 263
+ },
+ {
   "schluessel": "land:NI_GANDERKESEE",
   "land": "NI",
   "bereitsteller": "Gemeinde Ganderkesee",
@@ -9718,6 +12922,18 @@
   "bearbeitung_erlaubt": true,
   "einschraenkung": null,
   "plaene": 257
+ },
+ {
+  "schluessel": "adapter:nolis_wunstorf",
+  "land": "NI",
+  "bereitsteller": "Stadt Wunstorf",
+  "herausgeber": "Stadt Wunstorf",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 255
  },
  {
   "schluessel": "govconnect:org.45.ccdc84de",
@@ -9754,6 +12970,18 @@
   "bearbeitung_erlaubt": true,
   "einschraenkung": null,
   "plaene": 208
+ },
+ {
+  "schluessel": "adapter:nolis_springe",
+  "land": "NI",
+  "bereitsteller": "Stadt Springe",
+  "herausgeber": "Stadt Springe",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 200
  },
  {
   "schluessel": "land:NI_WENNIGSEN",
@@ -9828,6 +13056,18 @@
   "plaene": 182
  },
  {
+  "schluessel": "adapter:nolis_burgdorf",
+  "land": "NI",
+  "bereitsteller": "Stadt Burgdorf",
+  "herausgeber": "Stadt Burgdorf",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 180
+ },
+ {
   "schluessel": "land:NI_WATHLINGEN",
   "land": "NI",
   "bereitsteller": "Samtgemeinde Wathlingen",
@@ -9862,6 +13102,30 @@
   "bearbeitung_erlaubt": true,
   "einschraenkung": "nicht_kommerziell",
   "plaene": 170
+ },
+ {
+  "schluessel": "adapter:nolis_wedemark",
+  "land": "NI",
+  "bereitsteller": "Gemeinde Wedemark",
+  "herausgeber": "Gemeinde Wedemark",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 168
+ },
+ {
+  "schluessel": "adapter:nolis_ronnenberg",
+  "land": "NI",
+  "bereitsteller": "Stadt Ronnenberg",
+  "herausgeber": "Stadt Ronnenberg",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 165
  },
  {
   "schluessel": "land:NI_MUNSTER",
@@ -9924,6 +13188,18 @@
   "plaene": 150
  },
  {
+  "schluessel": "adapter:nolis_bergen",
+  "land": "NI",
+  "bereitsteller": "Stadt Bergen",
+  "herausgeber": "Stadt Bergen",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 147
+ },
+ {
   "schluessel": "land:NI_TWIST",
   "land": "NI",
   "bereitsteller": "Gemeinde Twist",
@@ -9970,6 +13246,18 @@
   "bearbeitung_erlaubt": true,
   "einschraenkung": null,
   "plaene": 129
+ },
+ {
+  "schluessel": "adapter:nolis_achim",
+  "land": "NI",
+  "bereitsteller": "Stadt Achim",
+  "herausgeber": "Stadt Achim",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 128
  },
  {
   "schluessel": "govconnect:org.142.70944daa",
@@ -10209,7 +13497,7 @@
   "lizenz_url": "https://www.govdata.de/dl-de/by-2-0",
   "bearbeitung_erlaubt": true,
   "einschraenkung": null,
-  "plaene": 63231
+  "plaene": 62573
  },
  {
   "schluessel": "land:NW_SATZUNGEN",
@@ -10236,6 +13524,18 @@
   "plaene": 1986
  },
  {
+  "schluessel": "land:NW_LIPPE",
+  "land": "NW",
+  "bereitsteller": "Kreis Lippe",
+  "herausgeber": "Kreis Lippe",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 1866
+ },
+ {
   "schluessel": "stadt:BONN",
   "land": "NW",
   "bereitsteller": "Bundesstadt Bonn",
@@ -10258,6 +13558,42 @@
   "bearbeitung_erlaubt": true,
   "einschraenkung": "lizenz_unklar",
   "plaene": 932
+ },
+ {
+  "schluessel": "stadt:GUETERSLOH_BESTAND",
+  "land": "NW",
+  "bereitsteller": "Stadt Gütersloh (dl-de/by-2-0)",
+  "herausgeber": "Stadt Gütersloh",
+  "lizenz": "dl-de/by-2-0",
+  "lizenz_angegeben": "dl-de/by-2-0",
+  "lizenz_url": "https://www.govdata.de/dl-de/by-2-0",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 889
+ },
+ {
+  "schluessel": "land:NW_RHEIN_BERG",
+  "land": "NW",
+  "bereitsteller": "© GIS Rheinisch-Bergischer Kreis",
+  "herausgeber": "Rheinisch-Bergischer Kreis",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 884
+ },
+ {
+  "schluessel": "land:NW_STEINFURT",
+  "land": "NW",
+  "bereitsteller": "Kreis Steinfurt (dl-de/by-2-0)",
+  "herausgeber": "Kreis Steinfurt",
+  "lizenz": "dl-de/by-2-0",
+  "lizenz_angegeben": "dl-de/by-2-0",
+  "lizenz_url": "https://www.govdata.de/dl-de/by-2-0",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 779
  },
  {
   "schluessel": "stadt:WUPPERTAL",
@@ -10284,6 +13620,18 @@
   "plaene": 603
  },
  {
+  "schluessel": "land:NW_BORKEN",
+  "land": "NW",
+  "bereitsteller": "© Kreis Borken, Fachbereich Geoinformation und Liegenschaftskataster",
+  "herausgeber": "Kreis Borken, Fachbereich Geoinformation und Liegenschaftskataster",
+  "lizenz": "amtliches-werk",
+  "lizenz_angegeben": "genehmigungspflichtig",
+  "lizenz_url": null,
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": "genehmigung",
+  "plaene": 591
+ },
+ {
   "schluessel": "stadt:TELGTE",
   "land": "NW",
   "bereitsteller": "Stadt Telgte",
@@ -10308,6 +13656,18 @@
   "plaene": 340
  },
  {
+  "schluessel": "land:NW_RVR",
+  "land": "NW",
+  "bereitsteller": "Regionalverband Ruhr (RVR), Bebauungsplanübersicht Metropole Ruhr",
+  "herausgeber": "Regionalverband Ruhr (RVR), Bebauungsplanübersicht Metropole Ruhr",
+  "lizenz": "dl-de/zero-2-0",
+  "lizenz_angegeben": "dl-de/zero-2-0",
+  "lizenz_url": "https://www.govdata.de/dl-de/zero-2-0",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 324
+ },
+ {
   "schluessel": "stadt:HUECKELHOVEN",
   "land": "NW",
   "bereitsteller": "Stadt Hückelhoven",
@@ -10318,6 +13678,30 @@
   "bearbeitung_erlaubt": true,
   "einschraenkung": null,
   "plaene": 312
+ },
+ {
+  "schluessel": "adapter:siegburg",
+  "land": "NW",
+  "bereitsteller": "Stadt Siegburg",
+  "herausgeber": "Stadt Siegburg",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 304
+ },
+ {
+  "schluessel": "adapter:dueren",
+  "land": "NW",
+  "bereitsteller": "Stadt Düren",
+  "herausgeber": "Stadt Düren",
+  "lizenz": "dl-de/by-2-0",
+  "lizenz_angegeben": "dl-de/by-2-0",
+  "lizenz_url": "https://www.govdata.de/dl-de/by-2-0",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 264
  },
  {
   "schluessel": "stadt:BEDBURG",
@@ -10392,6 +13776,18 @@
   "plaene": 209
  },
  {
+  "schluessel": "stadt:LEVERKUSEN",
+  "land": "NW",
+  "bereitsteller": "Stadt Leverkusen",
+  "herausgeber": "Stadt Leverkusen",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 208
+ },
+ {
   "schluessel": "stadt:ROMMERSKIRCHEN",
   "land": "NW",
   "bereitsteller": "Gemeinde Rommerskirchen",
@@ -10402,6 +13798,18 @@
   "bearbeitung_erlaubt": true,
   "einschraenkung": null,
   "plaene": 199
+ },
+ {
+  "schluessel": "adapter:plettenberg",
+  "land": "NW",
+  "bereitsteller": "Stadt Plettenberg",
+  "herausgeber": "Stadt Plettenberg",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 193
  },
  {
   "schluessel": "stadt:METTMANN",
@@ -10426,6 +13834,18 @@
   "bearbeitung_erlaubt": true,
   "einschraenkung": null,
   "plaene": 166
+ },
+ {
+  "schluessel": "adapter:nolis_rhede",
+  "land": "NW",
+  "bereitsteller": "Stadt Rhede",
+  "herausgeber": "Stadt Rhede",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 163
  },
  {
   "schluessel": "stadt:ALFTER",
@@ -10488,6 +13908,30 @@
   "plaene": 124
  },
  {
+  "schluessel": "land:NW_BORKEN_RAESFELD",
+  "land": "NW",
+  "bereitsteller": "© Kreis Borken, Fachbereich Geoinformation und Liegenschaftskataster",
+  "herausgeber": "Kreis Borken, Fachbereich Geoinformation und Liegenschaftskataster",
+  "lizenz": "amtliches-werk",
+  "lizenz_angegeben": "genehmigungspflichtig",
+  "lizenz_url": null,
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": "genehmigung",
+  "plaene": 123
+ },
+ {
+  "schluessel": "stadt:WARSTEIN",
+  "land": "NW",
+  "bereitsteller": "Stadt Warstein",
+  "herausgeber": "Stadt Warstein",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 115
+ },
+ {
   "schluessel": "stadt:STEINHAGEN",
   "land": "NW",
   "bereitsteller": "Gemeinde Steinhagen",
@@ -10536,6 +13980,18 @@
   "plaene": 81
  },
  {
+  "schluessel": "stadt:LEVERKUSEN_VEP",
+  "land": "NW",
+  "bereitsteller": "Stadt Leverkusen",
+  "herausgeber": "Stadt Leverkusen",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 20
+ },
+ {
   "schluessel": "stadt:GUETERSLOH",
   "land": "NW",
   "bereitsteller": "Stadt Gütersloh",
@@ -10557,7 +14013,7 @@
   "lizenz_url": null,
   "bearbeitung_erlaubt": true,
   "einschraenkung": "lizenz_unklar",
-  "plaene": 14267
+  "plaene": 14266
  },
  {
   "schluessel": "land:RP_MAINZ_BINGEN",
@@ -10584,6 +14040,30 @@
   "plaene": 372
  },
  {
+  "schluessel": "vg:SELTERS_WW",
+  "land": "RP",
+  "bereitsteller": "Verbandsgemeinde Selters (Westerwald)",
+  "herausgeber": "Verbandsgemeinde Selters (Westerwald)",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 226
+ },
+ {
+  "schluessel": "vg:KANDEL",
+  "land": "RP",
+  "bereitsteller": "Verbandsgemeinde Kandel",
+  "herausgeber": "Verbandsgemeinde Kandel",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 205
+ },
+ {
   "schluessel": "stadt:KAISERSLAUTERN",
   "land": "RP",
   "bereitsteller": "Stadt Kaiserslautern, Referat Stadtentwicklung",
@@ -10594,6 +14074,18 @@
   "bearbeitung_erlaubt": true,
   "einschraenkung": "genehmigung",
   "plaene": 197
+ },
+ {
+  "schluessel": "vg:RENGSDORF_WALDBREITBACH",
+  "land": "RP",
+  "bereitsteller": "Verbandsgemeinde Rengsdorf-Waldbreitbach",
+  "herausgeber": "Verbandsgemeinde Rengsdorf-Waldbreitbach",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 189
  },
  {
   "schluessel": "stadt:NEUSTADT_WEINSTRASSE",
@@ -10677,7 +14169,19 @@
   "lizenz_url": null,
   "bearbeitung_erlaubt": true,
   "einschraenkung": "lizenz_unklar",
-  "plaene": 1143
+  "plaene": 1224
+ },
+ {
+  "schluessel": "land:SH_STEINBURG_MRH",
+  "land": "SH",
+  "bereitsteller": "Kreis Steinburg",
+  "herausgeber": "Kreis Steinburg, über die GDI der Metropolregion Hamburg",
+  "lizenz": "dl-de/by-2-0",
+  "lizenz_angegeben": "dl-de/by-2-0",
+  "lizenz_url": "https://www.govdata.de/dl-de/by-2-0",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 623
  },
  {
   "schluessel": "stadt:FLENSBURG",
@@ -10701,7 +14205,7 @@
   "lizenz_url": "",
   "bearbeitung_erlaubt": true,
   "einschraenkung": null,
-  "plaene": 374
+  "plaene": 373
  },
  {
   "schluessel": "land:SH_NORDERSTEDT",
@@ -11256,6 +14760,18 @@
   "plaene": 30
  },
  {
+  "schluessel": "adapter:nolis_wurzen",
+  "land": "SN",
+  "bereitsteller": "Stadt Wurzen",
+  "herausgeber": "Stadt Wurzen",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 8
+ },
+ {
   "schluessel": "land:ST_ARIS",
   "land": "ST",
   "bereitsteller": "ARIS — Ministerium für Infrastruktur und Digitales Sachsen-Anhalt",
@@ -11265,7 +14781,7 @@
   "lizenz_url": null,
   "bearbeitung_erlaubt": true,
   "einschraenkung": "lizenz_unklar",
-  "plaene": 5553
+  "plaene": 5559
  },
  {
   "schluessel": "code:ST",
@@ -11277,7 +14793,7 @@
   "lizenz_url": null,
   "bearbeitung_erlaubt": true,
   "einschraenkung": "lizenz_unklar",
-  "plaene": 2461
+  "plaene": 2486
  },
  {
   "schluessel": "land:ST_ALTMARK",

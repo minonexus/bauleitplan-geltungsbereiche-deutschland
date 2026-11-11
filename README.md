@@ -1,5 +1,7 @@
 # Geltungsbereiche der Bauleitpläne in Deutschland
 
+[![Downloads](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fdata.minonexus.com%2Fbauleitplan-geltungsbereiche-deutschland%2Fstatistik.json&query=%24.downloads&label=Downloads&color=blue)](https://data.minonexus.com/bauleitplan-geltungsbereiche-deutschland/statistik.json)
+
 **Nur Geometrien.** Dieses Repo enthält die räumlichen Geltungsbereiche
 geltender Bebauungspläne (§ 9 Abs. 7 BauGB): wo ein Bebauungsplan gilt.
 Es enthält **keine Planinhalte, keine amtlichen Datensätze und keine

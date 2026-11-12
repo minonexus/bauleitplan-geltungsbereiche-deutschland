@@ -8,7 +8,7 @@ Für alle Quellen gilt: **Die Daten wurden geändert** — Sachdaten entfernt, d
 
 | Schlüssel | Bereitsteller | Lizenz | Pläne |
 |---|---|---|---:|
-| `code:BB` | Brandenburg | keine-angabe | 7.886 |
+| `code:BB` | Brandenburg | keine-angabe | 7.889 |
 | `land:BB_SPREE_NEISSE` | Landkreis Spree-Neiße | keine-angabe | 185 |
 | `land:BB_PRIGNITZ` | © Landkreis Prignitz (2026), dl-de/by-2-0 | [dl-de/by-2-0](https://www.govdata.de/dl-de/by-2-0) | 146 |
 | `land:BB_PRIGNITZ_SATZUNGEN` | © Landkreis Prignitz (2026), dl-de/by-2-0 | [dl-de/by-2-0](https://www.govdata.de/dl-de/by-2-0) | 101 |
@@ -26,9 +26,9 @@ Für alle Quellen gilt: **Die Daten wurden geändert** — Sachdaten entfernt, d
 
 | Schlüssel | Bereitsteller | Lizenz | Pläne |
 |---|---|---|---:|
-| `code:BW` | Baden-Württemberg | keine-angabe | 28.650 |
+| `code:BW` | Baden-Württemberg | keine-angabe | 28.649 |
 | `stadt:STUTTGART` | Stadt Stuttgart, Amt für Stadtplanung und Wohnen (CC BY 4.0) | [cc-by-4.0](https://creativecommons.org/licenses/by/4.0/deed.de) | 3.308 |
-| `land:BW_ALB_DONAU` | Landratsamt Alb-Donau-Kreis | keine-angabe | 2.579 |
+| `land:BW_ALB_DONAU` | Landratsamt Alb-Donau-Kreis | keine-angabe | 2.578 |
 | `stadt:WAIBLINGEN` | Stadt Waiblingen | keine-angabe | 868 |
 | `kommone:107` | Stadt Aalen (über Komm.ONE) | keine-angabe | 753 |
 | `stadt:KARLSRUHE` | Stadt Karlsruhe, Liegenschaftsamt | amtliches-werk — Quelle eingeschränkt: `genehmigung` | 677 |
@@ -193,12 +193,12 @@ Für alle Quellen gilt: **Die Daten wurden geändert** — Sachdaten entfernt, d
 | `kommone:322` | Gemeinde Nordheim (über Komm.ONE) | keine-angabe | 107 |
 | `kommone:533` | Stadt Eberbach (über Komm.ONE) | keine-angabe | 107 |
 | `haleconnect:1265` | Stadt Rottweil (über hale»connect) | keine-angabe | 106 |
+| `kommone:291` | Stadt Meßkirch (über Komm.ONE) | keine-angabe | 106 |
 | `kommone:591` | Gemeinde Baltmannsweiler (über Komm.ONE) | keine-angabe | 106 |
 | `kommone:735` | Stadt Dornstetten (über Komm.ONE) | keine-angabe | 106 |
 | `haleconnect:1053` | Gemeinde Aidlingen (über hale»connect) | keine-angabe | 105 |
 | `haleconnect:1220` | Bad Wurzach (über hale»connect) | keine-angabe | 105 |
 | `kommone:116` | Gemeinde Hüttlingen (über Komm.ONE) | keine-angabe | 105 |
-| `kommone:291` | Stadt Meßkirch (über Komm.ONE) | keine-angabe | 105 |
 | `kommone:401` | Gemeinde Dettenheim (über Komm.ONE) | keine-angabe | 105 |
 | `kommone:522` | Gemeinde Walzbachtal (über Komm.ONE) | keine-angabe | 104 |
 | `kommone:527` | Gemeinde Edingen-Neckarhausen (über Komm.ONE) | keine-angabe | 104 |
@@ -576,6 +576,7 @@ Für alle Quellen gilt: **Die Daten wurden geändert** — Sachdaten entfernt, d
 | `kommone:286` | Gemeinde Mönchweiler (über Komm.ONE) | keine-angabe | 23 |
 | `kommone:582` | Gemeinde Wiesenbach (über Komm.ONE) | keine-angabe | 23 |
 | `kommone:590` | Gemeinde Immendingen an der Donau (über Komm.ONE) | keine-angabe | 23 |
+| `kommone:785.70fa9e8b` | Stadt Alpirsbach (über Komm.ONE) | keine-angabe | 23 |
 | `haleconnect:778` | Gemeinde Jungingen (über hale»connect) | keine-angabe | 22 |
 | `kommone:108` | Stadt Laichingen (über Komm.ONE) | keine-angabe | 22 |
 | `kommone:250` | Stadt Triberg (über Komm.ONE) | keine-angabe | 22 |
@@ -599,7 +600,6 @@ Für alle Quellen gilt: **Die Daten wurden geändert** — Sachdaten entfernt, d
 | `kommone:495` | Gemeinde Umkirch (über Komm.ONE) | keine-angabe | 20 |
 | `kommone:514` | Gemeinde Ostelsheim (über Komm.ONE) | keine-angabe | 20 |
 | `kommone:600` | Gemeinde Kieselbronn (über Komm.ONE) | keine-angabe | 20 |
-| `kommone:785.70fa9e8b` | Stadt Alpirsbach (über Komm.ONE) | keine-angabe | 20 |
 | `kommone:788` | Stadt Horb am Neckar (über Komm.ONE) | keine-angabe | 20 |
 | `kommone:814` | Gemeinde Fluorn-Winzeln (über Komm.ONE) | keine-angabe | 20 |
 | `kommone:344` | Gemeinde Wieden (über Komm.ONE) | keine-angabe | 19 |
@@ -761,6 +761,7 @@ Für alle Quellen gilt: **Die Daten wurden geändert** — Sachdaten entfernt, d
 | `kommone:118.b989a70f` | Stadt Owen (über Komm.ONE) | keine-angabe | 2 |
 | `kommone:171.0f08b434` | Gemeinde Bempflingen (über Komm.ONE) | keine-angabe | 2 |
 | `kommone:191` | Gemeinde Emerkingen (über Komm.ONE) | keine-angabe | 2 |
+| `kommone:191.70ceb212` | Gemeinde Emerkingen (über Komm.ONE) | keine-angabe | 2 |
 | `kommone:192` | Stadt Wendlingen am Neckar (über Komm.ONE) | keine-angabe | 2 |
 | `kommone:193` | Gemeinde Hausen am Bussen (über Komm.ONE) | keine-angabe | 2 |
 | `kommone:222.215d0a86` | Gemeinde Ebenweiler (über Komm.ONE) | keine-angabe | 2 |
@@ -825,21 +826,21 @@ Für alle Quellen gilt: **Die Daten wurden geändert** — Sachdaten entfernt, d
 
 | Schlüssel | Bereitsteller | Lizenz | Pläne |
 |---|---|---|---:|
-| `land:BY_RIWA_SAMMELEBENE` | Landratsämter und Gemeinden in Bayern (über RIWA GIS) | keine-angabe | 19.041 |
-| `code:BY_DIPLANUNG` | DiPlanung Bayern | [cc-by-nd-4.0](https://creativecommons.org/licenses/by-nd/4.0/deed.de) — **keine Bearbeitung** | 19.034 |
+| `land:BY_RIWA_SAMMELEBENE` | Landratsämter und Gemeinden in Bayern (über RIWA GIS) | keine-angabe | 20.165 |
+| `code:BY_DIPLANUNG` | DiPlanung Bayern | [cc-by-nd-4.0](https://creativecommons.org/licenses/by-nd/4.0/deed.de) — **keine Bearbeitung** | 19.048 |
 | `land:BY_RIWA_TRAUNSTEIN_LK` | Landratsamt Traunstein (über RIWA GIS) | keine-angabe | 6.498 |
 | `land:BY_RIWA_ROSENHEIM_LK` | Landratsamt Rosenheim (über RIWA GIS) | keine-angabe | 4.908 |
 | `land:BY_RIWA_MUENCHEN_LK` | Landratsamt München (über RIWA GIS) | keine-angabe | 3.430 |
 | `land:BY_RIWA_MIESBACH_LK` | Landratsamt Miesbach (über RIWA GIS) | keine-angabe | 2.809 |
 | `land:BY_RIWA_WEILHEIM_LK` | Landratsamt Weilheim-Schongau (über RIWA GIS) | keine-angabe | 2.733 |
-| `land:BY_STARNBERG` | (c) GeoLIS Landratsamt Starnberg (CC BY 4.0) | [cc-by-4.0](https://creativecommons.org/licenses/by/4.0/deed.de) | 2.462 |
+| `land:BY_STARNBERG` | (c) GeoLIS Landratsamt Starnberg (CC BY 4.0) | [cc-by-4.0](https://creativecommons.org/licenses/by/4.0/deed.de) | 2.464 |
 | `land:BY_RIWA_ERDING_LK` | Landratsamt Erding (über RIWA GIS) | keine-angabe | 2.442 |
 | `land:BY_RIWA_UNTERALLGAEU_LK` | Landratsamt Unterallgäu (über RIWA GIS) | keine-angabe | 2.196 |
-| `land:BY_RIWA_MUEHLDORF_LK` | Landratsamt Mühldorf a. Inn (über RIWA GIS) | keine-angabe | 2.155 |
+| `land:BY_RIWA_MUEHLDORF_LK` | Landratsamt Mühldorf a. Inn (über RIWA GIS) | keine-angabe | 2.156 |
 | `adapter:muenchen` | Landeshauptstadt München, Kommunalreferat – GeodatenService (dl-de/by-2-0) | [dl-de/by-2-0](https://www.govdata.de/dl-de/by-2-0) | 1.985 |
 | `land:BY_RIWA_ALTOETTING_LK` | Landratsamt Altötting (über RIWA GIS) | keine-angabe | 1.923 |
 | `land:BY_RIWA_OSTALLGAEU_LK` | Landratsamt Ostallgäu (über RIWA GIS) | keine-angabe | 1.858 |
-| `land:BY_RIWA_ANSBACH_LK` | Landratsamt Ansbach (über RIWA GIS) | keine-angabe | 1.841 |
+| `land:BY_RIWA_ANSBACH_LK` | Landratsamt Ansbach (über RIWA GIS) | keine-angabe | 1.848 |
 | `land:BY_RIWA_EBERSBERG_LK` | Landratsamt Ebersberg (über RIWA GIS) | keine-angabe | 1.745 |
 | `reg:135` | Cham | keine-angabe | 1.688 |
 | `land:BY_RIWA_AICHACH_LK` | Landratsamt Aichach-Friedberg (über RIWA GIS) | keine-angabe | 1.680 |
@@ -849,9 +850,10 @@ Für alle Quellen gilt: **Die Daten wurden geändert** — Sachdaten entfernt, d
 | `land:BY_RIWA_ROTTAL_LK` | Landratsamt Rottal-Inn (über RIWA GIS) | keine-angabe | 1.254 |
 | `reg:2` | Regensburg | keine-angabe | 1.240 |
 | `land:BY_RIWA_GARMISCH_LK` | Landratsamt Garmisch-Partenkirchen (über RIWA GIS) | keine-angabe | 1.172 |
-| `land:BY_RIWA_TOELZ_LK` | Landratsamt Bad Tölz-Wolfratshausen (über RIWA GIS) | keine-angabe | 1.064 |
+| `land:BY_RIWA_TOELZ_LK` | Landratsamt Bad Tölz-Wolfratshausen (über RIWA GIS) | keine-angabe | 1.063 |
 | `land:BY_RIWA_WUNSIEDEL_LK` | Landratsamt Wunsiedel i. Fichtelgebirge (über RIWA GIS) | keine-angabe | 1.055 |
 | `land:BY_RIWA_FUERTH_LK` | Landratsamt Fürth (über RIWA GIS) | keine-angabe | 848 |
+| `land:BY_NEUSTADT_WN` | Landratsamt Neustadt a.d. Waldnaab | keine-angabe | 819 |
 | `land:BY_RIWA_KULMBACH_LK` | Landratsamt Kulmbach (über RIWA GIS) | keine-angabe | 795 |
 | `reg:6` | Amberg-Sulzbach | keine-angabe | 782 |
 | `stadt:PASSAU` | Stadt Passau | keine-angabe | 667 |
@@ -867,7 +869,7 @@ Für alle Quellen gilt: **Die Daten wurden geändert** — Sachdaten entfernt, d
 | `land:BY_RIWA_LANDAU_GD` | Stadt Landau a. d. Isar (über RIWA GIS) | keine-angabe | 322 |
 | `land:BY_RIWA_RUHSTORF_GD` | Markt Ruhstorf a. d. Rott (über RIWA GIS) | keine-angabe | 275 |
 | `stadt:FUERTH` | Stadt Fürth | keine-angabe | 257 |
-| `land:BY_RIWA_TITTLING_VG` | Verwaltungsgemeinschaft Tittling (über RIWA GIS) | keine-angabe | 211 |
+| `land:BY_RIWA_TITTLING_VG` | Verwaltungsgemeinschaft Tittling (über RIWA GIS) | keine-angabe | 210 |
 | `land:BY_RIWA_LINDAU_GD` | Stadt Lindau (Bodensee) (über RIWA GIS) | keine-angabe | 196 |
 | `adapter:roth` | Stadt Roth | keine-angabe | 188 |
 | `stadt:MEMMINGEN` | Stadt Memmingen (CC BY 4.0) | [cc-by-4.0](https://creativecommons.org/licenses/by/4.0/deed.de) | 170 |
@@ -1067,13 +1069,15 @@ Für alle Quellen gilt: **Die Daten wurden geändert** — Sachdaten entfernt, d
 
 | Schlüssel | Bereitsteller | Lizenz | Pläne |
 |---|---|---|---:|
-| `code:MV` | Mecklenburg-Vorpommern | keine-angabe | 9.305 |
+| `code:MV` | Mecklenburg-Vorpommern | keine-angabe | 9.307 |
 
 ## NI
 
 | Schlüssel | Bereitsteller | Lizenz | Pläne |
 |---|---|---|---:|
 | `land:NI_RIWA_VIANOVIS` | Landkreise Cloppenburg, Vechta, Ammerland und Gemeinden (über RIWA GIS) | amtliches-werk — Quelle eingeschränkt: `genehmigung` | 6.195 |
+| `land:NI_OSNABRUECK_KREIS` | Landkreis Osnabrück | keine-angabe | 2.466 |
+| `adapter:cuxhaven_kreis` | Landkreis Cuxhaven | keine-angabe | 2.406 |
 | `land:NI_HARBURG` | Landkreis Harburg (ITK Harburg) | keine-angabe | 2.281 |
 | `land:NI_LEER` | Landkreis Leer | keine-angabe | 2.188 |
 | `land:NI_DIEPHOLZ` | Landkreis Diepholz | keine-angabe | 2.179 |
@@ -1082,6 +1086,7 @@ Für alle Quellen gilt: **Die Daten wurden geändert** — Sachdaten entfernt, d
 | `land:NI_AURICH` | Landkreis Aurich | keine-angabe | 1.566 |
 | `land:NI_HAMELN_PYRMONT` | Landkreis Hameln-Pyrmont und Gemeinden (CC BY-SA 4.0) | amtliches-werk — Quelle eingeschränkt: `lizenz_unklar` | 1.208 |
 | `land:NI_HEIDEKREIS` | Landkreis Heidekreis (CC BY 4.0) | [cc-by-4.0](https://creativecommons.org/licenses/by/4.0/deed.de) | 1.204 |
+| `land:NI_HILDESHEIM_KREIS` | Landkreis Hildesheim | amtliches-werk — Quelle eingeschränkt: `genehmigung` | 1.177 |
 | `reg:53` | Nienburg (Weser) | keine-angabe | 1.155 |
 | `land:NI_OSTERHOLZ` | Landkreis Osterholz (dl-de/by-2-0) | [dl-de/by-2-0](https://www.govdata.de/dl-de/by-2-0) | 1.107 |
 | `land:NI_WOLFENBUETTEL` | Landkreis Wolfenbüttel | amtliches-werk — Quelle eingeschränkt: `genehmigung` | 941 |
@@ -1140,7 +1145,7 @@ Für alle Quellen gilt: **Die Daten wurden geändert** — Sachdaten entfernt, d
 | `land:NI_WATHLINGEN` | Samtgemeinde Wathlingen | keine-angabe | 175 |
 | `govconnect:org.103.38cabe46` | Gemeinde Großenkneten (über GovConnect) | [dl-de/zero-2-0](https://www.govdata.de/dl-de/zero-2-0) | 172 |
 | `land:NI_LUENEBURG_SAMTGEMEINDE_GELLERSEN` | Samtgemeinde Gellersen (Geoportal Landkreis Lüneburg) | amtliches-werk — Quelle eingeschränkt: `nicht_kommerziell` | 170 |
-| `adapter:nolis_wedemark` | Gemeinde Wedemark | keine-angabe | 168 |
+| `adapter:nolis_wedemark` | Gemeinde Wedemark | keine-angabe | 169 |
 | `adapter:nolis_ronnenberg` | Stadt Ronnenberg | keine-angabe | 165 |
 | `land:NI_MUNSTER` | Stadt Munster | keine-angabe | 160 |
 | `govconnect:org.100.9d168fa1` | Gemeinde Hatten (über GovConnect) | [dl-de/zero-2-0](https://www.govdata.de/dl-de/zero-2-0) | 156 |
@@ -1177,7 +1182,7 @@ Für alle Quellen gilt: **Die Daten wurden geändert** — Sachdaten entfernt, d
 
 | Schlüssel | Bereitsteller | Lizenz | Pläne |
 |---|---|---|---:|
-| `code:NW` | Land NRW (2026), Datenlizenz Deutschland – Namensnennung – Version 2.0 | [dl-de/by-2-0](https://www.govdata.de/dl-de/by-2-0) | 62.573 |
+| `code:NW` | Land NRW (2026), Datenlizenz Deutschland – Namensnennung – Version 2.0 | [dl-de/by-2-0](https://www.govdata.de/dl-de/by-2-0) | 62.580 |
 | `land:NW_SATZUNGEN` | Land NRW (2026), Datenlizenz Deutschland – Namensnennung – Version 2.0 | [dl-de/by-2-0](https://www.govdata.de/dl-de/by-2-0) | 2.275 |
 | `stadt:DUESSELDORF` | Landeshauptstadt Düsseldorf | keine-angabe | 1.986 |
 | `land:NW_LIPPE` | Kreis Lippe | keine-angabe | 1.866 |
@@ -1189,6 +1194,7 @@ Für alle Quellen gilt: **Die Daten wurden geändert** — Sachdaten entfernt, d
 | `stadt:WUPPERTAL` | Stadt Wuppertal (CC BY-ND 4.0) | [cc-by-nd-4.0](https://creativecommons.org/licenses/by-nd/4.0/deed.de) — **keine Bearbeitung** | 692 |
 | `stadt:PADERBORN` | Stadt Paderborn (dl-de/by-2-0) | [dl-de/by-2-0](https://www.govdata.de/dl-de/by-2-0) | 603 |
 | `land:NW_BORKEN` | © Kreis Borken, Fachbereich Geoinformation und Liegenschaftskataster | amtliches-werk — Quelle eingeschränkt: `genehmigung` | 591 |
+| `stadt:GREVENBROICH` | Stadt Grevenbroich (dl-de/by-2-0) | [dl-de/by-2-0](https://www.govdata.de/dl-de/by-2-0) | 563 |
 | `stadt:TELGTE` | Stadt Telgte | keine-angabe | 416 |
 | `stadt:SOLINGEN` | Stadt Solingen | keine-angabe | 340 |
 | `land:NW_RVR` | Regionalverband Ruhr (RVR), Bebauungsplanübersicht Metropole Ruhr | [dl-de/zero-2-0](https://www.govdata.de/dl-de/zero-2-0) | 324 |
@@ -1225,12 +1231,12 @@ Für alle Quellen gilt: **Die Daten wurden geändert** — Sachdaten entfernt, d
 
 | Schlüssel | Bereitsteller | Lizenz | Pläne |
 |---|---|---|---:|
-| `code:RP` | GDI-RP, Bebauungspläne der Kommunen (Kommunaler Server) | amtliches-werk — Quelle eingeschränkt: `lizenz_unklar` | 14.266 |
+| `code:RP` | GDI-RP, Bebauungspläne der Kommunen (Kommunaler Server) | amtliches-werk — Quelle eingeschränkt: `lizenz_unklar` | 14.265 |
+| `adapter:bad_kreuznach` | © Landkreis Bad Kreuznach | keine-angabe | 2.108 |
 | `land:RP_MAINZ_BINGEN` | Landkreis Mainz-Bingen | keine-angabe | 2.015 |
 | `stadt:TRIER` | Stadt Trier (dl-de/by-2-0) | [dl-de/by-2-0](https://www.govdata.de/dl-de/by-2-0) | 372 |
 | `vg:SELTERS_WW` | Verbandsgemeinde Selters (Westerwald) | keine-angabe | 226 |
 | `vg:KANDEL` | Verbandsgemeinde Kandel | keine-angabe | 205 |
-| `stadt:KAISERSLAUTERN` | Stadt Kaiserslautern, Referat Stadtentwicklung | amtliches-werk — Quelle eingeschränkt: `genehmigung` | 197 |
 | `vg:RENGSDORF_WALDBREITBACH` | Verbandsgemeinde Rengsdorf-Waldbreitbach | keine-angabe | 189 |
 | `stadt:NEUSTADT_WEINSTRASSE` | Stadt Neustadt an der Weinstraße (CC BY 3.0 DE) | [cc-by-3.0-de](https://creativecommons.org/licenses/by/3.0/de/) | 129 |
 | `stadt:LANDAU_PFALZ` | Stadt Landau in der Pfalz (CC BY 3.0 DE) | [cc-by-3.0-de](https://creativecommons.org/licenses/by/3.0/de/) | 98 |
@@ -1240,13 +1246,13 @@ Für alle Quellen gilt: **Die Daten wurden geändert** — Sachdaten entfernt, d
 | Schlüssel | Bereitsteller | Lizenz | Pläne |
 |---|---|---|---:|
 | `land:SH_NORDFRIESLAND` | Kreis Nordfriesland | amtliches-werk — Quelle eingeschränkt: `genehmigung` | 3.176 |
-| `land:SH_OSTHOLSTEIN` | Kreis Ostholstein (CC BY-ND 4.0) | [cc-by-nd-4.0](https://creativecommons.org/licenses/by-nd/4.0/deed.de) — **keine Bearbeitung** | 2.763 |
+| `land:SH_OSTHOLSTEIN` | Kreis Ostholstein (CC BY-ND 4.0) | [cc-by-nd-4.0](https://creativecommons.org/licenses/by-nd/4.0/deed.de) — **keine Bearbeitung** | 2.766 |
 | `land:SH_SCHLESWIG_FLENSBURG` | Kreis Schleswig-Flensburg | keine-angabe | 2.360 |
 | `land:SH_HERZOGTUM_LAUENBURG` | Kreis Herzogtum Lauenburg | amtliches-werk — Quelle eingeschränkt: `lizenz_unklar` | 1.668 |
 | `land:SH_PLOEN` | Kreis Plön (dl-de/by-2-0) | amtliches-werk — Quelle eingeschränkt: `lizenz_unklar` | 1.224 |
 | `land:SH_STEINBURG_MRH` | Kreis Steinburg | [dl-de/by-2-0](https://www.govdata.de/dl-de/by-2-0) | 623 |
 | `stadt:FLENSBURG` | Stadt Flensburg | amtliches-werk — Quelle eingeschränkt: `lizenz_unklar` | 402 |
-| `code:SH` | Schleswig-Holstein | keine-angabe | 373 |
+| `code:SH` | Schleswig-Holstein | keine-angabe | 375 |
 | `land:SH_NORDERSTEDT` | Herausgeber: Stadtverwaltung Norderstedt (dl-de/by-2-0) | [dl-de/by-2-0](https://www.govdata.de/dl-de/by-2-0) | 363 |
 | `stadt:KIEL` | © Landeshauptstadt Kiel (CC BY 4.0) | [cc-by-4.0](https://creativecommons.org/licenses/by/4.0/deed.de) | 272 |
 | `land:SH_PREETZ` | Stadt Preetz / Kreis Plön (dl-de/by-2-0) | [dl-de/by-2-0](https://www.govdata.de/dl-de/by-2-0) | 196 |
@@ -1309,8 +1315,8 @@ Für alle Quellen gilt: **Die Daten wurden geändert** — Sachdaten entfernt, d
 
 | Schlüssel | Bereitsteller | Lizenz | Pläne |
 |---|---|---|---:|
-| `land:ST_ARIS` | ARIS — Ministerium für Infrastruktur und Digitales Sachsen-Anhalt | amtliches-werk — Quelle eingeschränkt: `lizenz_unklar` | 5.559 |
-| `code:ST` | XPlanung-Plattform Sachsen-Anhalt (LVermGeo ST); Bebauungspläne der Gemeinden | amtliches-werk — Quelle eingeschränkt: `lizenz_unklar` | 2.486 |
+| `land:ST_ARIS` | ARIS — Ministerium für Infrastruktur und Digitales Sachsen-Anhalt | amtliches-werk — Quelle eingeschränkt: `lizenz_unklar` | 5.560 |
+| `code:ST` | XPlanung-Plattform Sachsen-Anhalt (LVermGeo ST); Bebauungspläne der Gemeinden | amtliches-werk — Quelle eingeschränkt: `lizenz_unklar` | 2.487 |
 | `land:ST_ALTMARK` | Region Altmark | keine-angabe | 236 |
 
 ## TH

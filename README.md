@@ -74,6 +74,14 @@ Gemeinden. Fehlt bei uns ein Plan, heißt das nicht, dass die Gemeinde ihn
 nicht veröffentlicht — vielleicht nur über einen Weg, den wir noch nicht
 kennen. Hinweise darauf sind willkommen (siehe [Mitmachen](#mitmachen)).
 
+**Fehlt ein Plan, weil wir ihn nicht verwenden dürfen?** Das steht in
+[`ZUSTIMMUNGEN.md`](ZUSTIMMUNGEN.md) (maschinenlesbar in
+[`zustimmungen.json`](zustimmungen.json)), dieselbe Liste auch unter
+**[minonexus.com/performance/bebauungsplaene/zustimmungen](https://minonexus.com/performance/bebauungsplaene/zustimmungen)**.
+Darin stehen nur Herausgeber, die die Nutzung auf unsere Anfrage untersagt
+haben, und solche, deren Lizenz sie ausschließt — je mit Grund und ob ihre
+Geltungsbereiche hier stehen. Offene Anfragen stehen nicht darin.
+
 ## Download
 
 Die Daten liegen unter `https://data.minonexus.com/bauleitplan-geltungsbereiche-deutschland/`, je
@@ -245,6 +253,8 @@ sich keine Fläche bewegt hat.
 [`nachfolger.csv`](nachfolger.csv): `alt_id`, `neu_id`, `grund`
 (`zusammengelegt` · `geteilt` · `entfallen`), `stand`. Wer eine
 alte `plan_id` gespeichert hat, findet hier, was daraus geworden ist.
+`entfallen` heißt auch: Der Herausgeber hat die Nutzung untersagt (siehe
+[`ZUSTIMMUNGEN.md`](ZUSTIMMUNGEN.md)).
 
 ## Abgleich
 
@@ -291,6 +301,9 @@ Mehr in [`CONTRIBUTING.md`](CONTRIBUTING.md).
   Lizenzangabe unklar ist oder deren Bedingungen die Nutzung einschränken —
   vermerkt in `einschraenkung` und in [`QUELLEN.md`](QUELLEN.md). Die Daten
   dieser Pläne geben wir nicht weiter, auch nicht an Partner.
+- **Untersagt**: Hat ein Herausgeber die Nutzung auf unsere Anfrage
+  ausdrücklich untersagt, stehen seine Geltungsbereiche nicht hier, auch nicht
+  als amtliches Werk. Wer das ist, steht in [`ZUSTIMMUNGEN.md`](ZUSTIMMUNGEN.md).
 
 Keine Gewähr für Vollständigkeit und Richtigkeit. Maßgeblich ist allein die
 ausgefertigte Satzung der Gemeinde.

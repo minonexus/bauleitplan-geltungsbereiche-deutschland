@@ -1,0 +1,2165 @@
+[
+ {
+  "land": "BW",
+  "herausgeber": "Landratsamt Zollernalbkreis",
+  "gemeinden": [
+   "Bisingen",
+   "Grosselfingen",
+   "Hausen am Tann",
+   "Weilen unter den Rinnen",
+   "Winterlingen",
+   "Zimmern unter der Burg"
+  ],
+  "status": "lizenz",
+  "grund": "nicht_kommerziell",
+  "grund_text": "Nutzung nur für nicht-kommerzielle Zwecke",
+  "angefragt_am": null,
+  "antwort_am": null,
+  "antwort": null,
+  "lizenz": "nicht-kommerziell",
+  "plaene": 140,
+  "gezeigt": "umriss",
+  "open_data": true
+ },
+ {
+  "land": "BY",
+  "herausgeber": "Stadt Regensburg",
+  "gemeinden": [
+   "Regensburg"
+  ],
+  "status": "lizenz",
+  "grund": "nicht_kommerziell",
+  "grund_text": "Nutzung nur für nicht-kommerzielle Zwecke",
+  "angefragt_am": null,
+  "antwort_am": null,
+  "antwort": null,
+  "lizenz": "nicht-kommerziell",
+  "plaene": 337,
+  "gezeigt": "umriss",
+  "open_data": true
+ },
+ {
+  "land": "HE",
+  "herausgeber": "Alheim (GDI-Nordhessen)",
+  "gemeinden": [
+   "Alheim"
+  ],
+  "status": "lizenz",
+  "grund": "nicht_kommerziell",
+  "grund_text": "Nutzung nur für nicht-kommerzielle Zwecke",
+  "angefragt_am": null,
+  "antwort_am": null,
+  "antwort": null,
+  "lizenz": "nicht-kommerziell",
+  "plaene": 69,
+  "gezeigt": "umriss",
+  "open_data": true
+ },
+ {
+  "land": "HE",
+  "herausgeber": "Allendorf (Eder) (GDI-Nordhessen)",
+  "gemeinden": [
+   "Allendorf (Eder)"
+  ],
+  "status": "lizenz",
+  "grund": "nicht_kommerziell",
+  "grund_text": "Nutzung nur für nicht-kommerzielle Zwecke",
+  "angefragt_am": null,
+  "antwort_am": null,
+  "antwort": null,
+  "lizenz": "nicht-kommerziell",
+  "plaene": 75,
+  "gezeigt": "umriss",
+  "open_data": true
+ },
+ {
+  "land": "HE",
+  "herausgeber": "Amöneburg (Geoservices Landkreis Marburg-Biedenkopf)",
+  "gemeinden": [
+   "Amöneburg"
+  ],
+  "status": "lizenz",
+  "grund": "nicht_kommerziell",
+  "grund_text": "Nutzung nur für nicht-kommerzielle Zwecke",
+  "angefragt_am": null,
+  "antwort_am": null,
+  "antwort": null,
+  "lizenz": "nicht-kommerziell",
+  "plaene": 60,
+  "gezeigt": "umriss",
+  "open_data": true
+ },
+ {
+  "land": "HE",
+  "herausgeber": "Angelburg (Geoservices Landkreis Marburg-Biedenkopf)",
+  "gemeinden": [
+   "Angelburg"
+  ],
+  "status": "lizenz",
+  "grund": "nicht_kommerziell",
+  "grund_text": "Nutzung nur für nicht-kommerzielle Zwecke",
+  "angefragt_am": null,
+  "antwort_am": null,
+  "antwort": null,
+  "lizenz": "nicht-kommerziell",
+  "plaene": 32,
+  "gezeigt": "umriss",
+  "open_data": true
+ },
+ {
+  "land": "HE",
+  "herausgeber": "Bad Arolsen (GDI-Nordhessen)",
+  "gemeinden": [
+   "Bad Arolsen"
+  ],
+  "status": "lizenz",
+  "grund": "nicht_kommerziell",
+  "grund_text": "Nutzung nur für nicht-kommerzielle Zwecke",
+  "angefragt_am": null,
+  "antwort_am": null,
+  "antwort": null,
+  "lizenz": "nicht-kommerziell",
+  "plaene": 101,
+  "gezeigt": "umriss",
+  "open_data": true
+ },
+ {
+  "land": "HE",
+  "herausgeber": "Bad Endbach (Geoservices Landkreis Marburg-Biedenkopf)",
+  "gemeinden": [
+   "Bad Endbach"
+  ],
+  "status": "lizenz",
+  "grund": "nicht_kommerziell",
+  "grund_text": "Nutzung nur für nicht-kommerzielle Zwecke",
+  "angefragt_am": null,
+  "antwort_am": null,
+  "antwort": null,
+  "lizenz": "nicht-kommerziell",
+  "plaene": 72,
+  "gezeigt": "umriss",
+  "open_data": true
+ },
+ {
+  "land": "HE",
+  "herausgeber": "Bad Hersfeld (GDI-Nordhessen)",
+  "gemeinden": [
+   "Bad Hersfeld"
+  ],
+  "status": "lizenz",
+  "grund": "nicht_kommerziell",
+  "grund_text": "Nutzung nur für nicht-kommerzielle Zwecke",
+  "angefragt_am": null,
+  "antwort_am": null,
+  "antwort": null,
+  "lizenz": "nicht-kommerziell",
+  "plaene": 182,
+  "gezeigt": "umriss",
+  "open_data": true
+ },
+ {
+  "land": "HE",
+  "herausgeber": "Bad Sooden-Allendorf (GDI-Nordhessen)",
+  "gemeinden": [
+   "Bad Sooden-Allendorf"
+  ],
+  "status": "lizenz",
+  "grund": "nicht_kommerziell",
+  "grund_text": "Nutzung nur für nicht-kommerzielle Zwecke",
+  "angefragt_am": null,
+  "antwort_am": null,
+  "antwort": null,
+  "lizenz": "nicht-kommerziell",
+  "plaene": 95,
+  "gezeigt": "umriss",
+  "open_data": true
+ },
+ {
+  "land": "HE",
+  "herausgeber": "Bad Wildungen (GDI-Nordhessen)",
+  "gemeinden": [
+   "Bad Wildungen"
+  ],
+  "status": "lizenz",
+  "grund": "nicht_kommerziell",
+  "grund_text": "Nutzung nur für nicht-kommerzielle Zwecke",
+  "angefragt_am": null,
+  "antwort_am": null,
+  "antwort": null,
+  "lizenz": "nicht-kommerziell",
+  "plaene": 156,
+  "gezeigt": "umriss",
+  "open_data": true
+ },
+ {
+  "land": "HE",
+  "herausgeber": "Bad Zwesten (GDI-Nordhessen)",
+  "gemeinden": [
+   "Bad Zwesten"
+  ],
+  "status": "lizenz",
+  "grund": "nicht_kommerziell",
+  "grund_text": "Nutzung nur für nicht-kommerzielle Zwecke",
+  "angefragt_am": null,
+  "antwort_am": null,
+  "antwort": null,
+  "lizenz": "nicht-kommerziell",
+  "plaene": 49,
+  "gezeigt": "umriss",
+  "open_data": true
+ },
+ {
+  "land": "HE",
+  "herausgeber": "Battenberg (Eder) (GDI-Nordhessen)",
+  "gemeinden": [
+   "Battenberg (Eder)"
+  ],
+  "status": "lizenz",
+  "grund": "nicht_kommerziell",
+  "grund_text": "Nutzung nur für nicht-kommerzielle Zwecke",
+  "angefragt_am": null,
+  "antwort_am": null,
+  "antwort": null,
+  "lizenz": "nicht-kommerziell",
+  "plaene": 50,
+  "gezeigt": "umriss",
+  "open_data": true
+ },
+ {
+  "land": "HE",
+  "herausgeber": "Bebra (GDI-Nordhessen)",
+  "gemeinden": [
+   "Bebra"
+  ],
+  "status": "lizenz",
+  "grund": "nicht_kommerziell",
+  "grund_text": "Nutzung nur für nicht-kommerzielle Zwecke",
+  "angefragt_am": null,
+  "antwort_am": null,
+  "antwort": null,
+  "lizenz": "nicht-kommerziell",
+  "plaene": 104,
+  "gezeigt": "umriss",
+  "open_data": true
+ },
+ {
+  "land": "HE",
+  "herausgeber": "Berkatal (GDI-Nordhessen)",
+  "gemeinden": [
+   "Berkatal"
+  ],
+  "status": "lizenz",
+  "grund": "nicht_kommerziell",
+  "grund_text": "Nutzung nur für nicht-kommerzielle Zwecke",
+  "angefragt_am": null,
+  "antwort_am": null,
+  "antwort": null,
+  "lizenz": "nicht-kommerziell",
+  "plaene": 31,
+  "gezeigt": "umriss",
+  "open_data": true
+ },
+ {
+  "land": "HE",
+  "herausgeber": "Biedenkopf (Geoservices Landkreis Marburg-Biedenkopf)",
+  "gemeinden": [
+   "Biedenkopf"
+  ],
+  "status": "lizenz",
+  "grund": "nicht_kommerziell",
+  "grund_text": "Nutzung nur für nicht-kommerzielle Zwecke",
+  "angefragt_am": null,
+  "antwort_am": null,
+  "antwort": null,
+  "lizenz": "nicht-kommerziell",
+  "plaene": 76,
+  "gezeigt": "umriss",
+  "open_data": true
+ },
+ {
+  "land": "HE",
+  "herausgeber": "Borken (GDI-Nordhessen)",
+  "gemeinden": [
+   "Borken (Hessen)"
+  ],
+  "status": "lizenz",
+  "grund": "nicht_kommerziell",
+  "grund_text": "Nutzung nur für nicht-kommerzielle Zwecke",
+  "angefragt_am": null,
+  "antwort_am": null,
+  "antwort": null,
+  "lizenz": "nicht-kommerziell",
+  "plaene": 55,
+  "gezeigt": "umriss",
+  "open_data": true
+ },
+ {
+  "land": "HE",
+  "herausgeber": "Breidenbach (Geoservices Landkreis Marburg-Biedenkopf)",
+  "gemeinden": [
+   "Breidenbach"
+  ],
+  "status": "lizenz",
+  "grund": "nicht_kommerziell",
+  "grund_text": "Nutzung nur für nicht-kommerzielle Zwecke",
+  "angefragt_am": null,
+  "antwort_am": null,
+  "antwort": null,
+  "lizenz": "nicht-kommerziell",
+  "plaene": 62,
+  "gezeigt": "umriss",
+  "open_data": true
+ },
+ {
+  "land": "HE",
+  "herausgeber": "Breitenbach am Herzberg (GDI-Nordhessen)",
+  "gemeinden": [
+   "Breitenbach a.Herzberg",
+   "Niederaula"
+  ],
+  "status": "lizenz",
+  "grund": "nicht_kommerziell",
+  "grund_text": "Nutzung nur für nicht-kommerzielle Zwecke",
+  "angefragt_am": null,
+  "antwort_am": null,
+  "antwort": null,
+  "lizenz": "nicht-kommerziell",
+  "plaene": 34,
+  "gezeigt": "umriss",
+  "open_data": true
+ },
+ {
+  "land": "HE",
+  "herausgeber": "Burgwald /Frankenberg (GDI-Nordhessen)",
+  "gemeinden": [
+   "Burgwald",
+   "Frankenberg (Eder)"
+  ],
+  "status": "lizenz",
+  "grund": "nicht_kommerziell",
+  "grund_text": "Nutzung nur für nicht-kommerzielle Zwecke",
+  "angefragt_am": null,
+  "antwort_am": null,
+  "antwort": null,
+  "lizenz": "nicht-kommerziell",
+  "plaene": 55,
+  "gezeigt": "umriss",
+  "open_data": true
+ },
+ {
+  "land": "HE",
+  "herausgeber": "Burgwald /Frankenberg (GDI-Nordhessen)",
+  "gemeinden": [
+   "Frankenberg (Eder)"
+  ],
+  "status": "lizenz",
+  "grund": "nicht_kommerziell",
+  "grund_text": "Nutzung nur für nicht-kommerzielle Zwecke",
+  "angefragt_am": null,
+  "antwort_am": null,
+  "antwort": null,
+  "lizenz": "nicht-kommerziell",
+  "plaene": 132,
+  "gezeigt": "umriss",
+  "open_data": true
+ },
+ {
+  "land": "HE",
+  "herausgeber": "Cölbe (Geoservices Landkreis Marburg-Biedenkopf)",
+  "gemeinden": [
+   "Cölbe"
+  ],
+  "status": "lizenz",
+  "grund": "nicht_kommerziell",
+  "grund_text": "Nutzung nur für nicht-kommerzielle Zwecke",
+  "angefragt_am": null,
+  "antwort_am": null,
+  "antwort": null,
+  "lizenz": "nicht-kommerziell",
+  "plaene": 61,
+  "gezeigt": "umriss",
+  "open_data": true
+ },
+ {
+  "land": "HE",
+  "herausgeber": "Dautphetal (Geoservices Landkreis Marburg-Biedenkopf)",
+  "gemeinden": [
+   "Dautphetal"
+  ],
+  "status": "lizenz",
+  "grund": "nicht_kommerziell",
+  "grund_text": "Nutzung nur für nicht-kommerzielle Zwecke",
+  "angefragt_am": null,
+  "antwort_am": null,
+  "antwort": null,
+  "lizenz": "nicht-kommerziell",
+  "plaene": 108,
+  "gezeigt": "umriss",
+  "open_data": true
+ },
+ {
+  "land": "HE",
+  "herausgeber": "Diemelsee (GDI-Nordhessen)",
+  "gemeinden": [
+   "Battenberg (Eder)",
+   "Diemelsee"
+  ],
+  "status": "lizenz",
+  "grund": "nicht_kommerziell",
+  "grund_text": "Nutzung nur für nicht-kommerzielle Zwecke",
+  "angefragt_am": null,
+  "antwort_am": null,
+  "antwort": null,
+  "lizenz": "nicht-kommerziell",
+  "plaene": 70,
+  "gezeigt": "umriss",
+  "open_data": true
+ },
+ {
+  "land": "HE",
+  "herausgeber": "Diemelstadt (GDI-Nordhessen)",
+  "gemeinden": [
+   "Diemelstadt"
+  ],
+  "status": "lizenz",
+  "grund": "nicht_kommerziell",
+  "grund_text": "Nutzung nur für nicht-kommerzielle Zwecke",
+  "angefragt_am": null,
+  "antwort_am": null,
+  "antwort": null,
+  "lizenz": "nicht-kommerziell",
+  "plaene": 54,
+  "gezeigt": "umriss",
+  "open_data": true
+ },
+ {
+  "land": "HE",
+  "herausgeber": "Ebsdorfergrund (Geoservices Landkreis Marburg-Biedenkopf)",
+  "gemeinden": [
+   "Ebsdorfergrund"
+  ],
+  "status": "lizenz",
+  "grund": "nicht_kommerziell",
+  "grund_text": "Nutzung nur für nicht-kommerzielle Zwecke",
+  "angefragt_am": null,
+  "antwort_am": null,
+  "antwort": null,
+  "lizenz": "nicht-kommerziell",
+  "plaene": 91,
+  "gezeigt": "umriss",
+  "open_data": true
+ },
+ {
+  "land": "HE",
+  "herausgeber": "Edermünde (GDI-Nordhessen)",
+  "gemeinden": [
+   "Edermünde"
+  ],
+  "status": "lizenz",
+  "grund": "nicht_kommerziell",
+  "grund_text": "Nutzung nur für nicht-kommerzielle Zwecke",
+  "angefragt_am": null,
+  "antwort_am": null,
+  "antwort": null,
+  "lizenz": "nicht-kommerziell",
+  "plaene": 80,
+  "gezeigt": "umriss",
+  "open_data": true
+ },
+ {
+  "land": "HE",
+  "herausgeber": "Edertal (GDI-Nordhessen)",
+  "gemeinden": [
+   "Edertal"
+  ],
+  "status": "lizenz",
+  "grund": "nicht_kommerziell",
+  "grund_text": "Nutzung nur für nicht-kommerzielle Zwecke",
+  "angefragt_am": null,
+  "antwort_am": null,
+  "antwort": null,
+  "lizenz": "nicht-kommerziell",
+  "plaene": 60,
+  "gezeigt": "umriss",
+  "open_data": true
+ },
+ {
+  "land": "HE",
+  "herausgeber": "Eschwege (GDI-Nordhessen)",
+  "gemeinden": [
+   "Eschwege"
+  ],
+  "status": "lizenz",
+  "grund": "nicht_kommerziell",
+  "grund_text": "Nutzung nur für nicht-kommerzielle Zwecke",
+  "angefragt_am": null,
+  "antwort_am": null,
+  "antwort": null,
+  "lizenz": "nicht-kommerziell",
+  "plaene": 199,
+  "gezeigt": "umriss",
+  "open_data": true
+ },
+ {
+  "land": "HE",
+  "herausgeber": "Felsberg (GDI-Nordhessen)",
+  "gemeinden": [
+   "Felsberg"
+  ],
+  "status": "lizenz",
+  "grund": "nicht_kommerziell",
+  "grund_text": "Nutzung nur für nicht-kommerzielle Zwecke",
+  "angefragt_am": null,
+  "antwort_am": null,
+  "antwort": null,
+  "lizenz": "nicht-kommerziell",
+  "plaene": 93,
+  "gezeigt": "umriss",
+  "open_data": true
+ },
+ {
+  "land": "HE",
+  "herausgeber": "Frankenau (GDI-Nordhessen)",
+  "gemeinden": [
+   "Frankenau"
+  ],
+  "status": "lizenz",
+  "grund": "nicht_kommerziell",
+  "grund_text": "Nutzung nur für nicht-kommerzielle Zwecke",
+  "angefragt_am": null,
+  "antwort_am": null,
+  "antwort": null,
+  "lizenz": "nicht-kommerziell",
+  "plaene": 34,
+  "gezeigt": "umriss",
+  "open_data": true
+ },
+ {
+  "land": "HE",
+  "herausgeber": "Friedewald (GDI-Nordhessen)",
+  "gemeinden": [
+   "Friedewald"
+  ],
+  "status": "lizenz",
+  "grund": "nicht_kommerziell",
+  "grund_text": "Nutzung nur für nicht-kommerzielle Zwecke",
+  "angefragt_am": null,
+  "antwort_am": null,
+  "antwort": null,
+  "lizenz": "nicht-kommerziell",
+  "plaene": 44,
+  "gezeigt": "umriss",
+  "open_data": true
+ },
+ {
+  "land": "HE",
+  "herausgeber": "Frielendorf (GDI-Nordhessen)",
+  "gemeinden": [
+   "Frielendorf"
+  ],
+  "status": "lizenz",
+  "grund": "nicht_kommerziell",
+  "grund_text": "Nutzung nur für nicht-kommerzielle Zwecke",
+  "angefragt_am": null,
+  "antwort_am": null,
+  "antwort": null,
+  "lizenz": "nicht-kommerziell",
+  "plaene": 107,
+  "gezeigt": "umriss",
+  "open_data": true
+ },
+ {
+  "land": "HE",
+  "herausgeber": "Fritzlar (GDI-Nordhessen)",
+  "gemeinden": [
+   "Fritzlar"
+  ],
+  "status": "lizenz",
+  "grund": "nicht_kommerziell",
+  "grund_text": "Nutzung nur für nicht-kommerzielle Zwecke",
+  "angefragt_am": null,
+  "antwort_am": null,
+  "antwort": null,
+  "lizenz": "nicht-kommerziell",
+  "plaene": 171,
+  "gezeigt": "umriss",
+  "open_data": true
+ },
+ {
+  "land": "HE",
+  "herausgeber": "Fronhausen (Geoservices Landkreis Marburg-Biedenkopf)",
+  "gemeinden": [
+   "Fronhausen"
+  ],
+  "status": "lizenz",
+  "grund": "nicht_kommerziell",
+  "grund_text": "Nutzung nur für nicht-kommerzielle Zwecke",
+  "angefragt_am": null,
+  "antwort_am": null,
+  "antwort": null,
+  "lizenz": "nicht-kommerziell",
+  "plaene": 49,
+  "gezeigt": "umriss",
+  "open_data": true
+ },
+ {
+  "land": "HE",
+  "herausgeber": "Gemeinde Mücke (Geoportal Vogelsberg)",
+  "gemeinden": [
+   "Mücke"
+  ],
+  "status": "lizenz",
+  "grund": "nicht_kommerziell",
+  "grund_text": "Nutzung nur für nicht-kommerzielle Zwecke",
+  "angefragt_am": null,
+  "antwort_am": null,
+  "antwort": null,
+  "lizenz": "nicht-kommerziell",
+  "plaene": 121,
+  "gezeigt": "umriss",
+  "open_data": true
+ },
+ {
+  "land": "HE",
+  "herausgeber": "Gemünden (Wohra) (GDI-Nordhessen)",
+  "gemeinden": [
+   "Gemünden (Wohra)"
+  ],
+  "status": "lizenz",
+  "grund": "nicht_kommerziell",
+  "grund_text": "Nutzung nur für nicht-kommerzielle Zwecke",
+  "angefragt_am": null,
+  "antwort_am": null,
+  "antwort": null,
+  "lizenz": "nicht-kommerziell",
+  "plaene": 33,
+  "gezeigt": "umriss",
+  "open_data": true
+ },
+ {
+  "land": "HE",
+  "herausgeber": "Gilserberg (GDI-Nordhessen)",
+  "gemeinden": [
+   "Gilserberg"
+  ],
+  "status": "lizenz",
+  "grund": "nicht_kommerziell",
+  "grund_text": "Nutzung nur für nicht-kommerzielle Zwecke",
+  "angefragt_am": null,
+  "antwort_am": null,
+  "antwort": null,
+  "lizenz": "nicht-kommerziell",
+  "plaene": 25,
+  "gezeigt": "umriss",
+  "open_data": true
+ },
+ {
+  "land": "HE",
+  "herausgeber": "Gladenbach (Geoservices Landkreis Marburg-Biedenkopf)",
+  "gemeinden": [
+   "Gladenbach"
+  ],
+  "status": "lizenz",
+  "grund": "nicht_kommerziell",
+  "grund_text": "Nutzung nur für nicht-kommerzielle Zwecke",
+  "angefragt_am": null,
+  "antwort_am": null,
+  "antwort": null,
+  "lizenz": "nicht-kommerziell",
+  "plaene": 95,
+  "gezeigt": "umriss",
+  "open_data": true
+ },
+ {
+  "land": "HE",
+  "herausgeber": "Großalmerode (GDI-Nordhessen)",
+  "gemeinden": [
+   "Großalmerode"
+  ],
+  "status": "lizenz",
+  "grund": "nicht_kommerziell",
+  "grund_text": "Nutzung nur für nicht-kommerzielle Zwecke",
+  "angefragt_am": null,
+  "antwort_am": null,
+  "antwort": null,
+  "lizenz": "nicht-kommerziell",
+  "plaene": 72,
+  "gezeigt": "umriss",
+  "open_data": true
+ },
+ {
+  "land": "HE",
+  "herausgeber": "Gudensberg (GDI-Nordhessen)",
+  "gemeinden": [
+   "Gudensberg"
+  ],
+  "status": "lizenz",
+  "grund": "nicht_kommerziell",
+  "grund_text": "Nutzung nur für nicht-kommerzielle Zwecke",
+  "angefragt_am": null,
+  "antwort_am": null,
+  "antwort": null,
+  "lizenz": "nicht-kommerziell",
+  "plaene": 125,
+  "gezeigt": "umriss",
+  "open_data": true
+ },
+ {
+  "land": "HE",
+  "herausgeber": "Guxhagen (GDI-Nordhessen)",
+  "gemeinden": [
+   "Guxhagen"
+  ],
+  "status": "lizenz",
+  "grund": "nicht_kommerziell",
+  "grund_text": "Nutzung nur für nicht-kommerzielle Zwecke",
+  "angefragt_am": null,
+  "antwort_am": null,
+  "antwort": null,
+  "lizenz": "nicht-kommerziell",
+  "plaene": 55,
+  "gezeigt": "umriss",
+  "open_data": true
+ },
+ {
+  "land": "HE",
+  "herausgeber": "Haina (Kloster) (GDI-Nordhessen)",
+  "gemeinden": [
+   "Haina (Kloster)"
+  ],
+  "status": "lizenz",
+  "grund": "nicht_kommerziell",
+  "grund_text": "Nutzung nur für nicht-kommerzielle Zwecke",
+  "angefragt_am": null,
+  "antwort_am": null,
+  "antwort": null,
+  "lizenz": "nicht-kommerziell",
+  "plaene": 13,
+  "gezeigt": "umriss",
+  "open_data": true
+ },
+ {
+  "land": "HE",
+  "herausgeber": "Hatzfeld (Eder) (GDI-Nordhessen)",
+  "gemeinden": [
+   "Hatzfeld (Eder)"
+  ],
+  "status": "lizenz",
+  "grund": "nicht_kommerziell",
+  "grund_text": "Nutzung nur für nicht-kommerzielle Zwecke",
+  "angefragt_am": null,
+  "antwort_am": null,
+  "antwort": null,
+  "lizenz": "nicht-kommerziell",
+  "plaene": 30,
+  "gezeigt": "umriss",
+  "open_data": true
+ },
+ {
+  "land": "HE",
+  "herausgeber": "Hauneck (GDI-Nordhessen)",
+  "gemeinden": [
+   "Hauneck"
+  ],
+  "status": "lizenz",
+  "grund": "nicht_kommerziell",
+  "grund_text": "Nutzung nur für nicht-kommerzielle Zwecke",
+  "angefragt_am": null,
+  "antwort_am": null,
+  "antwort": null,
+  "lizenz": "nicht-kommerziell",
+  "plaene": 82,
+  "gezeigt": "umriss",
+  "open_data": true
+ },
+ {
+  "land": "HE",
+  "herausgeber": "Haunetal (GDI-Nordhessen)",
+  "gemeinden": [
+   "Haunetal"
+  ],
+  "status": "lizenz",
+  "grund": "nicht_kommerziell",
+  "grund_text": "Nutzung nur für nicht-kommerzielle Zwecke",
+  "angefragt_am": null,
+  "antwort_am": null,
+  "antwort": null,
+  "lizenz": "nicht-kommerziell",
+  "plaene": 47,
+  "gezeigt": "umriss",
+  "open_data": true
+ },
+ {
+  "land": "HE",
+  "herausgeber": "Heringen (GDI-Nordhessen)",
+  "gemeinden": [
+   "Heringen (Werra)"
+  ],
+  "status": "lizenz",
+  "grund": "nicht_kommerziell",
+  "grund_text": "Nutzung nur für nicht-kommerzielle Zwecke",
+  "angefragt_am": null,
+  "antwort_am": null,
+  "antwort": null,
+  "lizenz": "nicht-kommerziell",
+  "plaene": 78,
+  "gezeigt": "umriss",
+  "open_data": true
+ },
+ {
+  "land": "HE",
+  "herausgeber": "Herleshausen (GDI-Nordhessen)",
+  "gemeinden": [
+   "Herleshausen"
+  ],
+  "status": "lizenz",
+  "grund": "nicht_kommerziell",
+  "grund_text": "Nutzung nur für nicht-kommerzielle Zwecke",
+  "angefragt_am": null,
+  "antwort_am": null,
+  "antwort": null,
+  "lizenz": "nicht-kommerziell",
+  "plaene": 41,
+  "gezeigt": "umriss",
+  "open_data": true
+ },
+ {
+  "land": "HE",
+  "herausgeber": "Hessisch Lichtenau (GDI-Nordhessen)",
+  "gemeinden": [
+   "Hessisch Lichtenau"
+  ],
+  "status": "lizenz",
+  "grund": "nicht_kommerziell",
+  "grund_text": "Nutzung nur für nicht-kommerzielle Zwecke",
+  "angefragt_am": null,
+  "antwort_am": null,
+  "antwort": null,
+  "lizenz": "nicht-kommerziell",
+  "plaene": 102,
+  "gezeigt": "umriss",
+  "open_data": true
+ },
+ {
+  "land": "HE",
+  "herausgeber": "Hohenroda (GDI-Nordhessen)",
+  "gemeinden": [
+   "Hohenroda"
+  ],
+  "status": "lizenz",
+  "grund": "nicht_kommerziell",
+  "grund_text": "Nutzung nur für nicht-kommerzielle Zwecke",
+  "angefragt_am": null,
+  "antwort_am": null,
+  "antwort": null,
+  "lizenz": "nicht-kommerziell",
+  "plaene": 23,
+  "gezeigt": "umriss",
+  "open_data": true
+ },
+ {
+  "land": "HE",
+  "herausgeber": "Homberg (GDI-Nordhessen)",
+  "gemeinden": [
+   "Homberg (Efze)"
+  ],
+  "status": "lizenz",
+  "grund": "nicht_kommerziell",
+  "grund_text": "Nutzung nur für nicht-kommerzielle Zwecke",
+  "angefragt_am": null,
+  "antwort_am": null,
+  "antwort": null,
+  "lizenz": "nicht-kommerziell",
+  "plaene": 179,
+  "gezeigt": "umriss",
+  "open_data": true
+ },
+ {
+  "land": "HE",
+  "herausgeber": "Jesberg (GDI-Nordhessen)",
+  "gemeinden": [
+   "Jesberg"
+  ],
+  "status": "lizenz",
+  "grund": "nicht_kommerziell",
+  "grund_text": "Nutzung nur für nicht-kommerzielle Zwecke",
+  "angefragt_am": null,
+  "antwort_am": null,
+  "antwort": null,
+  "lizenz": "nicht-kommerziell",
+  "plaene": 7,
+  "gezeigt": "umriss",
+  "open_data": true
+ },
+ {
+  "land": "HE",
+  "herausgeber": "Kirchhain (Geoservices Landkreis Marburg-Biedenkopf)",
+  "gemeinden": [
+   "Kirchhain"
+  ],
+  "status": "lizenz",
+  "grund": "nicht_kommerziell",
+  "grund_text": "Nutzung nur für nicht-kommerzielle Zwecke",
+  "angefragt_am": null,
+  "antwort_am": null,
+  "antwort": null,
+  "lizenz": "nicht-kommerziell",
+  "plaene": 187,
+  "gezeigt": "umriss",
+  "open_data": true
+ },
+ {
+  "land": "HE",
+  "herausgeber": "Kirchheim (GDI-Nordhessen)",
+  "gemeinden": [
+   "Kirchheim"
+  ],
+  "status": "lizenz",
+  "grund": "nicht_kommerziell",
+  "grund_text": "Nutzung nur für nicht-kommerzielle Zwecke",
+  "angefragt_am": null,
+  "antwort_am": null,
+  "antwort": null,
+  "lizenz": "nicht-kommerziell",
+  "plaene": 64,
+  "gezeigt": "umriss",
+  "open_data": true
+ },
+ {
+  "land": "HE",
+  "herausgeber": "Knüllwald (GDI-Nordhessen)",
+  "gemeinden": [
+   "Knüllwald"
+  ],
+  "status": "lizenz",
+  "grund": "nicht_kommerziell",
+  "grund_text": "Nutzung nur für nicht-kommerzielle Zwecke",
+  "angefragt_am": null,
+  "antwort_am": null,
+  "antwort": null,
+  "lizenz": "nicht-kommerziell",
+  "plaene": 38,
+  "gezeigt": "umriss",
+  "open_data": true
+ },
+ {
+  "land": "HE",
+  "herausgeber": "Korbach (GDI-Nordhessen)",
+  "gemeinden": [
+   "Diemelsee",
+   "Korbach"
+  ],
+  "status": "lizenz",
+  "grund": "nicht_kommerziell",
+  "grund_text": "Nutzung nur für nicht-kommerzielle Zwecke",
+  "angefragt_am": null,
+  "antwort_am": null,
+  "antwort": null,
+  "lizenz": "nicht-kommerziell",
+  "plaene": 116,
+  "gezeigt": "umriss",
+  "open_data": true
+ },
+ {
+  "land": "HE",
+  "herausgeber": "Körle (GDI-Nordhessen)",
+  "gemeinden": [
+   "Körle"
+  ],
+  "status": "lizenz",
+  "grund": "nicht_kommerziell",
+  "grund_text": "Nutzung nur für nicht-kommerzielle Zwecke",
+  "angefragt_am": null,
+  "antwort_am": null,
+  "antwort": null,
+  "lizenz": "nicht-kommerziell",
+  "plaene": 31,
+  "gezeigt": "umriss",
+  "open_data": true
+ },
+ {
+  "land": "HE",
+  "herausgeber": "Lahntal (Geoservices Landkreis Marburg-Biedenkopf)",
+  "gemeinden": [
+   "Lahntal"
+  ],
+  "status": "lizenz",
+  "grund": "nicht_kommerziell",
+  "grund_text": "Nutzung nur für nicht-kommerzielle Zwecke",
+  "angefragt_am": null,
+  "antwort_am": null,
+  "antwort": null,
+  "lizenz": "nicht-kommerziell",
+  "plaene": 77,
+  "gezeigt": "umriss",
+  "open_data": true
+ },
+ {
+  "land": "HE",
+  "herausgeber": "Landkreis Gießen (Kommunen)",
+  "gemeinden": [],
+  "status": "lizenz",
+  "grund": "nicht_kommerziell",
+  "grund_text": "Nutzung nur für nicht-kommerzielle Zwecke",
+  "angefragt_am": null,
+  "antwort_am": null,
+  "antwort": null,
+  "lizenz": "nicht-kommerziell",
+  "plaene": 0,
+  "gezeigt": "nichts",
+  "open_data": false
+ },
+ {
+  "land": "HE",
+  "herausgeber": "Lichtenfels (GDI-Nordhessen)",
+  "gemeinden": [
+   "Lichtenfels"
+  ],
+  "status": "lizenz",
+  "grund": "nicht_kommerziell",
+  "grund_text": "Nutzung nur für nicht-kommerzielle Zwecke",
+  "angefragt_am": null,
+  "antwort_am": null,
+  "antwort": null,
+  "lizenz": "nicht-kommerziell",
+  "plaene": 33,
+  "gezeigt": "umriss",
+  "open_data": true
+ },
+ {
+  "land": "HE",
+  "herausgeber": "Lohra (Geoservices Landkreis Marburg-Biedenkopf)",
+  "gemeinden": [
+   "Lohra"
+  ],
+  "status": "lizenz",
+  "grund": "nicht_kommerziell",
+  "grund_text": "Nutzung nur für nicht-kommerzielle Zwecke",
+  "angefragt_am": null,
+  "antwort_am": null,
+  "antwort": null,
+  "lizenz": "nicht-kommerziell",
+  "plaene": 78,
+  "gezeigt": "umriss",
+  "open_data": true
+ },
+ {
+  "land": "HE",
+  "herausgeber": "Ludwigsau (GDI-Nordhessen)",
+  "gemeinden": [
+   "Ludwigsau"
+  ],
+  "status": "lizenz",
+  "grund": "nicht_kommerziell",
+  "grund_text": "Nutzung nur für nicht-kommerzielle Zwecke",
+  "angefragt_am": null,
+  "antwort_am": null,
+  "antwort": null,
+  "lizenz": "nicht-kommerziell",
+  "plaene": 43,
+  "gezeigt": "umriss",
+  "open_data": true
+ },
+ {
+  "land": "HE",
+  "herausgeber": "Malsfeld (GDI-Nordhessen)",
+  "gemeinden": [
+   "Knüllwald",
+   "Malsfeld"
+  ],
+  "status": "lizenz",
+  "grund": "nicht_kommerziell",
+  "grund_text": "Nutzung nur für nicht-kommerzielle Zwecke",
+  "angefragt_am": null,
+  "antwort_am": null,
+  "antwort": null,
+  "lizenz": "nicht-kommerziell",
+  "plaene": 48,
+  "gezeigt": "umriss",
+  "open_data": true
+ },
+ {
+  "land": "HE",
+  "herausgeber": "Meinhard (GDI-Nordhessen)",
+  "gemeinden": [
+   "Meinhard"
+  ],
+  "status": "lizenz",
+  "grund": "nicht_kommerziell",
+  "grund_text": "Nutzung nur für nicht-kommerzielle Zwecke",
+  "angefragt_am": null,
+  "antwort_am": null,
+  "antwort": null,
+  "lizenz": "nicht-kommerziell",
+  "plaene": 53,
+  "gezeigt": "umriss",
+  "open_data": true
+ },
+ {
+  "land": "HE",
+  "herausgeber": "Meißner (GDI-Nordhessen)",
+  "gemeinden": [
+   "Meißner"
+  ],
+  "status": "lizenz",
+  "grund": "nicht_kommerziell",
+  "grund_text": "Nutzung nur für nicht-kommerzielle Zwecke",
+  "angefragt_am": null,
+  "antwort_am": null,
+  "antwort": null,
+  "lizenz": "nicht-kommerziell",
+  "plaene": 48,
+  "gezeigt": "umriss",
+  "open_data": true
+ },
+ {
+  "land": "HE",
+  "herausgeber": "Melsungen (GDI-Nordhessen)",
+  "gemeinden": [
+   "Melsungen"
+  ],
+  "status": "lizenz",
+  "grund": "nicht_kommerziell",
+  "grund_text": "Nutzung nur für nicht-kommerzielle Zwecke",
+  "angefragt_am": null,
+  "antwort_am": null,
+  "antwort": null,
+  "lizenz": "nicht-kommerziell",
+  "plaene": 81,
+  "gezeigt": "umriss",
+  "open_data": true
+ },
+ {
+  "land": "HE",
+  "herausgeber": "Morschen (GDI-Nordhessen)",
+  "gemeinden": [
+   "Morschen"
+  ],
+  "status": "lizenz",
+  "grund": "nicht_kommerziell",
+  "grund_text": "Nutzung nur für nicht-kommerzielle Zwecke",
+  "angefragt_am": null,
+  "antwort_am": null,
+  "antwort": null,
+  "lizenz": "nicht-kommerziell",
+  "plaene": 19,
+  "gezeigt": "umriss",
+  "open_data": true
+ },
+ {
+  "land": "HE",
+  "herausgeber": "Münchhausen (Geoservices Landkreis Marburg-Biedenkopf)",
+  "gemeinden": [
+   "Münchhausen"
+  ],
+  "status": "lizenz",
+  "grund": "nicht_kommerziell",
+  "grund_text": "Nutzung nur für nicht-kommerzielle Zwecke",
+  "angefragt_am": null,
+  "antwort_am": null,
+  "antwort": null,
+  "lizenz": "nicht-kommerziell",
+  "plaene": 24,
+  "gezeigt": "umriss",
+  "open_data": true
+ },
+ {
+  "land": "HE",
+  "herausgeber": "Nentershausen (GDI-Nordhessen)",
+  "gemeinden": [
+   "Nentershausen"
+  ],
+  "status": "lizenz",
+  "grund": "nicht_kommerziell",
+  "grund_text": "Nutzung nur für nicht-kommerzielle Zwecke",
+  "angefragt_am": null,
+  "antwort_am": null,
+  "antwort": null,
+  "lizenz": "nicht-kommerziell",
+  "plaene": 21,
+  "gezeigt": "umriss",
+  "open_data": true
+ },
+ {
+  "land": "HE",
+  "herausgeber": "Neu-Eichenberg (GDI-Nordhessen)",
+  "gemeinden": [
+   "Neu-Eichenberg"
+  ],
+  "status": "lizenz",
+  "grund": "nicht_kommerziell",
+  "grund_text": "Nutzung nur für nicht-kommerzielle Zwecke",
+  "angefragt_am": null,
+  "antwort_am": null,
+  "antwort": null,
+  "lizenz": "nicht-kommerziell",
+  "plaene": 25,
+  "gezeigt": "umriss",
+  "open_data": true
+ },
+ {
+  "land": "HE",
+  "herausgeber": "Neuenstein (GDI-Nordhessen)",
+  "gemeinden": [
+   "Neuenstein"
+  ],
+  "status": "lizenz",
+  "grund": "nicht_kommerziell",
+  "grund_text": "Nutzung nur für nicht-kommerzielle Zwecke",
+  "angefragt_am": null,
+  "antwort_am": null,
+  "antwort": null,
+  "lizenz": "nicht-kommerziell",
+  "plaene": 79,
+  "gezeigt": "umriss",
+  "open_data": true
+ },
+ {
+  "land": "HE",
+  "herausgeber": "Neuental (GDI-Nordhessen)",
+  "gemeinden": [
+   "Neuental"
+  ],
+  "status": "lizenz",
+  "grund": "nicht_kommerziell",
+  "grund_text": "Nutzung nur für nicht-kommerzielle Zwecke",
+  "angefragt_am": null,
+  "antwort_am": null,
+  "antwort": null,
+  "lizenz": "nicht-kommerziell",
+  "plaene": 26,
+  "gezeigt": "umriss",
+  "open_data": true
+ },
+ {
+  "land": "HE",
+  "herausgeber": "Neukirchen (GDI-Nordhessen)",
+  "gemeinden": [
+   "Neukirchen"
+  ],
+  "status": "lizenz",
+  "grund": "nicht_kommerziell",
+  "grund_text": "Nutzung nur für nicht-kommerzielle Zwecke",
+  "angefragt_am": null,
+  "antwort_am": null,
+  "antwort": null,
+  "lizenz": "nicht-kommerziell",
+  "plaene": 98,
+  "gezeigt": "umriss",
+  "open_data": true
+ },
+ {
+  "land": "HE",
+  "herausgeber": "Neustadt (Hessen) (Geoservices Landkreis Marburg-Biedenkopf)",
+  "gemeinden": [
+   "Neustadt (Hessen)"
+  ],
+  "status": "lizenz",
+  "grund": "nicht_kommerziell",
+  "grund_text": "Nutzung nur für nicht-kommerzielle Zwecke",
+  "angefragt_am": null,
+  "antwort_am": null,
+  "antwort": null,
+  "lizenz": "nicht-kommerziell",
+  "plaene": 48,
+  "gezeigt": "umriss",
+  "open_data": true
+ },
+ {
+  "land": "HE",
+  "herausgeber": "Niedenstein (GDI-Nordhessen)",
+  "gemeinden": [
+   "Niedenstein"
+  ],
+  "status": "lizenz",
+  "grund": "nicht_kommerziell",
+  "grund_text": "Nutzung nur für nicht-kommerzielle Zwecke",
+  "angefragt_am": null,
+  "antwort_am": null,
+  "antwort": null,
+  "lizenz": "nicht-kommerziell",
+  "plaene": 65,
+  "gezeigt": "umriss",
+  "open_data": true
+ },
+ {
+  "land": "HE",
+  "herausgeber": "Niederaula (GDI-Nordhessen)",
+  "gemeinden": [
+   "Niederaula"
+  ],
+  "status": "lizenz",
+  "grund": "nicht_kommerziell",
+  "grund_text": "Nutzung nur für nicht-kommerzielle Zwecke",
+  "angefragt_am": null,
+  "antwort_am": null,
+  "antwort": null,
+  "lizenz": "nicht-kommerziell",
+  "plaene": 91,
+  "gezeigt": "umriss",
+  "open_data": true
+ },
+ {
+  "land": "HE",
+  "herausgeber": "Oberaula (GDI-Nordhessen)",
+  "gemeinden": [
+   "Oberaula"
+  ],
+  "status": "lizenz",
+  "grund": "nicht_kommerziell",
+  "grund_text": "Nutzung nur für nicht-kommerzielle Zwecke",
+  "angefragt_am": null,
+  "antwort_am": null,
+  "antwort": null,
+  "lizenz": "nicht-kommerziell",
+  "plaene": 36,
+  "gezeigt": "umriss",
+  "open_data": true
+ },
+ {
+  "land": "HE",
+  "herausgeber": "Ottrau (GDI-Nordhessen)",
+  "gemeinden": [
+   "Ottrau"
+  ],
+  "status": "lizenz",
+  "grund": "nicht_kommerziell",
+  "grund_text": "Nutzung nur für nicht-kommerzielle Zwecke",
+  "angefragt_am": null,
+  "antwort_am": null,
+  "antwort": null,
+  "lizenz": "nicht-kommerziell",
+  "plaene": 23,
+  "gezeigt": "umriss",
+  "open_data": true
+ },
+ {
+  "land": "HE",
+  "herausgeber": "Philippsthal (GDI-Nordhessen)",
+  "gemeinden": [
+   "Philippsthal (Werra)"
+  ],
+  "status": "lizenz",
+  "grund": "nicht_kommerziell",
+  "grund_text": "Nutzung nur für nicht-kommerzielle Zwecke",
+  "angefragt_am": null,
+  "antwort_am": null,
+  "antwort": null,
+  "lizenz": "nicht-kommerziell",
+  "plaene": 47,
+  "gezeigt": "umriss",
+  "open_data": true
+ },
+ {
+  "land": "HE",
+  "herausgeber": "Rauschenberg (Geoservices Landkreis Marburg-Biedenkopf)",
+  "gemeinden": [
+   "Rauschenberg"
+  ],
+  "status": "lizenz",
+  "grund": "nicht_kommerziell",
+  "grund_text": "Nutzung nur für nicht-kommerzielle Zwecke",
+  "angefragt_am": null,
+  "antwort_am": null,
+  "antwort": null,
+  "lizenz": "nicht-kommerziell",
+  "plaene": 37,
+  "gezeigt": "umriss",
+  "open_data": true
+ },
+ {
+  "land": "HE",
+  "herausgeber": "Regionalverband FrankfurtRheinMain",
+  "gemeinden": [
+   "Bad Soden am Taunus",
+   "Bruchköbel",
+   "Hanau",
+   "Hofheim am Taunus",
+   "Kelkheim (Taunus)",
+   "Kriftel",
+   "Liederbach am Taunus",
+   "Maintal",
+   "Münzenberg",
+   "Niederdorfelden",
+   "Wöllstadt"
+  ],
+  "status": "lizenz",
+  "grund": "nicht_kommerziell",
+  "grund_text": "Nutzung nur für nicht-kommerzielle Zwecke",
+  "angefragt_am": null,
+  "antwort_am": null,
+  "antwort": null,
+  "lizenz": "nicht-kommerziell",
+  "plaene": 431,
+  "gezeigt": "umriss",
+  "open_data": true
+ },
+ {
+  "land": "HE",
+  "herausgeber": "Ringgau (GDI-Nordhessen)",
+  "gemeinden": [
+   "Ringgau"
+  ],
+  "status": "lizenz",
+  "grund": "nicht_kommerziell",
+  "grund_text": "Nutzung nur für nicht-kommerzielle Zwecke",
+  "angefragt_am": null,
+  "antwort_am": null,
+  "antwort": null,
+  "lizenz": "nicht-kommerziell",
+  "plaene": 34,
+  "gezeigt": "umriss",
+  "open_data": true
+ },
+ {
+  "land": "HE",
+  "herausgeber": "Ronshausen (GDI-Nordhessen)",
+  "gemeinden": [
+   "Ronshausen"
+  ],
+  "status": "lizenz",
+  "grund": "nicht_kommerziell",
+  "grund_text": "Nutzung nur für nicht-kommerzielle Zwecke",
+  "angefragt_am": null,
+  "antwort_am": null,
+  "antwort": null,
+  "lizenz": "nicht-kommerziell",
+  "plaene": 20,
+  "gezeigt": "umriss",
+  "open_data": true
+ },
+ {
+  "land": "HE",
+  "herausgeber": "Rosenthal (GDI-Nordhessen)",
+  "gemeinden": [
+   "Rosenthal"
+  ],
+  "status": "lizenz",
+  "grund": "nicht_kommerziell",
+  "grund_text": "Nutzung nur für nicht-kommerzielle Zwecke",
+  "angefragt_am": null,
+  "antwort_am": null,
+  "antwort": null,
+  "lizenz": "nicht-kommerziell",
+  "plaene": 14,
+  "gezeigt": "umriss",
+  "open_data": true
+ },
+ {
+  "land": "HE",
+  "herausgeber": "Rotenburg an der Fulda (GDI-Nordhessen)",
+  "gemeinden": [
+   "Rotenburg a.d.Fulda"
+  ],
+  "status": "lizenz",
+  "grund": "nicht_kommerziell",
+  "grund_text": "Nutzung nur für nicht-kommerzielle Zwecke",
+  "angefragt_am": null,
+  "antwort_am": null,
+  "antwort": null,
+  "lizenz": "nicht-kommerziell",
+  "plaene": 115,
+  "gezeigt": "umriss",
+  "open_data": true
+ },
+ {
+  "land": "HE",
+  "herausgeber": "Schenklengsfeld (GDI-Nordhessen)",
+  "gemeinden": [
+   "Schenklengsfeld"
+  ],
+  "status": "lizenz",
+  "grund": "nicht_kommerziell",
+  "grund_text": "Nutzung nur für nicht-kommerzielle Zwecke",
+  "angefragt_am": null,
+  "antwort_am": null,
+  "antwort": null,
+  "lizenz": "nicht-kommerziell",
+  "plaene": 42,
+  "gezeigt": "umriss",
+  "open_data": true
+ },
+ {
+  "land": "HE",
+  "herausgeber": "Schrecksbach (GDI-Nordhessen)",
+  "gemeinden": [
+   "Schrecksbach"
+  ],
+  "status": "lizenz",
+  "grund": "nicht_kommerziell",
+  "grund_text": "Nutzung nur für nicht-kommerzielle Zwecke",
+  "angefragt_am": null,
+  "antwort_am": null,
+  "antwort": null,
+  "lizenz": "nicht-kommerziell",
+  "plaene": 21,
+  "gezeigt": "umriss",
+  "open_data": true
+ },
+ {
+  "land": "HE",
+  "herausgeber": "Schwalmstadt (GDI-Nordhessen)",
+  "gemeinden": [
+   "Schwalmstadt"
+  ],
+  "status": "lizenz",
+  "grund": "nicht_kommerziell",
+  "grund_text": "Nutzung nur für nicht-kommerzielle Zwecke",
+  "angefragt_am": null,
+  "antwort_am": null,
+  "antwort": null,
+  "lizenz": "nicht-kommerziell",
+  "plaene": 167,
+  "gezeigt": "umriss",
+  "open_data": true
+ },
+ {
+  "land": "HE",
+  "herausgeber": "Schwarzenborn (GDI-Nordhessen)",
+  "gemeinden": [
+   "Schwarzenborn"
+  ],
+  "status": "lizenz",
+  "grund": "nicht_kommerziell",
+  "grund_text": "Nutzung nur für nicht-kommerzielle Zwecke",
+  "angefragt_am": null,
+  "antwort_am": null,
+  "antwort": null,
+  "lizenz": "nicht-kommerziell",
+  "plaene": 15,
+  "gezeigt": "umriss",
+  "open_data": true
+ },
+ {
+  "land": "HE",
+  "herausgeber": "Sontra (GDI-Nordhessen)",
+  "gemeinden": [
+   "Sontra"
+  ],
+  "status": "lizenz",
+  "grund": "nicht_kommerziell",
+  "grund_text": "Nutzung nur für nicht-kommerzielle Zwecke",
+  "angefragt_am": null,
+  "antwort_am": null,
+  "antwort": null,
+  "lizenz": "nicht-kommerziell",
+  "plaene": 68,
+  "gezeigt": "umriss",
+  "open_data": true
+ },
+ {
+  "land": "HE",
+  "herausgeber": "Spangenberg (GDI-Nordhessen)",
+  "gemeinden": [
+   "Spangenberg"
+  ],
+  "status": "lizenz",
+  "grund": "nicht_kommerziell",
+  "grund_text": "Nutzung nur für nicht-kommerzielle Zwecke",
+  "angefragt_am": null,
+  "antwort_am": null,
+  "antwort": null,
+  "lizenz": "nicht-kommerziell",
+  "plaene": 49,
+  "gezeigt": "umriss",
+  "open_data": true
+ },
+ {
+  "land": "HE",
+  "herausgeber": "Stadt Alsfeld (Geoportal Vogelsberg)",
+  "gemeinden": [
+   "Alsfeld"
+  ],
+  "status": "lizenz",
+  "grund": "nicht_kommerziell",
+  "grund_text": "Nutzung nur für nicht-kommerzielle Zwecke",
+  "angefragt_am": null,
+  "antwort_am": null,
+  "antwort": null,
+  "lizenz": "nicht-kommerziell",
+  "plaene": 154,
+  "gezeigt": "umriss",
+  "open_data": true
+ },
+ {
+  "land": "HE",
+  "herausgeber": "Stadt Offenbach am Main",
+  "gemeinden": [
+   "Offenbach am Main"
+  ],
+  "status": "lizenz",
+  "grund": "nicht_kommerziell",
+  "grund_text": "Nutzung nur für nicht-kommerzielle Zwecke",
+  "angefragt_am": null,
+  "antwort_am": null,
+  "antwort": null,
+  "lizenz": "nicht-kommerziell",
+  "plaene": 0,
+  "gezeigt": "nichts",
+  "open_data": false
+ },
+ {
+  "land": "HE",
+  "herausgeber": "Stadt Ulrichstein (Geoportal Vogelsberg)",
+  "gemeinden": [
+   "Feldatal",
+   "Grebenhain",
+   "Ulrichstein"
+  ],
+  "status": "lizenz",
+  "grund": "nicht_kommerziell",
+  "grund_text": "Nutzung nur für nicht-kommerzielle Zwecke",
+  "angefragt_am": null,
+  "antwort_am": null,
+  "antwort": null,
+  "lizenz": "nicht-kommerziell",
+  "plaene": 51,
+  "gezeigt": "umriss",
+  "open_data": true
+ },
+ {
+  "land": "HE",
+  "herausgeber": "Stadtallendorf (Geoservices Landkreis Marburg-Biedenkopf)",
+  "gemeinden": [
+   "Stadtallendorf"
+  ],
+  "status": "lizenz",
+  "grund": "nicht_kommerziell",
+  "grund_text": "Nutzung nur für nicht-kommerzielle Zwecke",
+  "angefragt_am": null,
+  "antwort_am": null,
+  "antwort": null,
+  "lizenz": "nicht-kommerziell",
+  "plaene": 105,
+  "gezeigt": "umriss",
+  "open_data": true
+ },
+ {
+  "land": "HE",
+  "herausgeber": "Steffenberg (Geoservices Landkreis Marburg-Biedenkopf)",
+  "gemeinden": [
+   "Steffenberg"
+  ],
+  "status": "lizenz",
+  "grund": "nicht_kommerziell",
+  "grund_text": "Nutzung nur für nicht-kommerzielle Zwecke",
+  "angefragt_am": null,
+  "antwort_am": null,
+  "antwort": null,
+  "lizenz": "nicht-kommerziell",
+  "plaene": 40,
+  "gezeigt": "umriss",
+  "open_data": true
+ },
+ {
+  "land": "HE",
+  "herausgeber": "Twistetal (GDI-Nordhessen)",
+  "gemeinden": [
+   "Twistetal"
+  ],
+  "status": "lizenz",
+  "grund": "nicht_kommerziell",
+  "grund_text": "Nutzung nur für nicht-kommerzielle Zwecke",
+  "angefragt_am": null,
+  "antwort_am": null,
+  "antwort": null,
+  "lizenz": "nicht-kommerziell",
+  "plaene": 32,
+  "gezeigt": "umriss",
+  "open_data": true
+ },
+ {
+  "land": "HE",
+  "herausgeber": "Volkmarsen (GDI-Nordhessen)",
+  "gemeinden": [
+   "Volkmarsen"
+  ],
+  "status": "lizenz",
+  "grund": "nicht_kommerziell",
+  "grund_text": "Nutzung nur für nicht-kommerzielle Zwecke",
+  "angefragt_am": null,
+  "antwort_am": null,
+  "antwort": null,
+  "lizenz": "nicht-kommerziell",
+  "plaene": 66,
+  "gezeigt": "umriss",
+  "open_data": true
+ },
+ {
+  "land": "HE",
+  "herausgeber": "Vöhl (GDI-Nordhessen)",
+  "gemeinden": [
+   "Vöhl"
+  ],
+  "status": "lizenz",
+  "grund": "nicht_kommerziell",
+  "grund_text": "Nutzung nur für nicht-kommerzielle Zwecke",
+  "angefragt_am": null,
+  "antwort_am": null,
+  "antwort": null,
+  "lizenz": "nicht-kommerziell",
+  "plaene": 56,
+  "gezeigt": "umriss",
+  "open_data": true
+ },
+ {
+  "land": "HE",
+  "herausgeber": "Wabern (GDI-Nordhessen)",
+  "gemeinden": [
+   "Wabern"
+  ],
+  "status": "lizenz",
+  "grund": "nicht_kommerziell",
+  "grund_text": "Nutzung nur für nicht-kommerzielle Zwecke",
+  "angefragt_am": null,
+  "antwort_am": null,
+  "antwort": null,
+  "lizenz": "nicht-kommerziell",
+  "plaene": 60,
+  "gezeigt": "umriss",
+  "open_data": true
+ },
+ {
+  "land": "HE",
+  "herausgeber": "Waldeck (GDI-Nordhessen)",
+  "gemeinden": [
+   "Waldeck"
+  ],
+  "status": "lizenz",
+  "grund": "nicht_kommerziell",
+  "grund_text": "Nutzung nur für nicht-kommerzielle Zwecke",
+  "angefragt_am": null,
+  "antwort_am": null,
+  "antwort": null,
+  "lizenz": "nicht-kommerziell",
+  "plaene": 70,
+  "gezeigt": "umriss",
+  "open_data": true
+ },
+ {
+  "land": "HE",
+  "herausgeber": "Waldkappel (GDI-Nordhessen)",
+  "gemeinden": [
+   "Waldkappel"
+  ],
+  "status": "lizenz",
+  "grund": "nicht_kommerziell",
+  "grund_text": "Nutzung nur für nicht-kommerzielle Zwecke",
+  "angefragt_am": null,
+  "antwort_am": null,
+  "antwort": null,
+  "lizenz": "nicht-kommerziell",
+  "plaene": 63,
+  "gezeigt": "umriss",
+  "open_data": true
+ },
+ {
+  "land": "HE",
+  "herausgeber": "Wanfried (GDI-Nordhessen)",
+  "gemeinden": [
+   "Wanfried"
+  ],
+  "status": "lizenz",
+  "grund": "nicht_kommerziell",
+  "grund_text": "Nutzung nur für nicht-kommerzielle Zwecke",
+  "angefragt_am": null,
+  "antwort_am": null,
+  "antwort": null,
+  "lizenz": "nicht-kommerziell",
+  "plaene": 64,
+  "gezeigt": "umriss",
+  "open_data": true
+ },
+ {
+  "land": "HE",
+  "herausgeber": "Wehretal (GDI-Nordhessen)",
+  "gemeinden": [
+   "Wehretal"
+  ],
+  "status": "lizenz",
+  "grund": "nicht_kommerziell",
+  "grund_text": "Nutzung nur für nicht-kommerzielle Zwecke",
+  "angefragt_am": null,
+  "antwort_am": null,
+  "antwort": null,
+  "lizenz": "nicht-kommerziell",
+  "plaene": 50,
+  "gezeigt": "umriss",
+  "open_data": true
+ },
+ {
+  "land": "HE",
+  "herausgeber": "Weimar (Lahn) (Geoservices Landkreis Marburg-Biedenkopf)",
+  "gemeinden": [
+   "Weimar (Lahn)"
+  ],
+  "status": "lizenz",
+  "grund": "nicht_kommerziell",
+  "grund_text": "Nutzung nur für nicht-kommerzielle Zwecke",
+  "angefragt_am": null,
+  "antwort_am": null,
+  "antwort": null,
+  "lizenz": "nicht-kommerziell",
+  "plaene": 71,
+  "gezeigt": "umriss",
+  "open_data": true
+ },
+ {
+  "land": "HE",
+  "herausgeber": "Weißenborn (GDI-Nordhessen)",
+  "gemeinden": [
+   "Weißenborn"
+  ],
+  "status": "lizenz",
+  "grund": "nicht_kommerziell",
+  "grund_text": "Nutzung nur für nicht-kommerzielle Zwecke",
+  "angefragt_am": null,
+  "antwort_am": null,
+  "antwort": null,
+  "lizenz": "nicht-kommerziell",
+  "plaene": 9,
+  "gezeigt": "umriss",
+  "open_data": true
+ },
+ {
+  "land": "HE",
+  "herausgeber": "Wetter (Hessen) (Geoservices Landkreis Marburg-Biedenkopf)",
+  "gemeinden": [
+   "Wetter (Hessen)"
+  ],
+  "status": "lizenz",
+  "grund": "nicht_kommerziell",
+  "grund_text": "Nutzung nur für nicht-kommerzielle Zwecke",
+  "angefragt_am": null,
+  "antwort_am": null,
+  "antwort": null,
+  "lizenz": "nicht-kommerziell",
+  "plaene": 49,
+  "gezeigt": "umriss",
+  "open_data": true
+ },
+ {
+  "land": "HE",
+  "herausgeber": "Wildeck (GDI-Nordhessen)",
+  "gemeinden": [
+   "Wildeck"
+  ],
+  "status": "lizenz",
+  "grund": "nicht_kommerziell",
+  "grund_text": "Nutzung nur für nicht-kommerzielle Zwecke",
+  "angefragt_am": null,
+  "antwort_am": null,
+  "antwort": null,
+  "lizenz": "nicht-kommerziell",
+  "plaene": 68,
+  "gezeigt": "umriss",
+  "open_data": true
+ },
+ {
+  "land": "HE",
+  "herausgeber": "Willingen (Upland) (GDI-Nordhessen)",
+  "gemeinden": [
+   "Medebach",
+   "Willingen (Upland)"
+  ],
+  "status": "lizenz",
+  "grund": "nicht_kommerziell",
+  "grund_text": "Nutzung nur für nicht-kommerzielle Zwecke",
+  "angefragt_am": null,
+  "antwort_am": null,
+  "antwort": null,
+  "lizenz": "nicht-kommerziell",
+  "plaene": 122,
+  "gezeigt": "umriss",
+  "open_data": true
+ },
+ {
+  "land": "HE",
+  "herausgeber": "Willingshausen (GDI-Nordhessen)",
+  "gemeinden": [
+   "Willingshausen"
+  ],
+  "status": "lizenz",
+  "grund": "nicht_kommerziell",
+  "grund_text": "Nutzung nur für nicht-kommerzielle Zwecke",
+  "angefragt_am": null,
+  "antwort_am": null,
+  "antwort": null,
+  "lizenz": "nicht-kommerziell",
+  "plaene": 38,
+  "gezeigt": "umriss",
+  "open_data": true
+ },
+ {
+  "land": "HE",
+  "herausgeber": "Witzenhausen (GDI-Nordhessen)",
+  "gemeinden": [
+   "Witzenhausen"
+  ],
+  "status": "lizenz",
+  "grund": "nicht_kommerziell",
+  "grund_text": "Nutzung nur für nicht-kommerzielle Zwecke",
+  "angefragt_am": null,
+  "antwort_am": null,
+  "antwort": null,
+  "lizenz": "nicht-kommerziell",
+  "plaene": 182,
+  "gezeigt": "umriss",
+  "open_data": true
+ },
+ {
+  "land": "HE",
+  "herausgeber": "Wohratal (Geoservices Landkreis Marburg-Biedenkopf)",
+  "gemeinden": [
+   "Wohratal"
+  ],
+  "status": "lizenz",
+  "grund": "nicht_kommerziell",
+  "grund_text": "Nutzung nur für nicht-kommerzielle Zwecke",
+  "angefragt_am": null,
+  "antwort_am": null,
+  "antwort": null,
+  "lizenz": "nicht-kommerziell",
+  "plaene": 29,
+  "gezeigt": "umriss",
+  "open_data": true
+ },
+ {
+  "land": "NI",
+  "herausgeber": "Gemeinde Adendorf (Geoportal Landkreis Lüneburg)",
+  "gemeinden": [
+   "Adendorf",
+   "Lüneburg"
+  ],
+  "status": "lizenz",
+  "grund": "nicht_kommerziell",
+  "grund_text": "Nutzung nur für nicht-kommerzielle Zwecke",
+  "angefragt_am": null,
+  "antwort_am": null,
+  "antwort": null,
+  "lizenz": "nicht-kommerziell",
+  "plaene": 106,
+  "gezeigt": "umriss",
+  "open_data": true
+ },
+ {
+  "land": "NI",
+  "herausgeber": "Gemeinde Amt Neuhaus (Geoportal Landkreis Lüneburg)",
+  "gemeinden": [
+   "Amt Neuhaus"
+  ],
+  "status": "lizenz",
+  "grund": "nicht_kommerziell",
+  "grund_text": "Nutzung nur für nicht-kommerzielle Zwecke",
+  "angefragt_am": null,
+  "antwort_am": null,
+  "antwort": null,
+  "lizenz": "nicht-kommerziell",
+  "plaene": 38,
+  "gezeigt": "umriss",
+  "open_data": true
+ },
+ {
+  "land": "NI",
+  "herausgeber": "Samtgemeinde Amelinghausen (Geoportal Landkreis Lüneburg)",
+  "gemeinden": [
+   "Amelinghausen",
+   "Betzendorf",
+   "Oldendorf (Luhe)",
+   "Rehlingen",
+   "Soderstorf"
+  ],
+  "status": "lizenz",
+  "grund": "nicht_kommerziell",
+  "grund_text": "Nutzung nur für nicht-kommerzielle Zwecke",
+  "angefragt_am": null,
+  "antwort_am": null,
+  "antwort": null,
+  "lizenz": "nicht-kommerziell",
+  "plaene": 125,
+  "gezeigt": "umriss",
+  "open_data": true
+ },
+ {
+  "land": "NI",
+  "herausgeber": "Samtgemeinde Bardowick (Geoportal Landkreis Lüneburg)",
+  "gemeinden": [
+   "Bardowick",
+   "Barum",
+   "Handorf",
+   "Mechtersen",
+   "Radbruch",
+   "Vögelsen",
+   "Wittorf"
+  ],
+  "status": "lizenz",
+  "grund": "nicht_kommerziell",
+  "grund_text": "Nutzung nur für nicht-kommerzielle Zwecke",
+  "angefragt_am": null,
+  "antwort_am": null,
+  "antwort": null,
+  "lizenz": "nicht-kommerziell",
+  "plaene": 193,
+  "gezeigt": "umriss",
+  "open_data": true
+ },
+ {
+  "land": "NI",
+  "herausgeber": "Samtgemeinde Dahlenburg (Geoportal Landkreis Lüneburg)",
+  "gemeinden": [
+   "Boitze",
+   "Dahlem",
+   "Dahlenburg",
+   "Nahrendorf",
+   "Tosterglope"
+  ],
+  "status": "lizenz",
+  "grund": "nicht_kommerziell",
+  "grund_text": "Nutzung nur für nicht-kommerzielle Zwecke",
+  "angefragt_am": null,
+  "antwort_am": null,
+  "antwort": null,
+  "lizenz": "nicht-kommerziell",
+  "plaene": 85,
+  "gezeigt": "umriss",
+  "open_data": true
+ },
+ {
+  "land": "NI",
+  "herausgeber": "Samtgemeinde Gellersen (Geoportal Landkreis Lüneburg)",
+  "gemeinden": [
+   "Kirchgellersen",
+   "Reppenstedt",
+   "Südergellersen",
+   "Westergellersen"
+  ],
+  "status": "lizenz",
+  "grund": "nicht_kommerziell",
+  "grund_text": "Nutzung nur für nicht-kommerzielle Zwecke",
+  "angefragt_am": null,
+  "antwort_am": null,
+  "antwort": null,
+  "lizenz": "nicht-kommerziell",
+  "plaene": 180,
+  "gezeigt": "umriss",
+  "open_data": true
+ },
+ {
+  "land": "NI",
+  "herausgeber": "Samtgemeinde Ilmenau (Geoportal Landkreis Lüneburg)",
+  "gemeinden": [
+   "Barnstedt",
+   "Deutsch Evern",
+   "Embsen",
+   "Lüneburg",
+   "Melbeck"
+  ],
+  "status": "lizenz",
+  "grund": "nicht_kommerziell",
+  "grund_text": "Nutzung nur für nicht-kommerzielle Zwecke",
+  "angefragt_am": null,
+  "antwort_am": null,
+  "antwort": null,
+  "lizenz": "nicht-kommerziell",
+  "plaene": 162,
+  "gezeigt": "umriss",
+  "open_data": true
+ },
+ {
+  "land": "NI",
+  "herausgeber": "Samtgemeinde Ostheide (Geoportal Landkreis Lüneburg)",
+  "gemeinden": [
+   "Barendorf",
+   "Bienenbüttel",
+   "Neetze",
+   "Reinstorf",
+   "Thomasburg",
+   "Vastorf",
+   "Wendisch Evern"
+  ],
+  "status": "lizenz",
+  "grund": "nicht_kommerziell",
+  "grund_text": "Nutzung nur für nicht-kommerzielle Zwecke",
+  "angefragt_am": null,
+  "antwort_am": null,
+  "antwort": null,
+  "lizenz": "nicht-kommerziell",
+  "plaene": 123,
+  "gezeigt": "umriss",
+  "open_data": true
+ },
+ {
+  "land": "NI",
+  "herausgeber": "Samtgemeinde Scharnebeck (Geoportal Landkreis Lüneburg)",
+  "gemeinden": [
+   "Artlenburg",
+   "Brietlingen",
+   "Echem",
+   "Hittbergen",
+   "Hohnstorf (Elbe)",
+   "Lüdersburg",
+   "Rullstorf",
+   "Scharnebeck"
+  ],
+  "status": "lizenz",
+  "grund": "nicht_kommerziell",
+  "grund_text": "Nutzung nur für nicht-kommerzielle Zwecke",
+  "angefragt_am": null,
+  "antwort_am": null,
+  "antwort": null,
+  "lizenz": "nicht-kommerziell",
+  "plaene": 199,
+  "gezeigt": "umriss",
+  "open_data": true
+ },
+ {
+  "land": "NI",
+  "herausgeber": "Stadt Bleckede (Geoportal Landkreis Lüneburg)",
+  "gemeinden": [
+   "Bleckede",
+   "Dahlem"
+  ],
+  "status": "lizenz",
+  "grund": "nicht_kommerziell",
+  "grund_text": "Nutzung nur für nicht-kommerzielle Zwecke",
+  "angefragt_am": null,
+  "antwort_am": null,
+  "antwort": null,
+  "lizenz": "nicht-kommerziell",
+  "plaene": 78,
+  "gezeigt": "umriss",
+  "open_data": true
+ },
+ {
+  "land": "RP",
+  "herausgeber": "Stadt Kaiserslautern",
+  "gemeinden": [
+   "Kaiserslautern"
+  ],
+  "status": "untersagt",
+  "grund": "untersagt",
+  "grund_text": "Der Herausgeber hat der Nutzung auf Anfrage ausdrücklich nicht zugestimmt",
+  "angefragt_am": "2026-10-17",
+  "antwort_am": "2026-11-12",
+  "antwort": "Die Stadt erteilt derzeit aus internen Erwägungen keine Freigabe ihrer Daten, insbesondere des Baurechtskatasters, und untersagt deren Nutzung.",
+  "lizenz": "genehmigungspflichtig",
+  "plaene": 197,
+  "gezeigt": "umriss",
+  "open_data": false
+ },
+ {
+  "land": "ST",
+  "herausgeber": "Saalekreis, Landkreis Harz, Altmarkkreis (TBIMS)",
+  "gemeinden": [],
+  "status": "lizenz",
+  "grund": "nur_bedienstete",
+  "grund_text": "Zugang nur für Bedienstete einer Verwaltung",
+  "angefragt_am": null,
+  "antwort_am": null,
+  "antwort": null,
+  "lizenz": "genehmigungspflichtig",
+  "plaene": 0,
+  "gezeigt": "nichts",
+  "open_data": false
+ }
+]

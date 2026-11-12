@@ -9,7 +9,7 @@
   "lizenz_url": "",
   "bearbeitung_erlaubt": true,
   "einschraenkung": null,
-  "plaene": 7886
+  "plaene": 7889
  },
  {
   "schluessel": "land:BB_SPREE_NEISSE",
@@ -105,7 +105,7 @@
   "lizenz_url": "",
   "bearbeitung_erlaubt": true,
   "einschraenkung": null,
-  "plaene": 28650
+  "plaene": 28649
  },
  {
   "schluessel": "stadt:STUTTGART",
@@ -129,7 +129,7 @@
   "lizenz_url": "",
   "bearbeitung_erlaubt": true,
   "einschraenkung": null,
-  "plaene": 2579
+  "plaene": 2578
  },
  {
   "schluessel": "stadt:WAIBLINGEN",
@@ -2100,6 +2100,18 @@
   "plaene": 106
  },
  {
+  "schluessel": "kommone:291",
+  "land": "BW",
+  "bereitsteller": "Stadt Meßkirch (über Komm.ONE)",
+  "herausgeber": "Stadt Meßkirch",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 106
+ },
+ {
   "schluessel": "kommone:591",
   "land": "BW",
   "bereitsteller": "Gemeinde Baltmannsweiler (über Komm.ONE)",
@@ -2152,18 +2164,6 @@
   "land": "BW",
   "bereitsteller": "Gemeinde Hüttlingen (über Komm.ONE)",
   "herausgeber": "Gemeinde Hüttlingen",
-  "lizenz": "keine-angabe",
-  "lizenz_angegeben": "keine-angabe",
-  "lizenz_url": "",
-  "bearbeitung_erlaubt": true,
-  "einschraenkung": null,
-  "plaene": 105
- },
- {
-  "schluessel": "kommone:291",
-  "land": "BW",
-  "bereitsteller": "Stadt Meßkirch (über Komm.ONE)",
-  "herausgeber": "Stadt Meßkirch",
   "lizenz": "keine-angabe",
   "lizenz_angegeben": "keine-angabe",
   "lizenz_url": "",
@@ -6696,6 +6696,18 @@
   "plaene": 23
  },
  {
+  "schluessel": "kommone:785.70fa9e8b",
+  "land": "BW",
+  "bereitsteller": "Stadt Alpirsbach (über Komm.ONE)",
+  "herausgeber": "Stadt Alpirsbach",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 23
+ },
+ {
   "schluessel": "haleconnect:778",
   "land": "BW",
   "bereitsteller": "Gemeinde Jungingen (über hale»connect)",
@@ -6964,18 +6976,6 @@
   "land": "BW",
   "bereitsteller": "Gemeinde Kieselbronn (über Komm.ONE)",
   "herausgeber": "Gemeinde Kieselbronn",
-  "lizenz": "keine-angabe",
-  "lizenz_angegeben": "keine-angabe",
-  "lizenz_url": "",
-  "bearbeitung_erlaubt": true,
-  "einschraenkung": null,
-  "plaene": 20
- },
- {
-  "schluessel": "kommone:785.70fa9e8b",
-  "land": "BW",
-  "bereitsteller": "Stadt Alpirsbach (über Komm.ONE)",
-  "herausgeber": "Stadt Alpirsbach",
   "lizenz": "keine-angabe",
   "lizenz_angegeben": "keine-angabe",
   "lizenz_url": "",
@@ -8916,6 +8916,18 @@
   "plaene": 2
  },
  {
+  "schluessel": "kommone:191.70ceb212",
+  "land": "BW",
+  "bereitsteller": "Gemeinde Emerkingen (über Komm.ONE)",
+  "herausgeber": "Gemeinde Emerkingen",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 2
+ },
+ {
   "schluessel": "kommone:192",
   "land": "BW",
   "bereitsteller": "Stadt Wendlingen am Neckar (über Komm.ONE)",
@@ -9633,7 +9645,7 @@
   "lizenz_url": "",
   "bearbeitung_erlaubt": true,
   "einschraenkung": null,
-  "plaene": 19041
+  "plaene": 20165
  },
  {
   "schluessel": "code:BY_DIPLANUNG",
@@ -9645,7 +9657,7 @@
   "lizenz_url": "https://creativecommons.org/licenses/by-nd/4.0/deed.de",
   "bearbeitung_erlaubt": false,
   "einschraenkung": null,
-  "plaene": 19034
+  "plaene": 19048
  },
  {
   "schluessel": "land:BY_RIWA_TRAUNSTEIN_LK",
@@ -9717,7 +9729,7 @@
   "lizenz_url": "https://creativecommons.org/licenses/by/4.0/deed.de",
   "bearbeitung_erlaubt": true,
   "einschraenkung": null,
-  "plaene": 2462
+  "plaene": 2464
  },
  {
   "schluessel": "land:BY_RIWA_ERDING_LK",
@@ -9753,7 +9765,7 @@
   "lizenz_url": "",
   "bearbeitung_erlaubt": true,
   "einschraenkung": null,
-  "plaene": 2155
+  "plaene": 2156
  },
  {
   "schluessel": "adapter:muenchen",
@@ -9801,7 +9813,7 @@
   "lizenz_url": "",
   "bearbeitung_erlaubt": true,
   "einschraenkung": null,
-  "plaene": 1841
+  "plaene": 1848
  },
  {
   "schluessel": "land:BY_RIWA_EBERSBERG_LK",
@@ -9921,7 +9933,7 @@
   "lizenz_url": "",
   "bearbeitung_erlaubt": true,
   "einschraenkung": null,
-  "plaene": 1064
+  "plaene": 1063
  },
  {
   "schluessel": "land:BY_RIWA_WUNSIEDEL_LK",
@@ -9946,6 +9958,18 @@
   "bearbeitung_erlaubt": true,
   "einschraenkung": null,
   "plaene": 848
+ },
+ {
+  "schluessel": "land:BY_NEUSTADT_WN",
+  "land": "BY",
+  "bereitsteller": "Landratsamt Neustadt a.d. Waldnaab",
+  "herausgeber": "Landratsamt Neustadt a.d. Waldnaab",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 819
  },
  {
   "schluessel": "land:BY_RIWA_KULMBACH_LK",
@@ -10137,7 +10161,7 @@
   "lizenz_url": "",
   "bearbeitung_erlaubt": true,
   "einschraenkung": null,
-  "plaene": 211
+  "plaene": 210
  },
  {
   "schluessel": "land:BY_RIWA_LINDAU_GD",
@@ -12297,7 +12321,7 @@
   "lizenz_url": "",
   "bearbeitung_erlaubt": true,
   "einschraenkung": null,
-  "plaene": 9305
+  "plaene": 9307
  },
  {
   "schluessel": "land:NI_RIWA_VIANOVIS",
@@ -12310,6 +12334,30 @@
   "bearbeitung_erlaubt": true,
   "einschraenkung": "genehmigung",
   "plaene": 6195
+ },
+ {
+  "schluessel": "land:NI_OSNABRUECK_KREIS",
+  "land": "NI",
+  "bereitsteller": "Landkreis Osnabrück",
+  "herausgeber": "Landkreis Osnabrück, Fachdienst Planen und Bauen",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 2466
+ },
+ {
+  "schluessel": "adapter:cuxhaven_kreis",
+  "land": "NI",
+  "bereitsteller": "Landkreis Cuxhaven",
+  "herausgeber": "Landkreis Cuxhaven",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 2406
  },
  {
   "schluessel": "land:NI_HARBURG",
@@ -12406,6 +12454,18 @@
   "bearbeitung_erlaubt": true,
   "einschraenkung": null,
   "plaene": 1204
+ },
+ {
+  "schluessel": "land:NI_HILDESHEIM_KREIS",
+  "land": "NI",
+  "bereitsteller": "Landkreis Hildesheim",
+  "herausgeber": "Landkreis Hildesheim",
+  "lizenz": "amtliches-werk",
+  "lizenz_angegeben": "genehmigungspflichtig",
+  "lizenz_url": null,
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": "genehmigung",
+  "plaene": 1177
  },
  {
   "schluessel": "reg:53",
@@ -13113,7 +13173,7 @@
   "lizenz_url": "",
   "bearbeitung_erlaubt": true,
   "einschraenkung": null,
-  "plaene": 168
+  "plaene": 169
  },
  {
   "schluessel": "adapter:nolis_ronnenberg",
@@ -13497,7 +13557,7 @@
   "lizenz_url": "https://www.govdata.de/dl-de/by-2-0",
   "bearbeitung_erlaubt": true,
   "einschraenkung": null,
-  "plaene": 62573
+  "plaene": 62580
  },
  {
   "schluessel": "land:NW_SATZUNGEN",
@@ -13630,6 +13690,18 @@
   "bearbeitung_erlaubt": true,
   "einschraenkung": "genehmigung",
   "plaene": 591
+ },
+ {
+  "schluessel": "stadt:GREVENBROICH",
+  "land": "NW",
+  "bereitsteller": "Stadt Grevenbroich (dl-de/by-2-0)",
+  "herausgeber": "Stadt Grevenbroich",
+  "lizenz": "dl-de/by-2-0",
+  "lizenz_angegeben": "dl-de/by-2-0",
+  "lizenz_url": "https://www.govdata.de/dl-de/by-2-0",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 563
  },
  {
   "schluessel": "stadt:TELGTE",
@@ -14013,7 +14085,19 @@
   "lizenz_url": null,
   "bearbeitung_erlaubt": true,
   "einschraenkung": "lizenz_unklar",
-  "plaene": 14266
+  "plaene": 14265
+ },
+ {
+  "schluessel": "adapter:bad_kreuznach",
+  "land": "RP",
+  "bereitsteller": "© Landkreis Bad Kreuznach",
+  "herausgeber": "Kreisverwaltung Bad Kreuznach (Geoportal KH)",
+  "lizenz": "keine-angabe",
+  "lizenz_angegeben": "keine-angabe",
+  "lizenz_url": "",
+  "bearbeitung_erlaubt": true,
+  "einschraenkung": null,
+  "plaene": 2108
  },
  {
   "schluessel": "land:RP_MAINZ_BINGEN",
@@ -14062,18 +14146,6 @@
   "bearbeitung_erlaubt": true,
   "einschraenkung": null,
   "plaene": 205
- },
- {
-  "schluessel": "stadt:KAISERSLAUTERN",
-  "land": "RP",
-  "bereitsteller": "Stadt Kaiserslautern, Referat Stadtentwicklung",
-  "herausgeber": "Stadt Kaiserslautern, Referat Stadtentwicklung",
-  "lizenz": "amtliches-werk",
-  "lizenz_angegeben": "genehmigungspflichtig",
-  "lizenz_url": null,
-  "bearbeitung_erlaubt": true,
-  "einschraenkung": "genehmigung",
-  "plaene": 197
  },
  {
   "schluessel": "vg:RENGSDORF_WALDBREITBACH",
@@ -14133,7 +14205,7 @@
   "lizenz_url": "https://creativecommons.org/licenses/by-nd/4.0/deed.de",
   "bearbeitung_erlaubt": false,
   "einschraenkung": null,
-  "plaene": 2763
+  "plaene": 2766
  },
  {
   "schluessel": "land:SH_SCHLESWIG_FLENSBURG",
@@ -14205,7 +14277,7 @@
   "lizenz_url": "",
   "bearbeitung_erlaubt": true,
   "einschraenkung": null,
-  "plaene": 373
+  "plaene": 375
  },
  {
   "schluessel": "land:SH_NORDERSTEDT",
@@ -14781,7 +14853,7 @@
   "lizenz_url": null,
   "bearbeitung_erlaubt": true,
   "einschraenkung": "lizenz_unklar",
-  "plaene": 5559
+  "plaene": 5560
  },
  {
   "schluessel": "code:ST",
@@ -14793,7 +14865,7 @@
   "lizenz_url": null,
   "bearbeitung_erlaubt": true,
   "einschraenkung": "lizenz_unklar",
-  "plaene": 2486
+  "plaene": 2487
  },
  {
   "schluessel": "land:ST_ALTMARK",
